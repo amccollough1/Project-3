@@ -50,3 +50,13 @@ Connect Backend and Frontend:
 Ensure that the frontend can communicate with the backend by making HTTP requests to the defined API endpoints.
 Display Results:
 Update the UI to display search results and correlations based on user inputs.
+
+Research Questions: 
+
+1. How does a characters' identity influence their alignment(good, bad, neutral)?
+
+2.   How does the number of good vs bad characters changes over x period of years in both DC and Marvel?
+
+3.   How does the number of appearances in  DC/Marvel comics compare to the films released?
+
+4.   Film Release : Is there a particular MPA rating that peforms better over another?  
