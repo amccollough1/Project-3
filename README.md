@@ -9,7 +9,7 @@ Team Members: Hayden Jackson, A'Nayah McCollough, Libnis Sanchez, Patrick Schulz
 **Project Description:**
 -------------------------
 
-The goal of this project is to compare the Marvel Universe and the DC Universe.
+The  intent of this project is to uncover if there is a true victor in the great Marvel Vs  DC Universe debate. First we'll examine the relationship between a character's identity and alignment> how character aligment has changed over the years >Then we will explore consistencies between the number of comic appearances and  film releases> Lastly, we will determine if there is a correlation between MPA ratings and box office success.  
 
 
 Datasets to be Used:
@@ -93,7 +93,7 @@ Display Results:
 
 1. How does a characters' identity influence their alignment(good, bad, neutral)?
 
-2.   How does the number of good vs bad characters changes over x period of years in both DC and Marvel?
+2.   How does the number of good vs bad characters change over a number period of years in both DC and Marvel?
 
 3.   How does the number of appearances in  DC/Marvel comics compare to the films released?
 
