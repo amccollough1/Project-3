@@ -92,4 +92,8 @@ Update the UI to display search results and correlations based on user inputs.
 
 3.   How does the number of appearances in  DC/Marvel comics compare to the films released?
 
-4.   Film Release : Is there a particular MPA rating that peforms better over another?  
+4.   Film Release : Is there a particular MPA rating that peforms better over another?
+
+****Conclusion ****
+--------------------
+
