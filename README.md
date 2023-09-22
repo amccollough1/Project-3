@@ -1,7 +1,8 @@
 # Project-3
 # (working title) DC VS Marvel..Which is the better Universe? 
 
-https://github.com/amccollough1/Project-3/blob/anayah/Resources/archive/mdc.jpg?raw=true
+![image](https://github.com/amccollough1/Project-3/assets/133404805/44d241be-f1ec-484a-beda-e056c5439129)
+
 
 Team Members: Hayden Jackson, A'Nayah McCollough, Libnis Sanchez, Patrick Schulze
 
