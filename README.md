@@ -1,5 +1,5 @@
 # Project-3
-# (working title) DC VS Marvel..Which is the better Universe? 
+#  DC VS Marvel
 
 ![image](https://github.com/amccollough1/Project-3/assets/133404805/44d241be-f1ec-484a-beda-e056c5439129)
 
@@ -9,7 +9,7 @@ Team Members: Hayden Jackson, A'Nayah McCollough, Libnis Sanchez, Patrick Schulz
 **Project Description:**
 -------------------------
 
-The  intent of this project is to uncover if there is a true victor in the great Marvel Vs  DC Universe debate. First we'll examine the relationship between a character's identity and alignment> how character aligment has changed over the years >Then we will explore consistencies between the number of comic appearances and  film releases> Lastly, we will determine if there is a correlation between MPA ratings and box office success.  
+The  intent of this project is to uncover the differences and likeness of the  Marvel  and DC universes. First we'll examine the relationship between a character's identity and alignment> how character alignment has changed over the years >Then we will explore consistencies between the number of comic appearances and  film releases> Lastly, we will survey the correlation between MPA ratings and box office success.  
 
 
 Datasets to be Used:
