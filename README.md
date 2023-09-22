@@ -83,7 +83,8 @@ Display Results:
 
 Update the UI to display search results and correlations based on user inputs.
 
-#Research Questions: 
+**Research Questions:** 
+---------------------
 
 1. How does a characters' identity influence their alignment(good, bad, neutral)?
 
