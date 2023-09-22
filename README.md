@@ -58,7 +58,7 @@ Insert Data:
 
 Step 3: Build Backend with Python and Flask
 
-        Set Up a Flask Application:
+Set Up a Flask Application:
 
         Create a Flask application to serve as the backend for your web application.
 
@@ -70,7 +70,7 @@ Define API Endpoints:
 
 Step 4: Build Frontend with HTML5, CSS, and JavaScript
 
-        Design the Web Interface:
+Design the Web Interface:
 
         Create HTML templates for search forms and result displays using CSS for styling.
 
