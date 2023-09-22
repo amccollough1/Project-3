@@ -24,7 +24,7 @@ Step 1: Data Preparation and Analysis
 
 Load and Explore the Datasets:
 
-        ~Use Pandas in Python to load the Marvel vs DC and comic characters datasets.
+       *. Use Pandas in Python to load the Marvel vs DC and comic characters datasets.
 
   Explore the data, understand the columns, and identify key features for analysis.
 
