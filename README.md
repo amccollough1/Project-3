@@ -95,6 +95,6 @@ Display Results:
 
 4.   Film Release : Is there a particular MPA rating that peforms better over another?
 
-**Conclusion **
+Conclusion
 --------------------
 
