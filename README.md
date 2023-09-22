@@ -14,10 +14,10 @@ https://www.kaggle.com/datasets/nikhil1e9/comic-characters
 https://www.kaggle.com/datasets/jcraggy/marvel-vs-dc-imdb-rotten-tomatoes
 
 
-#Breakdown of Tasks:
+Breakdown of Tasks:
 --------------------
 
-Patrick
+**Patrick**
 
 Step 1: Data Preparation and Analysis
 
@@ -37,7 +37,7 @@ Data Analysis:
 
 Use Python for data analysis, exploring correlations, and extracting insights from the combined dataset.
 
-A'Nayah
+**A'Nayah**
 
 Step 2: Store Data in MongoDB
 
@@ -49,7 +49,7 @@ Insert Data:
 
 Use Python to insert the cleaned and preprocessed data into MongoDB for easy access and retrieval.
 
-Hayden
+**Hayden**
 
 Step 3: Build Backend with Python and Flask
 
@@ -61,7 +61,7 @@ Define API Endpoints:
 
 Define endpoints to interact with the MongoDB database, allowing querying of the comic characters and movies data.
 
-Libnis
+**Libnis**
 
 Step 4: Build Frontend with HTML5, CSS, and JavaScript
 
