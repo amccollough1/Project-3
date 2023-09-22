@@ -14,7 +14,8 @@ https://www.kaggle.com/datasets/nikhil1e9/comic-characters
 https://www.kaggle.com/datasets/jcraggy/marvel-vs-dc-imdb-rotten-tomatoes
 
 
-Breakdown of Tasks:
+#Breakdown of Tasks:
+--------------------
 
 Patrick
 
