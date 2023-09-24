@@ -1,0 +1,614 @@
+,Name,Identity,Alignment,Eyes,Hair,Sex,Alive,Appearances,First_appeared,Planet,Universe,Appearances Bins
+0,Fashion Thing,Public,Neutral,Blue,White,Female,Yes,14,Sep-1968,New Earth,DC,<100
+1,Fidel Castro,Public,Neutral,Black,White,Male,Yes,4,Jan-1988,New Earth,DC,<10
+2,Teekl,Public,Neutral,Red,Orange,Male,Yes,43,Mar-1973,New Earth,DC,<100
+3,Chantinelle,Public,Neutral,Brown,Brown,Female,Yes,9,Jul-1991,New Earth,DC,<10
+4,Jeb Turnbull,Public,Neutral,Brown,Black,Male,Yes,3,Aug-1974,New Earth,DC,<10
+5,Thelma Gordon,Public,Neutral,Brown,White,Female,No,5,Nov-1987,New Earth,DC,<10
+6,Thrax,Secret,Neutral,Green,Red,Male,No,1,Mar-1996,New Earth,DC,<10
+7,Bizarro Blue Beetle,Secret,Neutral,Blue,Brown,Male,Yes,1,Apr-2011,New Earth,DC,<10
+8,Kan-Z,Public,Neutral,Blue,Blond,Male,Yes,2,Dec-1987,New Earth,DC,<10
+9,Slade Wilson,Secret,Neutral,Blue,White,Male,Yes,336,Dec-1980,New Earth,DC,<500
+10,Harry Bailey,Public,Neutral,Blue,Brown,Male,Yes,15,Jul-2008,New Earth,DC,<100
+11,Suula,Secret,Neutral,Blue,White,Female,Yes,1,Mar-1990,New Earth,DC,<10
+12,Jill Carlyle,Secret,Neutral,Brown,Black,Female,Yes,15,Apr-2000,New Earth,DC,<100
+13,Kelor,Public,Neutral,Photocellular,Blond,Genderless,Yes,2,Feb-1988,New Earth,DC,<10
+14,Destiny,Secret,Neutral,Brown,Black,Male,Yes,27,Aug-1972,New Earth,DC,<100
+15,Lita Brand,Public,Neutral,Blue,Black,Female,Yes,8,Apr-1968,New Earth,DC,<10
+16,Nine of Spades I,Secret,Neutral,Blue,Black,Male,Yes,3,Jul-1990,New Earth,DC,<10
+17,Shor,Secret,Neutral,Green,Black,Female,Yes,3,May-2009,New Earth,DC,<10
+18,Monitor Bob,Public,Neutral,Red,Black,Male,No,33,Jul-2007,Unknown,DC,<100
+19,Xanthi,Secret,Neutral,Black,White,Male,No,5,Jan-1989,New Earth,DC,<10
+20,Helena Kyle,Public,Neutral,Green,Brown,Female,Yes,25,May-2006,New Earth,DC,<100
+21,Carrie Phillips,Public,Neutral,Brown,Black,Female,Yes,4,Jun-1988,New Earth,DC,<10
+22,Jay Young,Secret,Neutral,Grey,Blond,Male,No,3,Sep-2011,New Earth,DC,<10
+23,Caitiff,Public,Neutral,White,Brown,Male,No,2,Mar-1986,New Earth,DC,<10
+24,"Anthony Angelo, Jr.",Public,Neutral,Auburn,White,Male,Yes,14,Apr-1989,New Earth,DC,<100
+25,Noddy Toylan,Secret,Neutral,Black,Black,Male,No,30,Jun-1942,New Earth,DC,<100
+26,Lionel Luthor,Public,Neutral,Green,Brown,Male,Yes,8,Sep-2007,New Earth,DC,<10
+27,Domina Paris,Public,Neutral,White,Blond,Female,No,6,Jul-2004,New Earth,DC,<10
+28,Raelene Sharp,Secret,Neutral,Orange,Brown,Female,No,20,Jan-1993,New Earth,DC,<100
+29,Bizarro-Girl,Public,Neutral,Red,Blond,Female,Yes,6,Aug-2010,New Earth,DC,<10
+30,Athyns,Secret,Neutral,Brown,Blue,Male,Yes,9,Jan-1989,New Earth,DC,<10
+31,Bizarro Lois Lane,Public,Neutral,Black,Black,Female,Yes,8,Oct-2007,New Earth,DC,<10
+32,Madeline Benoir,Secret,Neutral,Green,Red,Female,Yes,5,Jun-2003,New Earth,DC,<10
+33,Amanda McCoy,Public,Neutral,Brown,Brown,Female,No,11,Feb-1987,New Earth,DC,<100
+34,Daedalus,Secret,Neutral,Brown,Black,Male,Yes,4,Mar-1994,New Earth,DC,<10
+35,Tigra,Public,Neutral,Black,Red,Female,No,11,Mar-1972,New Earth,DC,<100
+36,Benjamin Turner,Secret,Neutral,Brown,Black,Male,Yes,153,May-1975,New Earth,DC,<250
+37,Arnold Kaua,Secret,Neutral,Brown,Bald,Male,Yes,12,Mar-1994,New Earth,DC,<100
+38,Pamela Isley,Secret,Neutral,Green,Red,Female,Yes,286,Jun-1966,New Earth,DC,<500
+39,Antonio Silencio,Public,Neutral,Black,Black,Male,Yes,1,Oct-2005,New Earth,DC,<10
+40,Narcissus,Secret,Neutral,Black,Black,Male,Yes,6,Jun-2009,New Earth,DC,<10
+41,Bekka,Secret,Neutral,Blue,Black,Female,No,5,Mar-1984,New Earth,DC,<10
+42,Holly Marsh,Secret,Neutral,Brown,Brown,Female,Yes,10,Oct-1994,New Earth,DC,<10
+43,Nicholas Quinzel,Public,Neutral,Blue,Brown,Male,Yes,1,Feb-2010,New Earth,DC,<10
+44,Catherine Hamilton,Public,Neutral,Green,Brown,Female,Yes,2,Oct-2009,New Earth,DC,<10
+45,Eight of Spades I,Public,Neutral,Red,Blond,Female,Yes,3,Jul-1990,New Earth,DC,<10
+46,Debra Sinclair,Public,Neutral,Blue,Black,Female,Yes,1,Apr-2005,New Earth,DC,<10
+47,Richard Wilson,Public,Neutral,Blue,Brown,Male,Yes,6,Nov-1970,New Earth,DC,<10
+48,Sonia Zucco,Public,Neutral,Black,Brown,Female,Yes,13,Jun-2011,New Earth,DC,<100
+49,Jack the Ripper,Secret,Neutral,Black,Black,Male,Yes,5,Feb-1971,New Earth,DC,<10
+50,Eric Moran,Secret,Neutral,White,Black,Male,Yes,17,Jul-2010,Prime Earth,DC,<100
+51,Anton Geist,Public,Neutral,Blue,White,Male,No,16,Jul-2004,New Earth,DC,<100
+52,Cynthia of the Kindly Ones,Public,Neutral,Blue,Bald,Female,Yes,21,Mar-1969,New Earth,DC,<100
+53,Hestia,Public,Neutral,White,Black,Female,Yes,23,Feb-1987,New Earth,DC,<100
+54,Streaky,Public,Neutral,Yellow,Orange,Male,Yes,23,Nov-2006,New Earth,DC,<100
+55,Lacey Van Horn,Secret,Neutral,Green,Red,Female,Yes,8,May-1994,New Earth,DC,<10
+56,Chloe Roberts,Secret,Neutral,Blue,Blond,Female,Yes,6,Jul-2008,New Earth,DC,<10
+57,"Artemis, Goddess of the Hunt",Public,Neutral,Blue,Red,Female,Yes,51,Feb-1987,New Earth,DC,<100
+58,Urzkartaga,Secret,Neutral,Blue,Black,Unknown,Yes,4,Mar-1989,New Earth,DC,<10
+59,Jeremy Baxter,Public,Neutral,Brown,Black,Male,Yes,5,Dec-1994,New Earth,DC,<10
+60,Richard Occult,Secret,Neutral,Grey,Black,Male,Yes,125,Oct-1935,New Earth,DC,<250
+61,Sydney Happersen,Public,Neutral,Brown,Black,Male,No,39,Feb-1987,New Earth,DC,<100
+62,Carol Ferris,Public,Neutral,Blue,Black,Female,Yes,319,Oct-1959,New Earth,DC,<500
+63,Storm,Secret,Neutral,Red,Blond,Unknown,Yes,14,Oct-1967,New Earth,DC,<100
+64,Jonas Glim,Secret,Neutral,Violet,Black,Male,Yes,6,Dec-1993,New Earth,DC,<10
+65,Bizarro I,Public,Neutral,Blue,Black,Male,No,1,Dec-1986,New Earth,DC,<10
+66,Reginald Hackman,Secret,Neutral,Blue,Black,Male,Yes,8,Jan-1993,New Earth,DC,<10
+67,Clifford Baker,Public,Neutral,Green,Red,Male,No,53,Sep-1988,New Earth,DC,<100
+68,Taleb Beni Khalid,Secret,Neutral,Brown,Brown,Male,Yes,39,Jun-2006,New Earth,DC,<100
+69,Edward Nashton,Public,Neutral,Blue,Black,Male,Yes,173,Jan-1988,New Earth,DC,<250
+70,Hacken,Public,Neutral,Brown,Brown,Male,Yes,29,Apr-1996,New Earth,DC,<100
+71,Thia,Public,Neutral,Red,Red,Female,Yes,20,Apr-1985,New Earth,DC,<100
+72,Chu Jiang Impostor,Secret,Neutral,Blue,Red,Male,No,1,Jan-2010,New Earth,DC,<10
+73,Randall Truman,Public,Neutral,Blue,Brown,Male,Yes,5,Aug-1987,New Earth,DC,<10
+74,Steven Majorski,Public,Neutral,Blue,Blond,Male,Yes,10,Oct-1988,New Earth,DC,<10
+75,Wizened Sage,Secret,Neutral,Brown,Black,Male,Yes,2,Jan-1987,New Earth,DC,<10
+76,Talon,Secret,Neutral,Blue,Black,Male,Yes,4,Sep-2006,Earth-3,DC,<10
+77,Vanessa Tremont,Public,Neutral,Blue,Red,Female,Yes,3,Jun-1982,New Earth,DC,<10
+78,Nomoz,Secret,Neutral,Blue,Red,Male,Yes,8,Oct-1992,New Earth,DC,<10
+79,Jasper Evans,Public,Neutral,Brown,Brown,Male,No,8,Aug-1991,New Earth,DC,<10
+80,Garrison Slate,Public,Neutral,Brown,Black,Male,Yes,12,May-1987,New Earth,DC,<100
+81,Manuel Castillo,Non-dual,Neutral,Green,Black,Male,Yes,2,Jun-1989,New Earth,DC,<10
+82,Euan Grieve,Public,Neutral,Grey,Black,Male,No,6,Nov-2010,New Earth,DC,<10
+83,Agamemnon,Public,Neutral,Brown,No,Male,No,2,Aug-1948,New Earth,DC,<10
+84,Hera,Public,Neutral,Blue,Red,Female,Yes,57,Dec-1941,New Earth,DC,<100
+85,Rachel Keast,Non-dual,Neutral,Brown,Black,Female,Yes,14,Oct-2003,New Earth,DC,<100
+86,Seven of Spades I,Secret,Neutral,Red,Black,Male,Yes,3,Jul-1990,New Earth,DC,<10
+87,Lena Luthor II,Public,Neutral,Blue,Red,Female,Yes,26,Jan-1998,New Earth,DC,<100
+88,Lois Lane Robot,Public,Neutral,Blue,Black,Female,Yes,20,Aug-2010,New Earth,DC,<100
+89,Bizarro,Public,Neutral,Black,Black,Male,Yes,96,Sep-2000,New Earth,DC,<100
+90,Themis,Public,Neutral,Blue,Grey,Female,Yes,20,Aug-1985,New Earth,DC,<100
+91,Arbee Stoneham,Non-dual,Neutral,Black,Black,Male,Yes,2,Dec-1979,New Earth,DC,<10
+92,Alcmaeon,Secret,Neutral,Black,Black,Male,No,3,Jul-2000,New Earth,DC,<10
+93,Carl Nelligan,Public,Neutral,Blue,Black,Male,Yes,25,Apr-1983,New Earth,DC,<100
+94,Peter Robinson,Secret,Neutral,Brown,Black,Male,Yes,24,Nov-2004,New Earth,DC,<100
+95,Karen Lou Faulkner,Secret,Neutral,Brown,Brown,Female,Yes,65,Jul-1987,New Earth,DC,<100
+96,Dream,Secret,Neutral,Black,Black,Male,No,95,Jan-1989,New Earth,DC,<100
+97,Miss Bloss,Secret,Neutral,White,Black,Female,Yes,4,Jul-2009,New Earth,DC,<10
+98,Sardonyx,Public,Neutral,Blue,Black,Male,Yes,25,Apr-1983,New Earth,DC,<100
+99,Emma,Public,Neutral,Blue,Brown,Female,No,11,Jun-1985,New Earth,DC,<100
+100,Eve Eden,Secret,Neutral,Blue,Blond,Female,Yes,154,Sep-1966,New Earth,DC,<250
+101,Adrian Zapruder,Public,Neutral,Brown,White,Male,Yes,1,Mar-1995,New Earth,DC,<10
+102,Ghost Fox Killer,Secret,Neutral,White,Black,Female,Yes,21,Jun-2006,New Earth,DC,<100
+103,Miss Tribb,Public,Neutral,Red,Black,Female,Yes,1,Nov-1990,New Earth,DC,<10
+104,Slobo,Secret,Neutral,Yellow,Black,Male,Yes,16,Dec-2001,New Earth,DC,<100
+105,Zviad Baazovi,Secret,Neutral,Brown,Black,Male,Yes,16,Jan-1986,New Earth,DC,<100
+106,James Rice,Public,Neutral,Red,Bald,Male,No,7,Mar-1985,New Earth,DC,<10
+107,Mabel Martin,Secret,Neutral,Green,Blond,Female,Yes,3,Oct-2006,New Earth,DC,<10
+108,Phoebe,Public,Neutral,Black,No,Female,No,11,Aug-1985,New Earth,DC,<100
+109,Xolotl,Secret,Neutral,Blue,Black,Male,No,1,Sep-2006,New Earth,DC,<10
+110,Gog I,Public,Neutral,White,White,Male,Yes,15,Mar-2008,New Earth,DC,<100
+111,Shlagen,Public,Neutral,Orange,Brown,Male,Yes,27,Jun-1983,New Earth,DC,<100
+112,Suli Stellamaris,Public,Neutral,Black,Black,Female,Yes,1,Apr-2006,New Earth,DC,<10
+113,Djo Sut,Public,Neutral,Green,Brown,Male,Yes,2,Mar-2009,New Earth,DC,<10
+114,Bizarro Captain Marvel,Public,Neutral,Hazel,Brown,Unknown,Yes,1,Apr-2011,New Earth,DC,<10
+115,Kana,Secret,Neutral,Brown,Black,Male,Yes,4,Aug-1981,Earth-One,DC,<10
+116,Bertron,Public,Neutral,Black,No,Male,No,3,May-1994,New Earth,DC,<10
+117,Bizarro Fire,Secret,Neutral,Blue,Blue,Female,Yes,1,Dec-2010,New Earth,DC,<10
+118,Thoth,Secret,Neutral,Black,Red,Male,Yes,11,Oct-1987,New Earth,DC,<100
+119,Zero,Secret,Neutral,Green,Black,Male,Yes,2,Dec-2010,New Earth,DC,<10
+120,Jack Gold,Public,Neutral,Black,No,Male,Yes,15,Jul-1982,New Earth,DC,<100
+121,Jefferson Jackson,Public,Neutral,Brown,Black,Male,Yes,11,Jun-1982,New Earth,DC,<100
+122,Bizarro Aquaman,Public,Neutral,Brown,Blond,Male,No,1,Dec-2007,New Earth,DC,<10
+123,William Baker,Secret,Neutral,Blue,Black,Male,Yes,4,Mar-1995,New Earth,DC,<10
+124,Sea Imp,Non-dual,Neutral,Green,Black,Male,Yes,13,Apr-1965,New Earth,DC,<100
+125,Three of Spades I,Public,Neutral,Green,Red,Male,Yes,3,Jul-1990,New Earth,DC,<10
+126,Sirius,Secret,Neutral,Yellow,Red,Male,Yes,1,Mar-2001,New Earth,DC,<10
+127,Mildred of the Kindly Ones,Secret,Neutral,Brown,Brown,Female,Yes,20,Mar-1969,New Earth,DC,<100
+128,Virginia Hex,Public,Neutral,Grey,Brown,Female,No,6,Apr-1980,New Earth,DC,<10
+129,Mister Bones,Secret,Neutral,Black,White,Male,Yes,87,Jul-1985,New Earth,DC,<100
+130,J. Devlin Davenport,Public,Neutral,Blue,Blond,Male,Yes,14,May-1995,New Earth,DC,<100
+131,Giovanni Giuseppe,Secret,Neutral,Blue,Blond,Male,No,136,Jul-1960,New Earth,DC,<250
+132,Deborah Poulos,Public,Neutral,Green,Blond,Female,Yes,7,Mar-2008,New Earth,DC,<10
+133,Kitrina Falcone,Secret,Neutral,Green,Auburn,Female,Yes,11,Dec-2009,New Earth,DC,<100
+134,Esteban of the Posse,Public,Neutral,Brown,Black,Male,Yes,1,Sep-2006,New Earth,DC,<10
+135,Gillian Wahrman,Secret,Neutral,Brown,Brown,Female,Yes,7,Jun-1994,New Earth,DC,<10
+136,Roy Harper,Secret,Neutral,Green,Red,Male,Yes,654,Nov-1941,New Earth,DC,<750
+137,Christopher Dent,Secret,Neutral,Blue,Black,Male,Yes,2,Jan-1990,New Earth,DC,<10
+138,Bizarro Booster Gold,Secret,Neutral,Brown,Blond,Male,Yes,1,Dec-2010,New Earth,DC,<10
+139,Jonah McCarthy,Public,Neutral,Green,Brown,Male,No,20,Oct-2003,New Earth,DC,<100
+140,Lucien,Secret,Neutral,Brown,Brown,Male,Yes,25,Jun-1975,New Earth,DC,<100
+141,Alice Cohen II,Public,Neutral,Brown,Red,Female,Yes,19,Apr-2004,New Earth,DC,<100
+142,Dan,Public,Neutral,Black,Brown,Male,Yes,1,May-1990,New Earth,DC,<10
+143,Crackshot,Public,Neutral,Yellow,Blond,Female,Yes,3,Aug-1996,New Earth,DC,<10
+144,Xebel,Public,Neutral,Red,Grey,Male,Yes,4,Oct-1963,New Earth,DC,<10
+145,Enigma,Secret,Neutral,Green,Red,Female,Yes,12,Sep-2006,New Earth,DC,<100
+146,Lillian Worth,Secret,Neutral,Brown,Black,Female,No,9,Oct-1992,New Earth,DC,<10
+147,Victor Zehrhard,Public,Neutral,Brown,Black,Male,Yes,5,Mar-1994,New Earth,DC,<10
+148,Rene Carpenter,Public,Neutral,Blue,Brown,Female,Yes,6,Nov-2005,New Earth,DC,<10
+149,Titano,Public,Neutral,Brown,Brown,Male,No,5,Aug-1987,New Earth,DC,<10
+150,Michelle Torres,Public,Neutral,Brown,Brown,Female,Yes,5,Feb-2005,New Earth,DC,<10
+151,Honor Jackson,Public,Neutral,Brown,Black,Male,No,2,Jun-2008,New Earth,DC,<10
+152,Wendell Sharpe,Public,Neutral,Brown,Black,Male,Yes,3,Sep-1996,New Earth,DC,<10
+153,Lynn Stewart,Public,Neutral,Brown,Black,Female,Yes,31,Jul-1977,New Earth,DC,<100
+154,Hades,Public,Neutral,Black,Black,Male,Yes,32,Dec-1941,New Earth,DC,<100
+155,Charles Chase,Public,Neutral,White,Grey,Male,Yes,2,Jan-1984,New Earth,DC,<10
+156,Metron,Secret,Neutral,Blue,Black,Male,No,161,Mar-1971,New Earth,DC,<250
+157,Dionysus,Public,Neutral,Black,Red,Male,Yes,13,Dec-1941,New Earth,DC,<100
+158,Lakutha,Public,Neutral,Brown,Brown,Male,No,1,Aug-2000,New Earth,DC,<10
+159,Alessio Morandi,Public,Neutral,Green,Black,Male,Yes,6,Jun-2009,New Earth,DC,<10
+160,Natt Walls,Public,Neutral,Brown,Black,Male,No,54,Aug-1996,New Earth,DC,<100
+161,Nada,Secret,Neutral,Black,Brown,Female,Yes,8,Apr-1989,New Earth,DC,<10
+162,Matthew Cable,Secret,Neutral,Green,Black,Male,Yes,74,Nov-1972,New Earth,DC,<100
+163,Tula,Public,Neutral,Blue,Brown,Female,No,58,Jun-1967,New Earth,DC,<100
+164,Terrence Kurtzberger,Secret,Neutral,Black,Black,Male,No,14,Feb-1940,New Earth,DC,<100
+165,Travonn Williams,Secret,Neutral,Brown,No,Male,Yes,2,Aug-2004,New Earth,DC,<10
+166,Mario Falcone,Public,Neutral,Brown,Brown,Male,No,19,Dec-1999,New Earth,DC,<100
+167,"Proteus, God of Changes",Secret,Neutral,Blue,Black,Male,Yes,3,Oct-1964,New Earth,DC,<10
+168,Herakles,Public,Neutral,Brown,Brown,Male,Yes,86,Dec-1941,New Earth,DC,<100
+169,Jamm,Secret,Neutral,Green,Blond,Male,Yes,3,Jan-1993,New Earth,DC,<10
+170,Legs,Secret,Neutral,Brown,Black,Male,Yes,6,Jun-1988,New Earth,DC,<10
+171,Bethany Lee,Public,Neutral,Yellow,Black,Female,Yes,9,Apr-1999,New Earth,DC,<10
+172,Frank Halloran,Secret,Neutral,Photocellular,Blond,Male,No,5,Jun-2007,New Earth,DC,<10
+173,Adam Grant,Public,Neutral,Blue,Blond,Male,No,21,Jun-1987,New Earth,DC,<100
+174,Atrocitus,Secret,Neutral,Yellow,Black,Male,Yes,55,Jan-2008,New Earth,DC,<100
+175,Lone-Eye Lincoln,Non-dual,Neutral,Brown,No,Male,Yes,2,Aug-2008,New Earth,DC,<10
+176,Joshua Clay,Secret,Neutral,Brown,Black,Male,No,77,Sep-1977,New Earth,DC,<100
+177,Pan,Public,Neutral,Brown,Brown,Male,No,9,Oct-1982,New Earth,DC,<10
+178,Theodora Twidgett,Public,Neutral,Red,Red,Female,Yes,3,Oct-1987,New Earth,DC,<10
+179,Crassus,Secret,Neutral,Brown,Black,Male,Yes,3,Mar-1994,New Earth,DC,<10
+180,Iroque,Secret,Neutral,Blue,Purple,Female,Yes,41,Jan-2008,New Earth,DC,<100
+181,Roxanne Snow,Public,Neutral,Brown,Red,Female,Yes,1,Feb-2007,New Earth,DC,<10
+182,May Bennett,Public,Neutral,Blue,Brown,Female,Yes,33,Jul-1982,New Earth,DC,<100
+183,Adeline Kane,Secret,Neutral,Green,Brown,Female,No,68,Aug-1983,New Earth,DC,<100
+184,Randolph Ormsby,Secret,Neutral,Green,Red,Male,Yes,1,May-1966,New Earth,DC,<10
+185,Jonni DC,Public,Neutral,Brown,Red,Female,No,6,Jul-1985,New Earth,DC,<10
+186,Mervyn Pumpkinhead,Secret,Neutral,Black,Black,Male,Yes,12,May-1989,New Earth,DC,<100
+187,Timothy Ravenwind,Public,Neutral,Blue,Red,Male,Yes,11,Aug-1973,New Earth,DC,<100
+188,Kyle Abbot,Public,Neutral,Brown,Black,Male,Yes,15,Apr-2000,New Earth,DC,<100
+189,Carolyn Llewellyn,Public,Neutral,Green,White,Female,Yes,3,Oct-2006,New Earth,DC,<10
+190,Kahiri,Secret,Neutral,Brown,Black,Female,Yes,1,Sep-1989,New Earth,DC,<10
+191,Violet Robinson,Public,Neutral,Brown,Blond,Female,Yes,5,Aug-2006,New Earth,DC,<10
+192,Hawkgod,Public,Neutral,Black,Brown,Male,Yes,5,May-1994,New Earth,DC,<10
+193,Benjamin Addison,Public,Neutral,White,Bald,Male,Yes,2,Aug-2004,New Earth,DC,<10
+194,Marnie,Public,Neutral,Blue,Blond,Female,Yes,3,Aug-1997,New Earth,DC,<10
+195,Jasper Dolan,Public,Neutral,Blue,Grey,Male,No,1,Sep-1997,New Earth,DC,<10
+196,Fishy,Non-dual,Neutral,Black,Black,Male,Yes,3,Sep-2006,New Earth,DC,<10
+197,Getorix,Public,Neutral,Black,Green,Male,No,4,Apr-2009,New Earth,DC,<10
+198,Marie Payton,Public,Neutral,Blue,Blond,Female,Yes,21,Oct-1988,New Earth,DC,<100
+199,Neil Richards,Secret,Neutral,Blue,Red,Male,Yes,13,Feb-1967,New Earth,DC,<100
+200,Albart,Public,Neutral,Brown,White,Male,Yes,2,Mar-1990,New Earth,DC,<10
+201,Joseph Toledo,Public,Neutral,Photocellular,Blond,Male,No,7,Apr-1977,New Earth,DC,<10
+202,Maggie Mxyzptlk,Secret,Neutral,Brown,Brown,Female,Yes,2,Feb-2011,New Earth,DC,<10
+203,Leonard Snart,Secret,Neutral,Brown,Brown,Male,Yes,219,Jun-1957,New Earth,DC,<250
+204,Lambien,Secret,Neutral,Gold,Gold,Male,Yes,24,Jun-1981,New Earth,DC,<100
+205,Kuan Ti Impostor,Secret,Neutral,White,Brown,Male,Yes,1,Jan-2010,New Earth,DC,<10
+206,Quetzalcoatl,Secret,Neutral,Green,Blond,Male,Yes,4,Nov-1975,New Earth,DC,<10
+207,David Reid,Public,Neutral,Blue,Blond,Male,No,61,Mar-2008,New Earth,DC,<100
+208,Bizarro Perry White,Secret,Neutral,Brown,No,Male,Yes,4,Oct-2007,New Earth,DC,<10
+209,Wackyman,Secret,Neutral,Black,Brown,Male,Yes,1,Feb-1957,Earth-One,DC,<10
+210,Andrew Vinson,Public,Neutral,Blue,Black,Male,Yes,10,Feb-1978,Earth-Two,DC,<10
+211,Persephone,Public,Neutral,Blue,Black,Female,Yes,14,Oct-1985,New Earth,DC,<100
+212,Krypto the Earth Dog,Public,Neutral,Blue,White,Male,Yes,24,Jun-1993,New Earth,DC,<100
+213,Diane Dorst,Secret,Neutral,Blue,Blond,Female,Yes,1,Oct-2009,New Earth,DC,<10
+214,Daniel Dickerson,Public,Neutral,Black,Brown,Male,No,8,Apr-2000,New Earth,DC,<10
+215,Damper,Secret,Neutral,Blue,Brown,Male,Yes,9,Jun-2006,New Earth,DC,<10
+216,Bizarro Power Girl,Secret,Neutral,Blue,Blond,Female,Yes,1,Apr-2011,New Earth,DC,<10
+217,Bonita,Secret,Neutral,Brown,Blond,Female,Yes,6,Jun-2006,New Earth,DC,<10
+218,Klarion Bleak,Secret,Neutral,Black,Black,Male,Yes,62,Mar-1973,New Earth,DC,<100
+219,Jarod Dale,Public,Neutral,Brown,Blond,Male,Yes,2,May-2007,New Earth,DC,<10
+220,Rafael Harris,Public,Neutral,Brown,Black,Male,Yes,4,Feb-1995,New Earth,DC,<10
+221,Father Time,Secret,Neutral,Blue,Black,Male,Yes,22,Apr-2006,New Earth,DC,<100
+222,Crissy,Public,Neutral,Blue,Brown,Female,No,1,Jul-1990,New Earth,DC,<10
+223,Zeus,Public,Neutral,Blue,White,Male,Yes,115,Dec-1941,New Earth,DC,<250
+224,Bizarro Brainiac,Secret,Neutral,Green,Black,Male,Yes,2,Dec-2007,New Earth,DC,<10
+225,Bruno George,Public,Neutral,Red,Blond,Male,Yes,11,Sep-1984,New Earth,DC,<100
+226,Tawny Young,Public,Neutral,Blue,Black,Female,Yes,21,May-1984,New Earth,DC,<100
+227,Rachel Niamo,Secret,Neutral,Brown,Brown,Female,Yes,6,Dec-2012,Prime Earth,DC,<10
+228,Julie Robinson,Public,Neutral,Blue,Black,Female,Yes,10,May-2006,New Earth,DC,<10
+229,Amy Allen,Secret,Neutral,Blue,Brown,Female,Yes,37,Nov-2006,New Earth,DC,<100
+230,Richard Simpson,Public,Neutral,Blue,Brown,Male,Yes,8,Jul-1988,New Earth,DC,<10
+231,Eve Teschmacher,Public,Neutral,Brown,Brown,Female,Yes,1,Jan-2000,New Earth,DC,<10
+232,Joshua Hamman,Secret,Neutral,Brown,Brown,Male,Yes,8,Aug-1999,New Earth,DC,<10
+233,Cron One-Eye,Secret,Neutral,Brown,Bald,Male,Yes,5,Jan-1994,New Earth,DC,<10
+234,Eric Trautmann,Public,Neutral,Brown,Brown,Male,Yes,1,Oct-2006,New Earth,DC,<10
+235,Gerald McWilliams,Public,Neutral,Blue,Blond,Male,No,2,Apr-1996,New Earth,DC,<10
+236,Pytor Orloff,Secret,Neutral,Green,Black,Male,Yes,4,Dec-1987,New Earth,DC,<10
+237,Gemma Masters,Public,Neutral,Brown,Black,Female,Yes,7,Apr-1988,New Earth,DC,<10
+238,Durvella Cwion,Public,Neutral,Blue,Blond,Female,Yes,3,Dec-2010,New Earth,DC,<10
+239,Ronel,Public,Neutral,Brown,Blond,Male,Yes,1,May-1990,New Earth,DC,<10
+240,Claire Montgomery,Public,Neutral,Green,Red,Female,Yes,9,Apr-1990,New Earth,DC,<10
+241,Delaken,Public,Neutral,Black,Brown,Male,Yes,7,Mar-1990,New Earth,DC,<10
+242,Duela Dent,Secret,Neutral,Purple,Red,Female,No,45,Aug-1976,Earth-3,DC,<100
+243,Legless Master,Secret,Neutral,Blue,Black,Male,No,2,Jan-1998,New Earth,DC,<10
+244,Michael Akins,Public,Neutral,Brown,Black,Male,Yes,54,Jan-2001,New Earth,DC,<100
+245,Beast With No Name,Public,Neutral,Black,Red,Male,Yes,9,Jan-1966,New Earth,DC,<10
+246,Martina Mericloinka,Public,Neutral,Brown,Black,Female,Yes,3,Feb-1992,New Earth,DC,<10
+247,Katherine Webb,Secret,Neutral,Blue,Black,Female,Yes,7,Aug-2008,New Earth,DC,<10
+248,Pi\u00f1ata,Non-dual,Neutral,Blue,No,Female,Yes,4,Sep-2006,New Earth,DC,<10
+249,Mama Madame,Public,Neutral,White,White,Female,Yes,6,Feb-1984,New Earth,DC,<10
+250,Lady Sapphire,Public,Neutral,Blue,Black,Female,Yes,11,Sep-1983,New Earth,DC,<100
+251,Aphrodite,Public,Neutral,Blue,Blond,Female,Yes,104,Dec-1941,New Earth,DC,<250
+252,Louis Erikson,Public,Neutral,Red,Brown,Male,No,1,Sep-2004,New Earth,DC,<10
+253,"Arthur Curry, Jr.",Public,Neutral,Blue,Blond,Male,No,54,Oct-1965,New Earth,DC,<100
+254,Zirral,Public,Neutral,Brown,Blond,Female,Yes,11,Aug-1985,New Earth,DC,<100
+255,Delirium,Secret,Neutral,Blue,Black,Female,Yes,17,Nov-1990,New Earth,DC,<100
+256,Mnemosyne,Public,Neutral,Blue,Blond,Female,Yes,17,Sep-1981,New Earth,DC,<100
+257,Lawrence Jordan,Secret,Neutral,Brown,Brown,Male,No,100,Feb-1942,New Earth,DC,<100
+258,Onassis Sklar,Secret,Neutral,Blue,Brown,Male,Yes,1,Jun-1995,New Earth,DC,<10
+259,Robert Mason,Secret,Neutral,Black,Black,Male,Yes,1,Feb-1941,New Earth,DC,<10
+260,Tekla,Secret,Neutral,Brown,Brown,Female,No,1,Jan-2006,New Earth,DC,<10
+261,Tes Ak-Var,Public,Neutral,Brown,Red,Female,No,2,Aug-2009,New Earth,DC,<10
+262,Martin Lewis,Public,Neutral,Brown,Black,Male,Yes,7,Oct-1997,New Earth,DC,<10
+263,Kirigi,Public,Neutral,Green,White,Male,Yes,2,Mar-1989,New Earth,DC,<10
+264,Snake-Oil,Public,Neutral,Brown,Black,Male,Yes,19,Apr-1967,New Earth,DC,<100
+265,Susan King,Secret,Neutral,Green,Blond,Female,Yes,18,Sep-1987,New Earth,DC,<100
+266,Chu Jung Impostor,Secret,Neutral,White,Blond,Male,Yes,1,Jan-2010,New Earth,DC,<10
+267,Robert Hinckley Long,Public,Neutral,Black,Red,Male,No,36,Sep-1992,New Earth,DC,<100
+268,Brahma,Public,Neutral,Photocellular,Brown,Male,Yes,2,Sep-1999,New Earth,DC,<10
+269,Michael Desai,Secret,Neutral,Grey,Brown,Male,Yes,5,Jul-2011,New Earth,DC,<10
+270,Rama Kushna,Public,Neutral,Black,Black,Female,Yes,42,Oct-1967,New Earth,DC,<100
+271,Eros,Public,Neutral,Blue,Blond,Male,Yes,25,Apr-1981,New Earth,DC,<100
+272,Poseidon,Public,Neutral,White,White,Male,Yes,46,Sep-1940,New Earth,DC,<100
+273,Vashnu,Secret,Neutral,Brown,Brown,Male,Yes,30,Oct-1967,New Earth,DC,<100
+274,Walter Reilly,Public,Neutral,Blue,Grey,Male,Yes,14,Jun-1982,New Earth,DC,<100
+275,Blanca,Public,Neutral,Blue,Blond,Female,Yes,11,Jan-2010,New Earth,DC,<100
+276,Michael Sanchez,Public,Neutral,Green,Black,Male,Yes,4,Feb-1985,New Earth,DC,<10
+277,Robert Langstrom,Secret,Neutral,Brown,Brown,Male,Yes,130,Jun-1970,New Earth,DC,<250
+278,Mordred of the Kindly Ones,Public,Neutral,Blue,White,Female,Yes,18,Mar-1969,New Earth,DC,<100
+279,Margaret Sawyer,Public,Neutral,Blue,Red,Female,Yes,180,Apr-1987,New Earth,DC,<250
+280,Marla Elliot,Public,Neutral,Red,Red,Female,Yes,9,Sep-2008,New Earth,DC,<10
+281,Peyton Riley,Secret,Neutral,Blue,Blond,Female,Yes,11,Mar-2007,New Earth,DC,<100
+282,Savitar Bandu,Secret,Neutral,Brown,Black,Male,Yes,8,Feb-1995,New Earth,DC,<10
+283,Anna Resik,Secret,Neutral,Brown,Brown,Female,Yes,1,Aug-1986,New Earth,DC,<10
+284,Madolyn Corbett,Secret,Neutral,Auburn,White,Female,No,4,Apr-1995,New Earth,DC,<10
+285,Manuel Esperanza,Public,Neutral,Brown,Black,Male,Yes,7,Oct-2001,New Earth,DC,<10
+286,Crazyface,Secret,Neutral,Brown,Red,Male,Yes,2,Jul-2005,New Earth,DC,<10
+287,Elizabeth Joyce,Public,Neutral,Brown,Red,Female,Yes,3,Jun-1988,New Earth,DC,<10
+288,Sandra Wu-San,Secret,Neutral,Brown,Black,Female,Yes,89,Jan-1976,New Earth,DC,<100
+289,Gwyneth Tate,Public,Neutral,Blue,Red,Female,Yes,4,Dec-1986,New Earth,DC,<10
+290,Peter Rice,Public,Neutral,Green,Brown,Male,Yes,7,Feb-1998,New Earth,DC,<10
+291,Lianna,Public,Neutral,Green,Black,Female,Yes,15,May-2003,New Earth,DC,<100
+292,David Manguy,Secret,Neutral,Blue,Black,Male,Yes,5,Feb-1994,New Earth,DC,<10
+293,Seyg-El,Public,Neutral,Blue,White,Male,Yes,3,Feb-1988,New Earth,DC,<10
+294,Steven Lombard,Public,Neutral,Green,Red,Male,Yes,28,Oct-1989,New Earth,DC,<100
+295,Ladon,Secret,Neutral,Violet,No,Male,Yes,8,Jan-1991,New Earth,DC,<10
+296,Rita Beckman,Public,Neutral,Brown,Brown,Female,Yes,13,Jul-1983,New Earth,DC,<100
+297,Settler V,Secret,Neutral,Brown,Brown,Male,Yes,1,Dec-2010,New Earth,DC,<10
+298,Hudson Pyle,Secret,Neutral,Brown,Brown,Male,No,6,Jun-1992,New Earth,DC,<10
+299,Fang Zhifu,Secret,Neutral,Blue,Black,Male,Yes,39,Jun-2006,New Earth,DC,<100
+300,Destruction,Secret,Neutral,Brown,Red,Male,Yes,11,Jan-1991,New Earth,DC,<100
+301,Angela Revere,Public,Neutral,Green,Black,Female,Yes,14,Jun-1986,New Earth,DC,<100
+302,Ekin Tzu,Public,Neutral,Brown,Black,Male,Yes,5,Apr-2000,New Earth,DC,<10
+303,Hercules,Public,Neutral,Blue,Black,Male,Yes,11,Sep-1991,New Earth,DC,<100
+304,Kelex,Public,Neutral,Photocellular,Black,Genderless,No,30,Feb-1988,New Earth,DC,<100
+305,Dodger,Secret,Neutral,Brown,Brown,Male,Yes,8,Jun-2008,New Earth,DC,<10
+306,Rama Khan,Secret,Neutral,Brown,Black,Male,No,8,Mar-2002,New Earth,DC,<10
+307,Pallas Athena,Public,Neutral,Grey,Brown,Female,Yes,118,May-1958,New Earth,DC,<250
+308,Sister Anne-Marie,Public,Neutral,Blue,Brown,Female,No,11,Jun-1985,New Earth,DC,<100
+309,Craydl,Non-dual,Neutral,Green,Red,Unknown,Yes,8,Jul-1999,New Earth,DC,<10
+310,Hippolyta Milton,Public,Neutral,Purple,Purple,Female,Yes,11,Mar-1994,New Earth,DC,<100
+311,Azrael,Public,Neutral,Gold,Black,Male,Yes,37,Apr-1985,New Earth,DC,<100
+312,Vera Sweet,Public,Neutral,Green,Blond,Female,Yes,6,Jun-1968,New Earth,DC,<10
+313,Travis Clevenger,Public,Neutral,Blue,Blond,Male,Yes,12,Sep-2004,New Earth,DC,<100
+314,Jerry White,Secret,Neutral,Brown,Brown,Male,No,18,May-1987,New Earth,DC,<100
+315,Ferak,Secret,Neutral,White,Green,Female,Yes,6,Jul-1999,New Earth,DC,<10
+316,Unity Kincaid,Secret,Neutral,Blue,Brown,Female,No,7,Jan-1989,New Earth,DC,<10
+317,Mister Choi,Secret,Neutral,Brown,Black,Male,Yes,5,Sep-2006,New Earth,DC,<10
+318,Alana Dominguez,Secret,Neutral,White,Brown,Female,Yes,13,Oct-2003,New Earth,DC,<100
+319,Beulah Bleak,Secret,Neutral,Black,White,Female,Yes,2,Jun-2005,New Earth,DC,<10
+320,Bizarro Supergirl,Secret,Neutral,Black,Blond,Female,Yes,3,Nov-2001,New Earth,DC,<10
+321,Adrianna Tomaz,Public,Neutral,Brown,Brown,Female,No,38,May-2006,New Earth,DC,<100
+322,Norman Madison,Secret,Neutral,Red,Brown,Male,No,11,Jan-2006,New Earth,DC,<100
+323,Lei Kung Impostor,Unknown,Neutral,White,Blond,Male,Yes,1,Jan-2010,New Earth,DC,<10
+324,Martian Womanhunter,Public,Neutral,Brown,No,Male,Yes,1,Sep-1992,New Earth,DC,<10
+325,Six of Spades I,Public,Neutral,Blue,Black,Male,Yes,3,Jul-1990,New Earth,DC,<10
+326,Zbigniew X,Public,Neutral,Blue,White,Male,Yes,1,Apr-2006,New Earth,DC,<10
+327,Bleez,Public,Neutral,Blue,Black,Female,Yes,68,Dec-2008,New Earth,DC,<100
+328,Bast,Secret,Neutral,Blue,Black,Female,Yes,19,Mar-1991,New Earth,DC,<100
+329,Teth-Adam,Secret,Neutral,Brown,Black,Male,Yes,152,Dec-1945,New Earth,DC,<250
+330,Sparta,Secret,Neutral,Red,Orange,Female,No,8,Jan-1989,New Earth,DC,<10
+331,Karl Ranck,Public,Neutral,Black,Blond,Male,No,6,Oct-1991,New Earth,DC,<10
+332,Black Flash,Public,Neutral,Green,Brown,Male,Yes,12,Jun-1998,New Earth,DC,<100
+333,Jeb Friedman,Public,Neutral,Brown,Black,Male,No,12,Oct-1991,New Earth,DC,<100
+334,Sebastian Hady,Public,Neutral,Black,Brown,Male,Yes,7,Jan-2010,New Earth,DC,<10
+335,Nobody,Secret,Neutral,Brown,Blond,Male,Yes,1,Oct-2005,New Earth,DC,<10
+336,Edouard Laslo,Public,Neutral,Black,Brown,Male,Yes,3,Feb-1998,New Earth,DC,<10
+337,Jeremy Jape,Secret,Neutral,Blue,Blond,Male,Yes,9,Jul-2008,New Earth,DC,<10
+338,Joseph Wilson,Secret,Neutral,Green,Blond,Male,Yes,229,May-1984,New Earth,DC,<250
+339,Richard Swift,Secret,Neutral,Grey,Black,Male,Yes,126,Sep-1942,New Earth,DC,<250
+340,Arin Sur,Public,Neutral,Brown,Black,Female,Yes,9,Oct-2009,New Earth,DC,<10
+341,Nadia Safir,Non-dual,Neutral,Brown,Black,Female,Yes,19,May-1986,New Earth,DC,<100
+342,Humphry Dumpler,Public,Neutral,Blue,No,Male,Yes,14,Aug-2003,New Earth,DC,<100
+343,Wilson Klass,Public,Neutral,Blue,Grey,Male,Yes,5,Sep-1990,New Earth,DC,<10
+344,Henri Ducard,Public,Neutral,Brown,Grey,Male,Yes,13,Apr-1989,New Earth,DC,<100
+345,Magdalene Kyle,Public,Neutral,Green,Brown,Female,Yes,18,Feb-1989,New Earth,DC,<100
+346,Mei Ling,Public,Neutral,Black,Black,Female,Yes,17,Apr-1979,New Earth,DC,<100
+347,Etrigan,Public,Neutral,Red,Brown,Male,Yes,311,Sep-1972,New Earth,DC,<500
+348,Scour,Secret,Neutral,Brown,Black,Male,Yes,6,Jun-2006,New Earth,DC,<10
+349,Doctor Mephistopheles,Public,Neutral,Blue,Blond,Male,Yes,1,Aug-2008,New Earth,DC,<10
+350,Jayne Payton,Public,Neutral,Green,Red,Female,Yes,51,Oct-1988,New Earth,DC,<100
+351,Marion Lane,Public,Neutral,Brown,Black,Male,No,7,Feb-2008,New Earth,DC,<10
+352,Source,Secret,Neutral,Brown,Brown,Unknown,Yes,42,Mar-1971,New Earth,DC,<100
+353,Kamandi,Public,Neutral,Blue,Blond,Male,Yes,12,Sep-2007,New Earth,DC,<100
+354,Paul Gambi,Public,Neutral,Brown,Brown,Male,Yes,13,Dec-1963,New Earth,DC,<100
+355,Thomas Ludlow Dalt,Secret,Neutral,Black,Black,Male,Yes,6,Apr-2005,New Earth,DC,<10
+356,Gulacia,Public,Neutral,Hazel,Brown,Female,Yes,2,May-1990,New Earth,DC,<10
+357,Simon Peters,Public,Neutral,Blue,Brown,Male,Yes,15,Jul-2009,New Earth,DC,<100
+358,Pharaoh II,Secret,Neutral,White,White,Male,Yes,1,Dec-2010,New Earth,DC,<10
+359,Robert Castell,Public,Neutral,Brown,Black,Male,Yes,2,Jun-2006,New Earth,DC,<10
+360,Hanuman,Public,Neutral,Brown,Brown,Male,Yes,2,Oct-1999,New Earth,DC,<10
+361,King Ra-Man,Public,Neutral,Blue,Black,Male,Yes,13,Jul-1965,New Earth,DC,<100
+362,Alan Welles,Secret,Neutral,Blue,Brown,Male,No,19,Jun-1984,New Earth,DC,<100
+363,Liana Kerzner,Public,Neutral,Blue,Red,Female,Yes,10,Nov-2008,New Earth,DC,<10
+364,John Smalls,Secret,Neutral,Brown,Black,Male,Yes,5,Jun-2006,New Earth,DC,<10
+365,Helen Claiborne,Public,Neutral,Blue,Black,Female,Yes,46,Jun-1995,New Earth,DC,<100
+366,Bethany Keele,Secret,Neutral,Black,Brown,Female,Yes,16,Jul-2008,New Earth,DC,<100
+367,Gerard Shugel,Secret,Neutral,Red,White,Male,Yes,6,Jul-2009,New Earth,DC,<10
+368,Judson Caspian,Secret,Neutral,Blue,Black,Male,No,8,Jun-1987,New Earth,DC,<10
+369,Sapphire Stagg,Secret,Neutral,Blue,Blond,Female,Yes,104,Jan-1965,New Earth,DC,<250
+370,Manga Khan,Secret,Neutral,Red,Brown,Male,Yes,30,Jun-1988,New Earth,DC,<100
+371,Emmylou Hartley,Secret,Neutral,Blue,Blond,Female,Yes,8,Jul-1981,Earth-One,DC,<10
+372,Felicity Smoak,Public,Neutral,Blue,Black,Female,Yes,33,May-1984,New Earth,DC,<100
+373,Ringo Chen,Public,Neutral,Brown,Black,Male,No,21,Apr-1996,New Earth,DC,<100
+374,William Walker,Secret,Neutral,Black,Black,Male,No,42,Jul-1971,New Earth,DC,<100
+375,Robert Queen,Secret,Neutral,Brown,Black,Male,Yes,10,Aug-1989,New Earth,DC,<10
+376,Nikolai Latikov,Secret,Neutral,Blue,Black,Male,No,2,Jan-1988,New Earth,DC,<10
+377,Flora Black,Secret,Neutral,Violet,Violet,Female,No,27,Dec-1988,New Earth,DC,<100
+378,Quentin Quale,Public,Neutral,Blue,Black,Male,Yes,7,Jun-1982,New Earth,DC,<10
+379,Marissa Nelson,Secret,Neutral,Brown,Brown,Female,Yes,1,Nov-2007,New Earth,DC,<10
+380,Krakor,Secret,Neutral,Brown,Brown,Male,No,1,Jun-1976,New Earth,DC,<10
+381,Nathaniel Dusk,Public,Neutral,Brown,Brown,Male,Yes,9,Feb-1984,New Earth,DC,<10
+382,Feng Po Impostor,Public,Neutral,White,Black,Male,No,5,Jan-2010,New Earth,DC,<10
+383,Suli,Public,Neutral,Black,Brown,Female,No,1,Sep-1989,New Earth,DC,<10
+384,Rex Leech,Public,Neutral,Hazel,Brown,Male,Yes,51,Feb-1993,New Earth,DC,<100
+385,Thrust,Public,Neutral,Pink,Blond,Male,Yes,8,Jan-1992,New Earth,DC,<10
+386,Yrra Cynril,Secret,Neutral,Brown,Black,Female,Yes,48,Feb-1997,New Earth,DC,<100
+387,Space Cabby,Secret,Neutral,Brown,Brown,Male,Yes,32,Sep-1954,New Earth,DC,<100
+388,Tribulus,Public,Neutral,Green,No,Male,Yes,22,Apr-2009,New Earth,DC,<100
+389,Silica,Public,Neutral,White,Pink,Female,No,12,Dec-2006,New Earth,DC,<100
+390,Don Allen,Non-dual,Neutral,Blue,Red,Male,No,20,Oct-1968,New Earth,DC,<100
+391,Abel,Secret,Neutral,Blue,Black,Male,Yes,41,Jul-1969,New Earth,DC,<100
+392,Darryl Frye,Secret,Neutral,Green,Orange,Male,Yes,15,May-1980,New Earth,DC,<100
+393,Horten Spence,Public,Neutral,Brown,Black,Male,Yes,2,Mar-1992,New Earth,DC,<10
+394,Rhea,Public,Neutral,Blue,Red,Female,Yes,13,Aug-1985,New Earth,DC,<100
+395,Lance Harrower,Public,Neutral,Blue,Blond,Male,No,1,Jan-2006,New Earth,DC,<10
+396,Christine Madison,Secret,Neutral,Blue,Blond,Female,Yes,17,Aug-1960,New Earth,DC,<100
+397,Quentin Galloway,Non-dual,Neutral,Black,Blond,Male,Yes,3,Dec-2003,New Earth,DC,<10
+398,Caellich,Public,Neutral,Red,Brown,Male,No,3,Sep-1983,New Earth,DC,<10
+399,Gregori Arcane,Secret,Neutral,Brown,Black,Male,Yes,18,Jan-1973,New Earth,DC,<100
+400,Asha Del-Nar,Secret,Neutral,Blue,Blond,Female,Yes,7,May-2009,New Earth,DC,<10
+401,Emily Rice,Public,Neutral,Blue,Blond,Female,Yes,13,Aug-1985,New Earth,DC,<100
+402,Rebecca Tyler,Non-dual,Neutral,Green,Blond,Female,Yes,3,Dec-1999,New Earth,DC,<10
+403,Mister Mxyzptlk,Secret,Neutral,Black,White,Male,Yes,64,Nov-1987,New Earth,DC,<100
+404,Poet,Secret,Neutral,Blue,Black,Male,Yes,14,Jul-2008,New Earth,DC,<100
+405,Despair,Secret,Neutral,Grey,Black,Female,Yes,12,Nov-1989,New Earth,DC,<100
+406,Hyperion,Public,Neutral,Blue,Brown,Male,Yes,17,Sep-1981,New Earth,DC,<100
+407,Terrence Berg,Secret,Neutral,Brown,Blond,Male,Yes,12,Oct-2000,New Earth,DC,<100
+408,Skanda,Public,Neutral,Brown,Black,Male,Yes,3,Oct-1999,New Earth,DC,<10
+409,Aubrey Sparks,Secret,Neutral,Blue,Black,Female,Yes,17,Sep-2000,New Earth,DC,<100
+410,Orunmilla,Public,Neutral,Brown,Black,Male,Yes,2,Oct-1997,New Earth,DC,<10
+411,Thomas Blake,Secret,Neutral,Blue,Blond,Male,Yes,108,Jan-1963,New Earth,DC,<250
+412,Walter Steele,Public,Neutral,Blue,Blond,Male,Yes,1,Aug-2010,New Earth,DC,<10
+413,Wiley Dalbert,Secret,Neutral,Red,Brown,Male,Yes,4,Oct-1997,New Earth,DC,<10
+414,Bonnie King,Secret,Neutral,Blue,Blond,Female,Yes,25,Nov-1960,New Earth,DC,<100
+415,Gaea,Public,Neutral,White,Black,Female,Yes,19,Sep-1981,New Earth,DC,<100
+416,Richard Malverne,Public,Neutral,Blue,Red,Male,No,1,Jan-1997,New Earth,DC,<10
+417,Simon LaGrieve,Public,Neutral,Brown,Grey,Male,Yes,33,May-1987,New Earth,DC,<100
+418,Benjamin Cox,Public,Neutral,Brown,Brown,Male,No,13,Jun-1985,New Earth,DC,<100
+419,Winky Moylan,Non-dual,Neutral,Green,Brown,Male,No,30,Jun-1942,New Earth,DC,<100
+420,Dardan,Public,Neutral,Brown,Brown,Male,Yes,9,Aug-1995,New Earth,DC,<10
+421,Roger Gordon,Public,Neutral,Blue,Brown,Male,No,4,Nov-1987,New Earth,DC,<10
+422,Maia,Public,Neutral,Blue,Brown,Female,Yes,1,Apr-1990,New Earth,DC,<10
+423,Probe,Public,Neutral,Green,Black,Female,Yes,4,May-2006,New Earth,DC,<10
+424,Bizarro Hawkman,Secret,Neutral,Blue,Black,Male,Yes,1,Dec-2010,New Earth,DC,<10
+425,Alexander Montez,Public,Neutral,Brown,Black,Male,No,18,Sep-2001,New Earth,DC,<100
+426,Strato,Secret,Neutral,Black,Grey,Male,Yes,2,Jul-2005,New Earth,DC,<10
+427,Aniela Arcane,Secret,Neutral,Blue,Brown,Female,Yes,1,Feb-1989,New Earth,DC,<10
+428,James Kim,Public,Neutral,Red,Black,Male,Yes,1,Feb-2011,New Earth,DC,<10
+429,Maxwell Lord IV,Public,Neutral,Black,Brown,Male,Yes,218,May-1987,New Earth,DC,<250
+430,Lynx II,Secret,Neutral,Amber,Black,Female,Yes,11,Dec-2008,New Earth,DC,<100
+431,Sigyn,Public,Neutral,White,White,Male,Yes,1,Mar-1991,New Earth,DC,<10
+432,James Craddock II,Public,Neutral,Blue,White,Male,Yes,2,Jun-1995,New Earth,DC,<10
+433,Dimita,Public,Neutral,Blue,Black,Female,Yes,1,Oct-1998,New Earth,DC,<10
+434,"Radiant, Spirit of Mercy",Secret,Neutral,Brown,Black,Female,Yes,4,Nov-2008,New Earth,DC,<10
+435,George Calderon,Public,Neutral,Brown,Brown,Male,No,1,Jan-2007,New Earth,DC,<10
+436,Doctor Iker,Public,Neutral,Blue,Brown,Male,Yes,2,Jul-1941,New Earth,DC,<10
+437,Rachel Dodds,Secret,Neutral,Brown,Brown,Female,Yes,9,Dec-2007,New Earth,DC,<10
+438,Rampotatek,Public,Neutral,Brown,Blue,Male,Yes,3,Mar-2001,New Earth,DC,<10
+439,Marnie Herrs,Public,Neutral,Blue,Blond,Female,Yes,8,May-1987,New Earth,DC,<10
+440,Bizarro Martian Manhunter,Secret,Neutral,Blue,Bald,Male,Yes,2,Dec-2010,New Earth,DC,<10
+441,Shango,Public,Neutral,Brown,Black,Male,Yes,8,Mar-1990,New Earth,DC,<10
+442,Monmouth,Public,Neutral,Brown,Black,Male,Yes,1,May-1989,New Earth,DC,<10
+443,Johnny Navarone,Public,Neutral,Blue,Black,Male,No,4,Aug-1996,New Earth,DC,<10
+444,Tethys,Public,Neutral,Green,Green,Female,Yes,17,Aug-1985,New Earth,DC,<100
+445,Ronald Evers,Secret,Neutral,Brown,Black,Male,Yes,11,Jun-1982,New Earth,DC,<100
+446,Aaron Langstrom,Secret,Neutral,Brown,Brown,Male,Yes,10,Apr-1996,New Earth,DC,<10
+447,Death,Secret,Neutral,Black,Black,Female,Yes,58,Aug-1989,New Earth,DC,<100
+448,Elizabeth Harkness,Public,Neutral,Blue,Brown,Female,No,1,Aug-1990,New Earth,DC,<10
+449,Astra Logue,Public,Neutral,Blue,Blond,Female,No,7,Aug-1988,New Earth,DC,<10
+450,Laira Omoto,Secret,Neutral,White,Red,Female,No,31,Sep-1993,New Earth,DC,<100
+451,Stacy,Public,Neutral,Green,Red,Female,Yes,40,Mar-2000,New Earth,DC,<100
+452,Alexander Allston,Secret,Neutral,Black,Black,Male,No,7,Dec-2004,New Earth,DC,<10
+453,Jack Kovacs,Public,Neutral,Yellow,Blond,Male,Yes,8,Mar-1989,New Earth,DC,<10
+454,Princess Topaz,Public,Neutral,Yellow,Black,Female,Yes,6,Aug-1983,New Earth,DC,<10
+455,Iapetus,Public,Neutral,Blue,Grey,Male,Yes,16,Sep-1981,New Earth,DC,<100
+456,David Challoner,Public,Neutral,Blue,Blond,Male,Yes,7,Feb-1989,New Earth,DC,<10
+457,Anthony Hartzell,Secret,Neutral,Blue,White,Male,Yes,5,May-2002,New Earth,DC,<10
+458,Ronald Edwards,Public,Neutral,Blue,White,Male,Yes,3,Sep-2006,New Earth,DC,<10
+459,Alex Olsen,Secret,Neutral,Blue,Blond,Male,Yes,11,Jul-1971,New Earth,DC,<100
+460,Joan Lincoln,Secret,Neutral,Blue,Blond,Female,Yes,19,Jul-1983,New Earth,DC,<100
+461,Elvira,Public,Neutral,Black,Black,Female,Yes,1,Jan-1986,New Earth,DC,<10
+462,Larfleeze,Public,Neutral,Yellow,Orange,Male,Yes,44,Jun-2008,New Earth,DC,<100
+463,Ann Preston,Public,Neutral,Brown,Red,Female,Yes,15,Jul-2008,New Earth,DC,<100
+464,Alvin Rusch,Public,Neutral,Brown,Brown,Male,Yes,25,Jul-2004,New Earth,DC,<100
+465,Jock Verner,Public,Neutral,Blue,Brown,Male,Yes,17,Jul-1984,New Earth,DC,<100
+466,Stretch Skinner,Public,Neutral,Yellow,Brown,Male,Yes,21,Apr-1942,New Earth,DC,<100
+467,Phillip Easton,Public,Neutral,Green,Black,Male,Yes,6,Apr-1989,New Earth,DC,<10
+468,Henry Claridge,Public,Neutral,Photocellular,Brown,Male,No,3,Jun-1940,New Earth,DC,<10
+469,Damien Kane,Secret,Neutral,Brown,Brown,Male,Yes,6,Feb-1994,New Earth,DC,<10
+470,Vanessa van Helsing,Public,Neutral,Green,Red,Female,Yes,17,Jul-1982,New Earth,DC,<100
+471,Rip Hunter,Secret,Neutral,Blue,Blond,Male,Yes,103,Jun-1959,New Earth,DC,<250
+472,Soapy,Secret,Neutral,Brown,Black,Male,Yes,1,May-2005,New Earth,DC,<10
+473,Sarolis,Public,Neutral,Brown,Brown,Male,Yes,1,Sep-2009,New Earth,DC,<10
+474,Monolith,Secret,Neutral,Brown,Brown,Male,Yes,21,Apr-2004,New Earth,DC,<100
+475,Shado,Secret,Neutral,Brown,Black,Female,Yes,36,Aug-1987,New Earth,DC,<100
+476,Gregory Osborne,Non-dual,Neutral,Blue,Brown,Male,Yes,7,Aug-1987,New Earth,DC,<10
+477,Sterling Morris,Public,Neutral,Brown,White,Male,Yes,13,Apr-1995,New Earth,DC,<100
+478,Clotho,Public,Neutral,Brown,White,Female,No,10,Aug-1990,New Earth,DC,<10
+479,Wesley Fermin,Secret,Neutral,Purple,Grey,Male,No,12,Feb-1987,New Earth,DC,<100
+480,Thesily,Public,Neutral,Green,Black,Male,No,12,Dec-1991,New Earth,DC,<100
+481,Mekanique,Secret,Neutral,Photocellular,Grey,Female,Yes,12,Oct-1985,New Earth,DC,<100
+482,Sir Galahad,Public,Neutral,Black,Brown,Male,Yes,10,May-2005,New Earth,DC,<10
+483,Hephaestus,Public,Neutral,Blue,White,Male,Yes,36,Dec-1941,New Earth,DC,<100
+484,Promise,Secret,Neutral,Black,Blond,Female,Yes,4,Feb-2011,New Earth,DC,<10
+485,William Randolph Wintergreen,Public,Neutral,White,White,Male,No,64,Dec-1980,New Earth,DC,<100
+486,Beautia Sivana,Public,Neutral,Blue,Blond,Female,Yes,8,Apr-1987,New Earth,DC,<10
+487,Huitzilopochtli,Public,Neutral,Black,Grey,Male,Yes,1,Oct-1991,New Earth,DC,<10
+488,Nasreen Samari,Secret,Neutral,Brown,Black,Female,Yes,4,Jul-2010,New Earth,DC,<10
+489,Meloni Thawne,Public,Neutral,Amber,Brown,Female,Yes,13,Mar-1997,New Earth,DC,<100
+490,Dexter Nichols,Public,Neutral,Green,Brown,Male,Yes,10,Jul-2009,New Earth,DC,<10
+491,Parademon,Public,Neutral,Brown,White,Male,No,15,Jul-2005,New Earth,DC,<100
+492,Daria Hernandez,Public,Neutral,Brown,Brown,Female,Yes,10,Jul-2003,New Earth,DC,<10
+493,Mawu,Public,Neutral,Brown,Black,Female,Yes,1,Oct-1997,New Earth,DC,<10
+494,Peter Gambi,Public,Neutral,Black,Brown,Male,No,13,Apr-1977,New Earth,DC,<100
+495,Hecate,Secret,Neutral,Blue,White,Female,Yes,6,Aug-1988,New Earth,DC,<10
+496,Four of Spades I,Non-dual,Neutral,Brown,Black,Female,Yes,3,Jul-1990,New Earth,DC,<10
+497,Thaal Sinestro,Public,Neutral,Yellow,Black,Male,Yes,237,Aug-1961,New Earth,DC,<250
+498,Dax-Am,Public,Neutral,Black,Blond,Male,Yes,1,Oct-2009,New Earth,DC,<10
+499,Lowell Jeffries,Public,Neutral,Black,Black,Male,Yes,2,Oct-2006,New Earth,DC,<10
+500,Britton,Public,Neutral,Brown,Brown,Male,Yes,1,Apr-1990,New Earth,DC,<10
+501,Teshom\u00e9 Hawkins,Secret,Neutral,Black,Brown,Male,No,1,Aug-2011,New Earth,DC,<10
+502,Phoebus Apollo,Public,Neutral,Blue,Blond,Male,Yes,41,Dec-1941,New Earth,DC,<100
+503,Justin Hanover,Public,Neutral,Brown,Black,Male,Yes,6,Jul-2009,New Earth,DC,<10
+504,Erik Gavlin,Secret,Neutral,Green,Blond,Male,No,3,Jun-2006,New Earth,DC,<10
+505,Rina,Public,Neutral,Black,Black,Female,Yes,7,Jul-2008,New Earth,DC,<10
+506,Emily Washburn,Public,Neutral,Grey,Blond,Female,Yes,2,Jun-1997,New Earth,DC,<10
+507,Randall Adam,Non-dual,Neutral,Blue,Brown,Male,Yes,17,Mar-1987,New Earth,DC,<100
+508,Ted Shoemaker,Public,Neutral,Brown,Black,Male,Yes,10,Dec-2004,New Earth,DC,<10
+509,Jennifer Myers,Public,Neutral,Blue,Blond,Female,Yes,1,Jul-2011,New Earth,DC,<10
+510,Ekron,Secret,Neutral,Green,No,Male,Yes,4,Sep-2006,New Earth,DC,<10
+511,Jake Donnelly,Secret,Neutral,Brown,Black,Male,Yes,2,Oct-2008,New Earth,DC,<10
+512,Hermes,Public,Neutral,Blue,Blond,Male,Yes,90,Apr-1959,New Earth,DC,<100
+513,Daniel Hall,Secret,Neutral,White,White,Male,Yes,11,Jan-1991,New Earth,DC,<100
+514,Goldie the Gargoyle,Public,Neutral,Black,White,Male,Yes,10,Feb-1989,New Earth,DC,<10
+515,Joseph Mason,Public,Neutral,Green,Black,Male,Yes,9,Feb-1990,New Earth,DC,<10
+516,Mupo,Public,Neutral,Brown,Black,Male,Yes,6,Aug-1969,New Earth,DC,<10
+517,Submissionary Judah,Public,Neutral,Black,Black,Male,No,2,Jun-2005,New Earth,DC,<10
+518,Jeremiah Duncan,Public,Neutral,Grey,Black,Male,Yes,11,Jun-1986,New Earth,DC,<100
+519,Harlan Brooks,Public,Neutral,Photocellular,Grey,Male,Yes,3,Jun-1988,New Earth,DC,<10
+520,Victor Christianson,Secret,Neutral,Blue,Brown,Male,Yes,1,Jun-1978,New Earth,DC,<10
+521,Lei Zi Impostor,Secret,Neutral,White,Brown,Female,Yes,1,Jan-2010,New Earth,DC,<10
+522,Louis Martin,Public,Neutral,Blue,Brown,Male,Yes,15,Aug-1997,New Earth,DC,<100
+523,Nora Fields,Public,Neutral,Brown,Brown,Female,Yes,7,Feb-2003,New Earth,DC,<10
+524,Antoine,Secret,Neutral,Blue,Black,Male,Yes,8,Oct-1992,New Earth,DC,<10
+525,Bizarro Batman,Secret,Neutral,Blue,Blond,Male,Yes,2,Nov-2007,New Earth,DC,<10
+526,Summer Day,Secret,Neutral,Blue,Brown,Female,No,26,Sep-1978,New Earth,DC,<100
+527,Charles Ralston,Secret,Neutral,Brown,Black,Male,Yes,1,Nov-1981,Earth-One,DC,<10
+528,Vincenzo Baldi,Known to Authorities,Neutral,Brown,Black,Male,No,4,Jul-2005,New Earth,DC,<10
+529,Dren Keeg,Secret,Neutral,White,Black,Male,Yes,6,Mar-1990,New Earth,DC,<10
+530,William Pettit,Public,Neutral,Brown,White,Male,No,26,Feb-1996,New Earth,DC,<100
+531,Gary Lester,Public,Neutral,Blue,Brown,Male,No,14,Jan-1988,New Earth,DC,<100
+532,Rikkard Rynders,Secret,Neutral,Black,Brown,Male,Yes,2,Apr-1988,New Earth,DC,<10
+533,Jonathan Hedley,Secret,Neutral,Green,Blond,Male,Yes,1,May-1990,New Earth,DC,<10
+534,Gong Gong Impostor,Unknown,Neutral,White,White,Male,Yes,1,Jan-2010,New Earth,DC,<10
+535,Koko,Public,Neutral,Brown,White,Male,Yes,1,Oct-2008,New Earth,DC,<10
+536,Roger Denning,Public,Neutral,Blue,Black,Male,Yes,19,Sep-1965,New Earth,DC,<100
+537,Mustang Suzy,Secret,Neutral,Brown,Red,Female,Yes,5,Nov-1992,New Earth,DC,<10
+538,Armless Master,Public,Neutral,Blue,Brown,Male,No,2,Jul-1994,New Earth,DC,<10
+539,Richard Destine,Public,Neutral,Green,Blond,Male,Yes,4,Dec-1999,New Earth,DC,<10
+540,Richard Mission,Public,Neutral,Brown,Brown,Male,Yes,8,Dec-1991,New Earth,DC,<10
+541,Michael Dugan,Public,Neutral,Green,Red,Male,Yes,18,Feb-1985,New Earth,DC,<100
+542,Grant Morrison,Secret,Neutral,Blue,Black,Male,No,4,Jul-1990,New Earth,DC,<10
+543,Lori Zechlin,Secret,Neutral,Blue,Black,Female,Yes,52,Jan-2005,New Earth,DC,<100
+544,Merlin,Secret,Neutral,Black,White,Male,Yes,92,Feb-1936,New Earth,DC,<100
+545,Cassandra Craft,Public,Neutral,Grey,White,Female,Yes,13,Feb-1972,New Earth,DC,<100
+546,Abraham Pointe,Public,Neutral,Black,Blond,Male,Yes,3,Sep-2010,New Earth,DC,<10
+547,Talaoc,Public,Neutral,Blue,Black,Male,Yes,5,May-1988,New Earth,DC,<10
+548,Lobo,Public,Neutral,Red,Black,Male,Yes,353,Jun-1983,New Earth,DC,<500
+549,Charity Bleak,Public,Neutral,Black,Black,Female,Yes,2,Jun-2005,New Earth,DC,<10
+550,Barbara Whitmore,Secret,Neutral,Blue,Blond,Female,Yes,19,Jul-1999,New Earth,DC,<100
+551,Eryx,Public,Neutral,Blue,Purple,Male,Yes,3,Jul-1995,New Earth,DC,<10
+552,Desire,Secret,Neutral,Yellow,Black,Genderless,Yes,20,Nov-1989,New Earth,DC,<100
+553,William Brannon,Secret,Neutral,Yellow,Black,Male,Yes,2,Jun-2008,New Earth,DC,<10
+554,Delia Ryan,Public,Neutral,Blue,Blond,Female,Yes,3,May-1989,New Earth,DC,<10
+555,Werner Vertigo,Secret,Neutral,Blue,Blond,Male,Yes,104,Jul-1978,New Earth,DC,<250
+556,Aron Abromowitz,Secret,Neutral,Blue,No,Male,Yes,7,Jul-2004,New Earth,DC,<10
+557,Lilhy,Public,Neutral,Yellow,Brown,Female,Yes,11,Feb-1995,New Earth,DC,<100
+558,Charles Melvin,Non-dual,Neutral,Brown,Brown,Male,Yes,2,Sep-1973,New Earth,DC,<10
+559,Keerg,Public,Neutral,Grey,Blond,Male,Yes,4,Feb-1992,New Earth,DC,<10
+560,Silver Shield,Secret,Neutral,Blue,Bald,Male,Yes,6,Nov-1989,New Earth,DC,<10
+561,Oceanus,Public,Neutral,White,Black,Male,Yes,17,Apr-1985,New Earth,DC,<100
+562,Xum,Secret,Neutral,Green,Black,Male,Yes,7,Sep-1978,New Earth,DC,<10
+563,Kimberly Rebecki,Public,Neutral,Brown,Brown,Female,Yes,7,Jun-2012,Prime Earth,DC,<10
+564,Coeus,Public,Neutral,Blue,Blue,Unknown,Yes,18,Aug-1985,New Earth,DC,<100
+565,Alesandra Taracon,Public,Neutral,Green,Blond,Female,Yes,2,Dec-2001,New Earth,DC,<10
+566,Bizarro Firestorm,Secret,Neutral,Brown,Brown,Male,Yes,1,Dec-2010,New Earth,DC,<10
+567,Jason Todd,Secret,Neutral,Blue,Black,Male,Yes,235,Jun-1987,New Earth,DC,<250
+568,Two of Spades I,Public,Neutral,Brown,Black,Male,Yes,3,Jul-1990,New Earth,DC,<10
+569,Triton,Public,Neutral,Green,White,Male,Yes,8,Jul-1995,New Earth,DC,<10
+570,Brittany Brandon,Secret,Neutral,Blue,Silver,Female,Yes,5,Jun-1986,New Earth,DC,<10
+571,Miles Lydecker,Public,Neutral,Black,Red,Male,Yes,2,Jul-1992,New Earth,DC,<10
+572,Charon,Secret,Neutral,Blue,Red,Unknown,Yes,23,Aug-1982,New Earth,DC,<100
+573,Maxine Michaels,Public,Neutral,Blue,Blond,Female,No,10,Apr-2003,New Earth,DC,<10
+574,Howard Baxter-Foote,Secret,Neutral,Blue,Blond,Male,Yes,3,Jul-1988,New Earth,DC,<10
+575,John Pemberton,Public,Neutral,Brown,Grey,Male,Yes,16,Oct-1941,New Earth,DC,<100
+576,Arnold Locane,Public,Neutral,Black,Blond,Male,Yes,1,Sep-2004,New Earth,DC,<10
+577,Melody Case,Public,Neutral,Green,Red,Female,Yes,19,Jun-1986,New Earth,DC,<100
+578,Bizarro II,Secret,Neutral,Blue,Black,Male,No,8,Mar-1994,New Earth,DC,<10
+579,Joshua Turnbull,Non-dual,Neutral,Brown,Black,Male,No,1,Mar-2010,New Earth,DC,<10
+580,Arthur Gordon Pym,Public,Neutral,Brown,Blond,Male,No,4,Sep-1988,New Earth,DC,<10
+581,Kalibre,Public,Neutral,Blue,Black,Male,Yes,1,Sep-1995,New Earth,DC,<10
+582,Catwoman III,Secret,Neutral,Blue,Black,Female,Yes,5,Sep-2010,New Earth,DC,<10
+583,Kyle Knight,Secret,Neutral,Blue,Black,Male,Yes,7,Jan-1998,New Earth,DC,<10
+584,Floyd Lawton,Secret,Neutral,Blue,Brown,Male,Yes,227,Jun-1950,New Earth,DC,<250
+585,Simpson Flanders,Public,Neutral,Blue,Black,Male,No,10,May-1993,New Earth,DC,<10
+586,David Shelby,Public,Neutral,Brown,No,Unknown,Yes,3,Dec-1991,New Earth,DC,<10
+587,Harold Carew,Public,Neutral,Blue,Blond,Male,Yes,13,Jul-1982,New Earth,DC,<100
+588,Ak-Var,Public,Neutral,Blue,Blond,Male,No,2,Aug-2009,New Earth,DC,<10
+589,Mack Harlin,Public,Neutral,Black,Blond,Male,Yes,9,Jan-1995,New Earth,DC,<10
+590,Chanda Madan,Public,Neutral,Black,Black,Female,Yes,12,Nov-1998,New Earth,DC,<100
+591,Aimee DeWitt,Public,Neutral,Black,Brown,Female,Yes,1,Jul-1997,New Earth,DC,<10
+592,Eraser,Secret,Neutral,Black,Brown,Male,Yes,6,Jul-2010,New Earth,DC,<10
+593,Donna Anderson,Public,Neutral,Green,Brown,Female,No,5,Aug-2009,New Earth,DC,<10
+594,Terry Chase,Public,Neutral,Green,Black,Female,Yes,11,Jan-1998,New Earth,DC,<100
+595,Mighty Bruce,Public,Neutral,Blue,Brown,Male,Yes,11,Jan-1989,New Earth,DC,<100
+596,Paul Proch,Public,Neutral,Brown,White,Male,Yes,1,Jul-2003,New Earth,DC,<10
+597,Abednego Danner,Public,Neutral,Blue,Black,Male,No,1,Mar-1988,New Earth,DC,<10
+598,Gloria Pemberton,Public,Neutral,Black,Red,Female,Yes,7,Oct-1941,New Earth,DC,<10
+599,Brontes,Public,Neutral,Black,Brown,Male,Yes,4,Mar-1994,New Earth,DC,<10
+600,Mars,Public,Neutral,Brown,Black,Male,Yes,11,May-1944,New Earth,DC,<100
+601,Alan Markham,Public,Neutral,Black,Black,Male,Yes,3,May-1990,New Earth,DC,<10
+602,Pele,Public,Neutral,Brown,Brown,Female,Yes,4,Oct-2009,New Earth,DC,<10
+603,Patrick Noonan,Public,Neutral,Blue,Black,Male,No,10,Jan-1993,New Earth,DC,<10
+604,Demeter,Public,Neutral,Brown,Blond,Female,Yes,41,Oct-1985,New Earth,DC,<100
+605,Cleveland Brand,Public,Neutral,Blue,Black,Male,No,18,Apr-1968,New Earth,DC,<100
+606,Crius,Public,Neutral,Blue,Blond,Male,Yes,14,Aug-1985,New Earth,DC,<100
+607,Lena,Non-dual,Neutral,Blue,Blue,Female,Yes,8,Feb-1964,New Earth,DC,<10
+608,Himon,Public,Neutral,Blue,White,Male,Yes,21,Aug-1972,New Earth,DC,<100
+609,Violet,Secret,Neutral,Brown,Red,Female,Yes,5,Mar-2008,New Earth,DC,<10
+610,Natalie Gurdin,Secret,Neutral,Brown,Brown,Female,Yes,13,Mar-1988,New Earth,DC,<100
+611,Tyrone the Dog,Secret,Neutral,Blue,Grey,Male,Yes,14,Nov-2006,New Earth,DC,<100
+612,Beverly Lewis,Secret,Neutral,Green,Red,Female,Yes,43,May-1980,New Earth,DC,<100

@@ -1,0 +1,2325 @@
+,Name,Identity,Alignment,Eyes,Hair,Sex,Alive,Appearances,First_appeared,Planet,Universe,Appearances Bins
+0,Caryn Wise,Non-dual,Neutral,White,Brown,Female,Yes,2,Apr-1983,Earth-616,Marvel,<10
+1,Otto Octavius,Secret,Neutral,Hazel,Brown,Male,No,526,Jul-1963,Earth-616,Marvel,<750
+2,Phantom of the Bell Tower,Secret,Neutral,Red,Bald,Male,Yes,1,Jan-1942,Earth-616,Marvel,<10
+3,Tamara Hashioka,Non-dual,Neutral,Black,Black,Female,Yes,22,Aug-1977,Earth-616,Marvel,<100
+4,Ouranos,Public,Neutral,Variable,Variable,Male,Yes,3,Jun-2008,Earth-616,Marvel,<10
+5,Augustus,Secret,Neutral,Brown,Blond,Male,Yes,10,Sep-2005,Earth-616,Marvel,<10
+6,Elli,Secret,Neutral,Variable,Black,Unknown,Yes,1,Jun-1978,Earth-616,Marvel,<10
+7,Xorak,Secret,Neutral,White,Brown,Male,No,3,Jun-1967,Earth-616,Marvel,<10
+8,Rachel Argosy,Public,Neutral,Blue,Blue,Female,Yes,7,Jun-1992,Earth-616,Marvel,<10
+9,Pyreus Kril,Secret,Neutral,White,Yellow,Male,Yes,99,Jul-1974,Earth-616,Marvel,<100
+10,Cain Marko,Public,Neutral,Blue,Red,Male,Yes,329,Jul-1965,Earth-616,Marvel,<500
+11,Madcap,Secret,Neutral,Blue,Brown,Male,Yes,36,Jul-1985,Earth-616,Marvel,<100
+12,Thomas Philip Moreau,Public,Neutral,Brown,Bald,Male,No,3,May-1999,Earth-616,Marvel,<10
+13,Lawrence Trask,Secret,Neutral,Brown,Brown,Male,No,14,Jun-1969,Earth-616,Marvel,<100
+14,Anpu,Public,Neutral,Blue,White,Male,Yes,6,Aug-1976,Earth-616,Marvel,<10
+15,Set,Secret,Neutral,Blue,White,Unknown,Yes,10,Oct-1973,Earth-616,Marvel,<10
+16,Sharon Ginsberg,Non-dual,Neutral,Blue,Brown,Female,Yes,9,Oct-2002,Earth-616,Marvel,<10
+17,Opistho,Public,Neutral,Black,White,Male,Yes,1,Jun-2009,Earth-616,Marvel,<10
+18,Victoria Hand,Non-dual,Neutral,Hazel,Black,Female,No,98,Feb-2009,Earth-616,Marvel,<100
+19,Raymond Wil,Public,Neutral,Brown,Brown,Male,Yes,1,Sep-1944,Earth-616,Marvel,<10
+20,Agent Crock,Secret,Neutral,Green,Brown,Male,Yes,1,Oct-1987,Earth-616,Marvel,<10
+21,Esther Lucas,Non-dual,Neutral,Brown,Black,Female,No,3,Jun-1992,Earth-616,Marvel,<10
+22,Galin,Public,Neutral,Blue,No,Male,No,4,Nov-2009,Earth-616,Marvel,<10
+23,Nigandan General,Public,Neutral,Yellow,Red,Male,Yes,1,Jun-2005,Earth-616,Marvel,<10
+24,Debra Whitman,Non-dual,Neutral,Green,Blond,Female,Yes,58,Sep-1979,Earth-616,Marvel,<100
+25,Bailiff,Secret,Neutral,Blue,White,Male,Yes,2,Sep-1994,Earth-616,Marvel,<10
+26,Brianna Robbins,Public,Neutral,Brown,Brown,Female,Yes,7,Jun-2010,Earth-616,Marvel,<10
+27,Bella Blaire,Non-dual,Neutral,Blue,Grey,Female,Yes,12,Mar-1981,Earth-616,Marvel,<100
+28,Joey Milton,Public,Neutral,Blue,Brown,Male,Yes,1,Aug-1948,Earth-616,Marvel,<10
+29,Horst Lederer,Public,Neutral,Blue,No,Male,Yes,2,Jul-1966,Earth-616,Marvel,<10
+30,Gregory Herd,Secret,Neutral,Blue,Black,Male,Yes,22,Nov-1995,Earth-616,Marvel,<100
+31,Darby Dean,Public,Neutral,White,Black,Male,Yes,10,Jan-1988,Earth-616,Marvel,<10
+32,Walt Neilson,Non-dual,Neutral,Brown,Brown,Male,Yes,1,Mar-1946,Earth-616,Marvel,<10
+33,Kometes,Public,Neutral,Brown,Blond,Male,No,2,Jul-1974,Earth-616,Marvel,<10
+34,Antonio Rodriguez,Secret,Neutral,Brown,No,Male,Yes,51,Aug-1985,Earth-616,Marvel,<100
+35,Mentor,Public,Neutral,White,No,Male,Yes,48,Oct-1977,Earth-616,Marvel,<100
+36,Sapphiras,Public,Neutral,Yellow,No,Female,Yes,6,Jun-1995,Earth-616,Marvel,<10
+37,Ent,Secret,Neutral,Red,Brown,Male,Yes,2,Jun-1991,Earth-616,Marvel,<10
+38,Chava Prydeman,Secret,Neutral,Blue,Brown,Female,No,1,Nov-1985,Earth-616,Marvel,<10
+39,Akihira,Secret,Neutral,Black,Black,Male,No,3,Aug-2008,Earth-616,Marvel,<10
+40,Fiona McCormick,Public,Neutral,Black,Red,Female,No,3,Dec-1990,Earth-616,Marvel,<10
+41,Primo Falcone,Public,Neutral,White,Black,Male,Yes,2,Aug-2004,Earth-616,Marvel,<10
+42,Kamara,Public,Neutral,Blue,Blond,Male,Yes,1,Apr-1989,Earth-616,Marvel,<10
+43,Pavel Plotnick,Secret,Neutral,Black,Bald,Male,Yes,6,Jun-1966,Earth-616,Marvel,<10
+44,Owen Candler,Public,Neutral,Blue,White,Male,No,2,Sep-1999,Earth-616,Marvel,<10
+45,Leonard Walls,Public,Neutral,Brown,Bald,Male,Yes,3,Jun-2011,Earth-616,Marvel,<10
+46,Obnoxio the Clown,Secret,Neutral,Brown,Brown,Male,Yes,1,Apr-1983,Earth-616,Marvel,<10
+47,Rogers,Public,Neutral,Red,Blond,Male,Yes,1,Apr-2001,Earth-616,Marvel,<10
+48,Talos,Public,Neutral,Green,No,Male,Yes,9,Jun-1994,Earth-616,Marvel,<10
+49,Hermp,Secret,Neutral,Brown,No,Male,Yes,2,Jan-1969,Earth-616,Marvel,<10
+50,Marcus Fifolet,Secret,Neutral,Black,Brown,Male,Yes,7,Jan-1995,Earth-616,Marvel,<10
+51,Gorgilla,Secret,Neutral,Brown,Brown,Male,Yes,14,Oct-1960,Earth-616,Marvel,<100
+52,John Jones,Secret,Neutral,Brown,Brown,Male,No,1,Aug-2001,Earth-616,Marvel,<10
+53,Daimon Hellstrom,Non-dual,Neutral,Red,Red,Male,Yes,242,Sep-1973,Earth-616,Marvel,<250
+54,Vincent Patilio,Public,Neutral,Brown,Brown,Male,Yes,19,Feb-1967,Earth-616,Marvel,<100
+55,Vladimir,Secret,Neutral,Black,Brown,Male,Yes,1,Apr-1965,Earth-616,Marvel,<10
+56,Alex Wilder,Non-dual,Neutral,Brown,Black,Male,Yes,33,Jul-2003,Earth-616,Marvel,<100
+57,Randall Nixon,Public,Neutral,White,Brown,Male,No,3,Mar-2006,Earth-616,Marvel,<10
+58,Stanley Hardy,Non-dual,Neutral,Grey,Brown,Male,Yes,6,Jan-1999,Earth-616,Marvel,<10
+59,Myla,Secret,Neutral,Green,Blue,Female,Yes,10,Apr-1992,Earth-616,Marvel,<10
+60,Edmund,Public,Neutral,Brown,Brown,Male,No,1,Jul-2011,Earth-616,Marvel,<10
+61,Borgo,Secret,Neutral,Brown,Black,Male,No,2,Aug-1969,Earth-616,Marvel,<10
+62,Cleric,Secret,Neutral,Variable,Black,Male,Yes,1,Oct-1997,Earth-616,Marvel,<10
+63,Mordecai Boggs,Non-dual,Neutral,Grey,Bald,Male,Yes,14,Nov-1969,Earth-616,Marvel,<100
+64,Floyd Baker,Secret,Neutral,Brown,Auburn,Male,Yes,2,Jun-2007,Earth-616,Marvel,<10
+65,Bill,Non-dual,Neutral,Variable,Brown,Male,Yes,4,Dec-1963,Earth-616,Marvel,<10
+66,Dane Gavin,Public,Neutral,Blue,Black,Male,Yes,1,Nov-1974,Earth-616,Marvel,<10
+67,Simms,Public,Neutral,Blue,Blond,Male,Yes,1,Aug-1964,Earth-616,Marvel,<10
+68,Harlan Stillwell,Non-dual,Neutral,Black,Brown,Male,No,2,Nov-1976,Earth-616,Marvel,<10
+69,Sidney Crumb,Secret,Neutral,Blue,Brown,Male,Yes,11,Apr-1983,Earth-616,Marvel,<100
+70,Roc,Public,Neutral,Blue,Blond,Male,Yes,2,Aug-1961,Earth-616,Marvel,<10
+71,Ea,Secret,Neutral,Brown,No,Unknown,Yes,4,Jul-2008,Earth-616,Marvel,<10
+72,Artemis,Non-dual,Neutral,Blue,Red,Female,Yes,16,Jun-1966,Earth-616,Marvel,<100
+73,Questa,Secret,Neutral,Blue,Blue,Female,Yes,5,Jan-1995,Earth-616,Marvel,<10
+74,Rebecca Agee,Secret,Neutral,Brown,Blond,Female,Yes,2,Jul-1998,Earth-616,Marvel,<10
+75,George Teekle,Non-dual,Neutral,Black,Grey,Male,Yes,3,Mar-1975,Earth-616,Marvel,<10
+76,Integral Synaptic Anti-Anionic Computer,Secret,Neutral,Brown,Black,Male,Yes,32,Feb-1973,Earth-616,Marvel,<100
+77,Captain Delaney,Public,Neutral,Blue,Grey,Male,Yes,1,Apr-1978,Earth-616,Marvel,<10
+78,Sinifer,Public,Neutral,Hazel,No,Unknown,No,1,Oct-1990,Earth-616,Marvel,<10
+79,Alexandra Draguno,Secret,Neutral,Green,Red,Female,Yes,3,Jan-2013,Earth-616,Marvel,<10
+80,Emmanuel da Costa,Public,Neutral,Black,Black,Male,No,13,Nov-1982,Earth-616,Marvel,<100
+81,Radha Dastoor,Public,Neutral,Brown,Black,Female,No,8,Nov-1993,Earth-616,Marvel,<10
+82,Galahad,Secret,Neutral,Blue,Black,Male,Yes,3,Jan-2013,Earth-616,Marvel,<10
+83,Kyzerra Os,Secret,Neutral,Yellow,Bald,Female,Yes,1,Jun-2013,Earth-616,Marvel,<10
+84,Curtis Connors,Public,Neutral,Red,No,Male,Yes,250,Nov-1963,Earth-616,Marvel,<250
+85,Magni Thorson,Secret,Neutral,Brown,Red,Male,Yes,2,Mar-1980,Earth-616,Marvel,<10
+86,Gracie Smith,Public,Neutral,Brown,Purple,Female,Yes,4,Apr-2001,Earth-616,Marvel,<10
+87,Sarah Kinney,Secret,Neutral,Green,Black,Female,No,10,Mar-2005,Earth-616,Marvel,<10
+88,Oola Udonta,Secret,Neutral,Blue,No,Female,Yes,14,May-2010,Earth-616,Marvel,<100
+89,115,Secret,Neutral,Blue,White,Female,Yes,1,Aug-2010,Earth-616,Marvel,<10
+90,Stella,Public,Neutral,Black,Black,Female,Yes,2,Oct-2004,Earth-616,Marvel,<10
+91,Ferris,Public,Neutral,Black,Grey,Male,Yes,3,Dec-1997,Earth-616,Marvel,<10
+92,Rock Monster Guardian,Secret,Neutral,Red,Black,Unknown,Yes,4,Nov-1961,Earth-616,Marvel,<10
+93,Vaipala Rani,Public,Neutral,Brown,Black,Female,Yes,3,Oct-2010,Earth-616,Marvel,<10
+94,Susan Morse,Public,Neutral,Blue,Blond,Female,Yes,4,Aug-2010,Earth-616,Marvel,<10
+95,Debra,Public,Neutral,Brown,Brown,Female,Yes,1,Oct-1999,Earth-616,Marvel,<10
+96,Roadkill,Secret,Neutral,Blue,Brown,Unknown,Yes,3,Feb-1992,Earth-616,Marvel,<10
+97,Kaliban,Public,Neutral,Red,Brown,Male,Yes,2,Jun-1970,Earth-616,Marvel,<10
+98,Hadj,Secret,Neutral,Yellow,No,Female,Yes,4,Apr-1986,Earth-616,Marvel,<10
+99,Horus,Public,Neutral,Brown,No,Male,Yes,18,Sep-1975,Earth-616,Marvel,<100
+100,Simon Benes,Public,Neutral,Blue,Grey,Male,Yes,3,Jul-2002,Earth-616,Marvel,<10
+101,Laurie Simpson Neal,Public,Neutral,Black,Red,Female,No,1,Apr-1980,Earth-616,Marvel,<10
+102,Phil Donahue,Public,Neutral,Blue,White,Male,Yes,1,Nov-1993,Earth-616,Marvel,<10
+103,Elias Weams,Secret,Neutral,Blue,White,Male,Yes,2,May-1963,Earth-616,Marvel,<10
+104,Nightside,Secret,Neutral,White,Black,Female,No,30,Oct-1977,Earth-616,Marvel,<100
+105,Tony Masters,Secret,Neutral,Brown,Brown,Male,Yes,163,May-1980,Earth-616,Marvel,<250
+106,Vasily Karpov,Public,Neutral,Brown,Bald,Male,Yes,4,May-2005,Earth-616,Marvel,<10
+107,Horatio Piper,Public,Neutral,Brown,Bald,Male,Yes,7,Jan-1984,Earth-616,Marvel,<10
+108,Singer,Secret,Neutral,Blue,White,Female,Yes,3,Jan-1995,Earth-616,Marvel,<10
+109,Sam Klein,Public,Neutral,Blue,Brown,Male,Yes,2,Jul-2004,Earth-616,Marvel,<10
+110,Sonny Baredo,Secret,Neutral,Green,Grey,Male,Yes,12,Sep-2001,Earth-616,Marvel,<100
+111,Soja,Public,Neutral,Orange,Red,Female,No,1,Oct-1973,Earth-616,Marvel,<10
+112,Daryl Andrews,Secret,Neutral,Green,Black,Male,Yes,15,May-1992,Earth-616,Marvel,<100
+113,Vaalu,Non-dual,Neutral,Red,No,Male,Yes,1,Apr-1987,Earth-616,Marvel,<10
+114,Gwendolyne Stacy,Secret,Neutral,Blue,Blond,Female,No,42,Mar-1975,Earth-616,Marvel,<100
+115,Timothy Jones,Public,Neutral,Hazel,Brown,Male,Yes,4,Dec-1960,Earth-616,Marvel,<10
+116,Timothy Chambers,Public,Neutral,Brown,White,Male,No,1,Oct-1993,Earth-616,Marvel,<10
+117,Kell,Public,Neutral,White,Blond,Female,No,8,Mar-2012,Earth-616,Marvel,<10
+118,Alice Larkin,Non-dual,Neutral,Blue,Brown,Female,Yes,1,Aug-1987,Earth-616,Marvel,<10
+119,Earl,Public,Neutral,Brown,Black,Male,Yes,3,Jan-1996,Earth-616,Marvel,<10
+120,Scott Summers,Public,Neutral,Brown,Brown,Male,Yes,1955,Sep-1963,Earth-616,Marvel,<2000
+121,Lara Wilkinson,Non-dual,Neutral,Blue,Black,Female,Yes,3,Jun-2009,Earth-616,Marvel,<10
+122,Nestor Rodriguez,Secret,Neutral,Blue,Black,Male,Yes,7,Jun-2004,Earth-616,Marvel,<10
+123,Helen Gable,Public,Neutral,Blue,Red,Female,Yes,2,Jan-2011,Earth-616,Marvel,<10
+124,Reverend Stryker,Secret,Neutral,Brown,Black,Male,Yes,1,Sep-1992,Earth-616,Marvel,<10
+125,Doctor Kissick,Secret,Neutral,Black,White,Male,Yes,1,Oct-1981,Earth-616,Marvel,<10
+126,Cargo,Secret,Neutral,Blue,Black,Unknown,Yes,1,Sep-2000,Earth-616,Marvel,<10
+127,Red Hawk,Public,Neutral,White,Black,Male,Yes,29,Nov-1950,Earth-616,Marvel,<100
+128,Kalthea,Non-dual,Neutral,Red,Blond,Female,Yes,1,Aug-1964,Earth-616,Marvel,<10
+129,Charles Darwin,Public,Neutral,Brown,Grey,Male,No,6,Jun-1996,Earth-616,Marvel,<10
+130,Bob Stirrat,Non-dual,Neutral,Blue,Black,Male,Yes,14,Jan-1997,Earth-616,Marvel,<100
+131,Phillip Cambell,Non-dual,Neutral,Black,Red,Male,No,1,Jul-2003,Earth-616,Marvel,<10
+132,Heml,Non-dual,Neutral,Black,No,Unknown,Yes,6,Feb-1991,Earth-616,Marvel,<10
+133,Pandora,Secret,Neutral,Brown,Red,Female,Yes,4,Nov-1961,Earth-616,Marvel,<10
+134,Raza Longknife,Secret,Neutral,One,Orange,Male,Yes,92,Oct-1977,Earth-616,Marvel,<100
+135,Nemesio Pietri,Public,Neutral,Brown,Black,Male,No,7,Jan-2005,Earth-616,Marvel,<10
+136,Flaidermaus,Public,Neutral,Red,Orange,Male,Yes,2,Dec-1972,Earth-616,Marvel,<10
+137,Zimmer,Non-dual,Neutral,Blue,Brown,Male,Yes,1,Oct-1980,Earth-616,Marvel,<10
+138,Meg,Secret,Neutral,Brown,Black,Unknown,Yes,1,Nov-1988,Earth-616,Marvel,<10
+139,Ikonn,Secret,Neutral,Blue,No,Male,Yes,6,Jun-1981,Earth-616,Marvel,<10
+140,Eddie Gunnam,Public,Neutral,Brown,Red,Male,Yes,4,Aug-2007,Earth-616,Marvel,<10
+141,Fagin,Secret,Neutral,Blue,Brown,Male,No,7,Jul-2001,Earth-616,Marvel,<10
+142,Glow Worm,Secret,Neutral,Blue,Black,Male,Yes,3,Aug-1986,Earth-616,Marvel,<10
+143,Joey,Secret,Neutral,Blue,Bald,Male,Yes,1,Oct-1991,Earth-616,Marvel,<10
+144,Haruo Tsuburaya,Secret,Neutral,White,Black,Male,No,8,Sep-1990,Earth-616,Marvel,<10
+145,181,Secret,Neutral,Blue,Black,Unknown,Yes,1,Jul-2011,Earth-616,Marvel,<10
+146,Gareth Cargill,Public,Neutral,Brown,Black,Male,No,1,Aug-2012,Earth-616,Marvel,<10
+147,Dempsey,Secret,Neutral,Blue,Orange,Male,No,3,Aug-1988,Earth-616,Marvel,<10
+148,Claude Potier,Secret,Neutral,Hazel,Brown,Male,Yes,2,Oct-2000,Earth-616,Marvel,<10
+149,Amber,Non-dual,Neutral,Red,No,Female,Yes,4,Oct-2002,Earth-616,Marvel,<10
+150,Donna-Lee Dover,Public,Neutral,Yellow,Blond,Female,Yes,11,Sep-1976,Earth-616,Marvel,<100
+151,Rose Chambers,Non-dual,Neutral,Brown,White,Female,No,1,Aug-2009,Earth-616,Marvel,<10
+152,John Dare,Public,Neutral,Black,Red,Male,Yes,1,Nov-1995,Earth-616,Marvel,<10
+153,Tuvia,Non-dual,Neutral,Blue,Brown,Female,Yes,2,Jun-1971,Earth-616,Marvel,<10
+154,Mictlantecuhtli,Non-dual,Neutral,Blue,Bald,Male,Yes,1,Sep-2009,Earth-616,Marvel,<10
+155,Ronald,Public,Neutral,Grey,Black,Male,No,1,Aug-2011,Earth-616,Marvel,<10
+156,Mowfus,Secret,Neutral,Yellow,No,Male,Yes,6,Apr-1970,Earth-616,Marvel,<10
+157,Malcolm Codsworth,Public,Neutral,Brown,Red,Male,Yes,1,Apr-1992,Earth-616,Marvel,<10
+158,Joseph Goebbels,Secret,Neutral,Black,Black,Male,No,14,Jun-1942,Earth-616,Marvel,<100
+159,Mato,Non-dual,Neutral,Brown,Bald,Male,Yes,1,Nov-2010,Earth-616,Marvel,<10
+160,Grace Foley,Non-dual,Neutral,Black,Red,Female,Yes,2,Jan-2004,Earth-616,Marvel,<10
+161,Rot,Secret,Neutral,Brown,Brown,Unknown,Yes,3,Mar-2002,Earth-616,Marvel,<10
+162,Michael J. Fox,Public,Neutral,Green,Brown,Male,Yes,1,Feb-1988,Earth-616,Marvel,<10
+163,Michael Powell,Secret,Neutral,White,Bald,Male,Yes,29,Mar-1991,Earth-616,Marvel,<100
+164,Source,Secret,Neutral,Red,Grey,Male,Yes,2,Nov-1996,Earth-616,Marvel,<10
+165,Tina Sanchez,Secret,Neutral,Black,Black,Female,Yes,1,Aug-1988,Earth-616,Marvel,<10
+166,Megaera,Secret,Neutral,Black,Auburn,Female,Yes,6,Sep-1996,Earth-616,Marvel,<10
+167,St. John Allerdyce,Secret,Neutral,Blue,Blond,Male,Yes,108,Jan-1981,Earth-616,Marvel,<250
+168,Brian Hibbs,Secret,Neutral,Brown,Blond,Male,Yes,20,Apr-1993,Earth-616,Marvel,<100
+169,Keith Chandler,Public,Neutral,Green,Red,Male,Yes,4,Apr-1993,Earth-616,Marvel,<10
+170,Patricia Wolman,Public,Neutral,Blue,Blond,Female,Yes,14,Mar-2013,Earth-616,Marvel,<100
+171,Oneg,Secret,Neutral,Green,Black,Unknown,Yes,20,Mar-1977,Earth-616,Marvel,<100
+172,Jurgen Muntz,Public,Neutral,Blue,Black,Male,Yes,5,Mar-2011,Earth-616,Marvel,<10
+173,Ikor,Public,Neutral,Grey,White,Male,Yes,5,May-1964,Earth-616,Marvel,<10
+174,Segismund Joshua,Secret,Neutral,Red,Blond,Male,Yes,9,Aug-1992,Earth-616,Marvel,<10
+175,Don Johnson,Public,Neutral,Black,Blond,Male,Yes,1,Feb-1988,Earth-616,Marvel,<10
+176,Ziran,Secret,Neutral,Brown,Red,Unknown,Yes,34,Dec-1977,Earth-616,Marvel,<100
+177,Clarence Snippe,Non-dual,Neutral,Green,Brown,Male,Yes,2,Aug-1948,Earth-616,Marvel,<10
+178,Mister Whitman,Non-dual,Neutral,Blue,Grey,Male,Yes,2,Dec-1980,Earth-616,Marvel,<10
+179,Earthquake,Secret,Neutral,Black,No,Male,Yes,26,Sep-1980,Earth-616,Marvel,<100
+180,Red Hulk,Public,Neutral,Blue,Black,Male,Yes,415,May-1962,Unknown,Marvel,<500
+181,Sam Reuther,Public,Neutral,Brown,Black,Male,Yes,5,Apr-1975,Earth-616,Marvel,<10
+182,Fang,Secret,Neutral,Brown,Brown,Male,No,17,Jan-1996,Earth-616,Marvel,<100
+183,Servo-Robot,Secret,Neutral,Brown,Red,Unknown,Yes,2,Feb-1967,Earth-616,Marvel,<10
+184,Simon Garth,Secret,Neutral,White,Black,Male,Yes,37,Jul-1953,Earth-616,Marvel,<100
+185,Jake Mallard,Public,Neutral,Black,Brown,Male,No,1,Apr-1974,Earth-616,Marvel,<10
+186,Boswell,Public,Neutral,Black,Black,Male,Yes,1,Feb-1966,Earth-616,Marvel,<10
+187,Steven Rogers,Secret,Neutral,Blue,Blond,Male,Yes,52,Dec-1953,Earth-616,Marvel,<100
+188,Yoshiro Hachiman,Secret,Neutral,Brown,Brown,Male,Yes,9,Nov-1999,Earth-616,Marvel,<10
+189,Chameleon,Secret,Neutral,Green,Bald,Male,No,2,Mar-2009,Earth-616,Marvel,<10
+190,Morgan,Secret,Neutral,Brown,Blond,Female,Yes,1,Aug-2010,Earth-616,Marvel,<10
+191,Captain Forsa,Secret,Neutral,Brown,Black,Male,No,2,Dec-1989,Earth-616,Marvel,<10
+192,Xuthl,Secret,Neutral,Yellow,Brown,Male,Yes,3,Apr-1987,Earth-616,Marvel,<10
+193,Diana Knight,Public,Neutral,Blue,Grey,Female,Yes,1,Feb-2000,Earth-616,Marvel,<10
+194,Don Parisi,Secret,Neutral,Blue,No,Male,Yes,2,Dec-2004,Earth-616,Marvel,<10
+195,Siobhan,Non-dual,Neutral,Blue,Blond,Female,Yes,1,Jul-1992,Earth-616,Marvel,<10
+196,Living Brain,Non-dual,Neutral,Yellow,No,Genderless,Yes,32,Jan-1964,Earth-616,Marvel,<100
+197,Carmen,Public,Neutral,Variable,Black,Female,No,5,Nov-1973,Earth-616,Marvel,<10
+198,Jemiah,Secret,Neutral,Blue,No,Male,Yes,13,Jan-1977,Earth-616,Marvel,<100
+199,Lucius Aquilla,Secret,Neutral,Black,Black,Male,Yes,6,Nov-1983,Earth-616,Marvel,<10
+200,Gzoom,Public,Neutral,Blue,No,Male,Yes,1,May-1994,Earth-616,Marvel,<10
+201,Murderous Lion,Secret,Neutral,Blue,Blond,Male,Yes,5,Oct-2009,Earth-616,Marvel,<10
+202,Catherine Moranis,Secret,Neutral,Brown,Black,Female,Yes,13,Oct-1980,Earth-616,Marvel,<100
+203,Rolanda,Public,Neutral,Green,White,Female,Yes,1,Aug-2003,Earth-616,Marvel,<10
+204,Findle the Finder,Secret,Neutral,White,Black,Male,Yes,1,Mar-2013,Earth-616,Marvel,<10
+205,Hoggscarr,Secret,Neutral,Black,No,Male,No,1,Dec-2012,Earth-616,Marvel,<10
+206,Metazoid,Secret,Neutral,Brown,No,Male,No,1,Sep-1968,Earth-616,Marvel,<10
+207,Aron,Secret,Neutral,White,Bald,Male,No,29,Jul-1975,Earth-616,Marvel,<100
+208,Senschi,Public,Neutral,Yellow,No,Unknown,Yes,3,Jul-2003,Earth-616,Marvel,<10
+209,Elizabeth Hudson,Non-dual,Neutral,Blue,Red,Female,No,6,Nov-2001,Earth-616,Marvel,<10
+210,Aldrich Killian,Non-dual,Neutral,Brown,Brown,Male,No,1,Jan-2005,Earth-616,Marvel,<10
+211,Mister Lao,Secret,Neutral,Blue,No,Male,Yes,17,Feb-2007,Earth-616,Marvel,<100
+212,Benjamin Russell,Secret,Neutral,Blue,Red,Male,Yes,2,Sep-1995,Earth-616,Marvel,<10
+213,Blow-Hard,Secret,Neutral,White,Grey,Male,No,3,Dec-1986,Earth-616,Marvel,<10
+214,Lazarus,Secret,Neutral,Blue,Black,Male,No,2,Jul-2003,Earth-616,Marvel,<10
+215,Sanford,Public,Neutral,Blue,Red,Male,Yes,2,Jan-1974,Earth-616,Marvel,<10
+216,Carl Brock,Public,Neutral,Green,White,Male,Yes,4,Mar-1993,Earth-616,Marvel,<10
+217,Sojobo-Tengu,Secret,Neutral,Black,Black,Male,Yes,7,Jan-2013,Earth-616,Marvel,<10
+218,Abbey Sykes,Non-dual,Neutral,Brown,Black,Female,Yes,5,Nov-2010,Earth-616,Marvel,<10
+219,Arthur Swift,Secret,Neutral,Blue,Brown,Male,No,1,Nov-2001,Earth-616,Marvel,<10
+220,Garokk,Secret,Neutral,Brown,Brown,Male,Yes,23,Oct-1970,Earth-616,Marvel,<100
+221,John Zander,Public,Neutral,Blue,Blond,Male,No,10,Aug-2004,Earth-616,Marvel,<10
+222,Grimgerda,Non-dual,Neutral,Blue,Blond,Female,Yes,1,Oct-1966,Earth-616,Marvel,<10
+223,Assistant Watcher,Secret,Neutral,Black,Bald,Male,Yes,1,Aug-2010,Earth-616,Marvel,<10
+224,Cybortrons,Secret,Neutral,Brown,Grey,Unknown,Yes,1,Jun-1979,Earth-616,Marvel,<10
+225,Carstairs,Public,Neutral,White,Brown,Male,Yes,4,Jul-2008,Earth-616,Marvel,<10
+226,Tartarus,Secret,Neutral,Brown,Brown,Male,No,2,Jun-2000,Earth-616,Marvel,<10
+227,Charles Rider,Public,Neutral,Green,Brown,Male,Yes,34,Sep-1976,Earth-616,Marvel,<100
+228,Galen-Kor,Secret,Neutral,Blue,Brown,Male,Yes,10,Aug-1992,Earth-616,Marvel,<10
+229,Tragg,Public,Neutral,Brown,Bald,Male,Yes,2,May-1974,Earth-616,Marvel,<10
+230,Bill Davis,Non-dual,Neutral,Brown,Bald,Male,No,1,Jun-2010,Earth-616,Marvel,<10
+231,Delphyne Gorgon,Non-dual,Neutral,Yellow,Green,Female,Yes,23,Nov-2008,Earth-616,Marvel,<100
+232,Vincent Bloch,Secret,Neutral,Black,Bald,Male,Yes,1,Oct-1997,Earth-616,Marvel,<10
+233,Weller,Secret,Neutral,Purple,Purple,Male,Yes,1,Nov-1999,Earth-616,Marvel,<10
+234,Yuri Topolov,Secret,Neutral,Blue,Bald,Male,No,13,May-1962,Earth-616,Marvel,<100
+235,Mickey Fondozzi,Public,Neutral,Blue,Brown,Male,Yes,32,Mar-1992,Earth-616,Marvel,<100
+236,Andras Tryp,Non-dual,Neutral,Blue,Blond,Male,No,1,Oct-2006,Earth-616,Marvel,<10
+237,Whitey Barton,Non-dual,Neutral,Purple,White,Male,Yes,1,Dec-1968,Earth-616,Marvel,<10
+238,Rufus Carter,Secret,Neutral,Brown,Black,Male,Yes,2,Jan-1981,Earth-616,Marvel,<10
+239,Lifeline,Secret,Neutral,Green,Blond,Male,Yes,1,May-1990,Earth-616,Marvel,<10
+240,Bobby Soul,Secret,Neutral,Yellow,Black,Male,Yes,9,Nov-2003,Earth-616,Marvel,<10
+241,Judy Lyman,Public,Neutral,Blue,Brown,Female,No,1,May-2011,Earth-616,Marvel,<10
+242,Wilson Travers,Secret,Neutral,Brown,Black,Male,Yes,1,Jul-1978,Earth-616,Marvel,<10
+243,Pariah,Secret,Neutral,Blue,Purple,Male,No,1,Feb-1982,Earth-616,Marvel,<10
+244,Marcy Stryker,Public,Neutral,Black,Grey,Female,No,1,Jan-1983,Earth-616,Marvel,<10
+245,Mrs. Baker,Public,Neutral,Brown,Brown,Female,Yes,2,Mar-1972,Earth-616,Marvel,<10
+246,Carl Denti,Public,Neutral,Brown,Brown,Male,Yes,18,Jun-1993,Earth-616,Marvel,<100
+247,Riot,Secret,Neutral,White,Bald,Genderless,Yes,14,May-1993,Earth-616,Marvel,<100
+248,Robert Tanaka,Public,Neutral,Blue,Black,Male,Yes,8,Dec-2001,Earth-616,Marvel,<10
+249,Maker,Secret,Neutral,Brown,No,Female,Yes,7,Jul-1990,Earth-616,Marvel,<10
+250,Mister Kenneth,Non-dual,Neutral,Blue,Black,Male,No,2,Nov-2001,Earth-616,Marvel,<10
+251,Flagstone,Secret,Neutral,Brown,Black,Male,Yes,2,Jul-1993,Earth-616,Marvel,<10
+252,Hargen,Secret,Neutral,White,No,Male,Yes,12,Mar-1977,Earth-616,Marvel,<100
+253,Man in Black,Secret,Neutral,Red,Yellow,Male,Yes,2,Oct-1960,Earth-616,Marvel,<10
+254,Emma,Public,Neutral,Black,Red,Female,No,2,Jun-2000,Earth-616,Marvel,<10
+255,Linga,Public,Neutral,Green,Black,Female,Yes,1,Mar-2002,Earth-616,Marvel,<10
+256,Olson,Public,Neutral,Hazel,No,Male,Yes,1,Dec-2008,Earth-616,Marvel,<10
+257,Sachet Nelson,Public,Neutral,Brown,White,Female,Yes,4,Oct-2009,Earth-616,Marvel,<10
+258,Imo Miri,Secret,Neutral,Violet,Black,Female,No,1,Apr-2008,Earth-616,Marvel,<10
+259,Greer,Public,Neutral,Blue,Brown,Female,Yes,3,Jul-1968,Earth-616,Marvel,<10
+260,Richard Jones,Public,Neutral,Brown,Brown,Male,Yes,1,May-2002,Earth-616,Marvel,<10
+261,Great Weaver,Non-dual,Neutral,Yellow,Black,Male,Yes,1,Feb-2006,Earth-616,Marvel,<10
+262,Chloe Tran,Non-dual,Neutral,Blue,Blond,Female,Yes,20,Jun-1989,Earth-616,Marvel,<100
+263,Ranald Jeffries,Non-dual,Neutral,Pink,Purple,Male,Yes,12,Apr-1994,Earth-616,Marvel,<100
+264,Ichor,Secret,Neutral,Blue,Bald,Male,Yes,2,Apr-2012,Earth-616,Marvel,<10
+265,Belinda Bell,Public,Neutral,Brown,Red,Female,Yes,1,Nov-1980,Earth-616,Marvel,<10
+266,Chantal Stone,Public,Neutral,Brown,Black,Female,Yes,4,Jan-1999,Earth-616,Marvel,<10
+267,Jinx,Secret,Neutral,Blue,Brown,Male,Yes,2,Nov-1985,Earth-616,Marvel,<10
+268,Jane Jones,Public,Neutral,Green,Red,Female,Yes,2,May-2002,Earth-616,Marvel,<10
+269,Deborah Kinney,Secret,Neutral,Green,Black,Female,Yes,7,Mar-2005,Earth-616,Marvel,<10
+270,Lara King,Public,Neutral,Blue,Black,Female,Yes,6,Nov-2004,Earth-616,Marvel,<10
+271,Yeti,Secret,Neutral,Brown,Bald,Male,Yes,6,Jun-1992,Earth-616,Marvel,<10
+272,Illyana Rasputina,Secret,Neutral,Blue,Blond,Female,Yes,380,May-1975,Earth-616,Marvel,<500
+273,Jen Baker,Public,Neutral,Blue,Blond,Male,Yes,3,Jun-2003,Earth-616,Marvel,<10
+274,Dinu,Public,Neutral,Brown,Bald,Male,Yes,7,Dec-1998,Earth-616,Marvel,<10
+275,Nobilus,Secret,Neutral,Blue,Black,Male,Yes,14,Sep-1990,Earth-616,Marvel,<100
+276,Niomi Brinke,Public,Neutral,Brown,Blond,Female,Yes,2,Apr-1997,Earth-616,Marvel,<10
+277,King Crocodile,Non-dual,Neutral,White,Black,Male,Yes,1,Apr-1954,Earth-616,Marvel,<10
+278,Joseph Rogers,Public,Neutral,Blue,Brown,Male,No,1,Jan-2013,Earth-616,Marvel,<10
+279,Carolyn Schist,Non-dual,Neutral,Blue,Brown,Female,Yes,1,Nov-1974,Earth-616,Marvel,<10
+280,Cynthia von Doom,Public,Neutral,Yellow,Black,Female,No,12,Oct-1971,Earth-616,Marvel,<100
+281,Baskin,Non-dual,Neutral,Black,Black,Male,Yes,1,Jun-1988,Earth-616,Marvel,<10
+282,Blackjack,Secret,Neutral,White,White,Male,No,4,Jun-2000,Earth-616,Marvel,<10
+283,Mrs. Costanza,Non-dual,Neutral,Blue,Red,Female,No,1,Jul-2004,Earth-616,Marvel,<10
+284,Dar-Benn,Non-dual,Neutral,Brown,Brown,Male,No,3,Aug-1991,Earth-616,Marvel,<10
+285,Jim,Public,Neutral,Blue,Black,Male,Yes,1,Nov-1972,Earth-616,Marvel,<10
+286,Leah Sheffield,Secret,Neutral,Brown,Bald,Female,Yes,1,Feb-1998,Earth-616,Marvel,<10
+287,Tanaraq,Public,Neutral,Brown,White,Male,Yes,4,Jun-1985,Earth-616,Marvel,<10
+288,Funtzel,Non-dual,Neutral,White,No,Male,Yes,3,Apr-2011,Earth-616,Marvel,<10
+289,Christopher Cassera,Secret,Neutral,Blue,Black,Male,Yes,5,Mar-2001,Earth-616,Marvel,<10
+290,Candra,Secret,Neutral,Blue,Blond,Female,No,23,Dec-1993,Earth-616,Marvel,<100
+291,Cherub Whirlwind,Secret,Neutral,Black,No,Unknown,No,4,Jul-1985,Earth-616,Marvel,<10
+292,Ness,Secret,Neutral,Yellow,White,Male,Yes,14,Jun-1998,Earth-616,Marvel,<100
+293,Salac Tuur,Public,Neutral,Blue,Blond,Male,Yes,3,May-2009,Earth-616,Marvel,<10
+294,Ronan,Non-dual,Neutral,Blue,Brown,Male,Yes,136,Aug-1967,Earth-616,Marvel,<250
+295,Vincent Pettine,Public,Neutral,Blue,Blond,Male,Yes,1,Apr-2006,Earth-616,Marvel,<10
+296,Face,Secret,Neutral,Blue,Brown,Male,Yes,20,Dec-1988,Earth-616,Marvel,<100
+297,Geryon,Non-dual,Neutral,Brown,Grey,Male,Yes,2,Aug-2010,Earth-616,Marvel,<10
+298,Wal-Lah,Non-dual,Neutral,Blue,Black,Unknown,Yes,1,Oct-1939,Earth-616,Marvel,<10
+299,Rachel Dandridge,Public,Neutral,Black,Black,Female,Yes,4,Sep-1974,Earth-616,Marvel,<10
+300,Silenus,Public,Neutral,Black,Brown,Male,Yes,2,Nov-2008,Earth-616,Marvel,<10
+301,Jonathan Bryant,Public,Neutral,Blue,Brown,Male,No,5,Sep-2008,Earth-616,Marvel,<10
+302,Kara,Secret,Neutral,Green,Brown,Female,Yes,2,Nov-2003,Earth-616,Marvel,<10
+303,Forrest Goldendawn,Secret,Neutral,Blue,Brown,Male,Yes,4,Nov-2012,Earth-616,Marvel,<10
+304,Owen Reece,Secret,Neutral,Blue,Brown,Male,No,62,Nov-1963,Earth-616,Marvel,<100
+305,Peggy Rae,Public,Neutral,Yellow,Blond,Female,Yes,7,Oct-2005,Earth-616,Marvel,<10
+306,Shzzzllzzzthzz,Secret,Neutral,Green,Brown,Male,Yes,7,Jan-1961,Earth-616,Marvel,<10
+307,Starbolt,Secret,Neutral,Yellow,No,Male,No,48,Oct-1977,Earth-616,Marvel,<100
+308,Nick Allen,Public,Neutral,Brown,No,Male,No,2,Aug-1952,Earth-616,Marvel,<10
+309,Eson,Secret,Neutral,Blue,No,Male,Yes,20,Mar-1977,Earth-616,Marvel,<100
+310,Kru,Non-dual,Neutral,Brown,No,Unknown,Yes,2,Oct-1939,Earth-616,Marvel,<10
+311,Jeff Brown,Public,Neutral,Brown,Black,Male,Yes,26,Jun-2007,Earth-616,Marvel,<100
+312,Barko,Secret,Neutral,Auburn,Black,Male,Yes,3,Nov-2007,Earth-616,Marvel,<10
+313,Bryson Bale,Secret,Neutral,Black,Black,Male,No,3,Oct-2001,Earth-616,Marvel,<10
+314,Michael Baran,Secret,Neutral,Blue,Brown,Male,Yes,1,Dec-1981,Earth-616,Marvel,<10
+315,Lazarus Ganglion,Secret,Neutral,Red,Brown,Male,Yes,1,Sep-2002,Earth-616,Marvel,<10
+316,Necromancer,Secret,Neutral,Blue,Brown,Male,Yes,14,Jan-2013,Earth-616,Marvel,<100
+317,Mary van Slambrouck,Public,Neutral,Brown,Brown,Female,Yes,1,Jul-1988,Earth-616,Marvel,<10
+318,Synthia Naip,Secret,Neutral,Blue,Blond,Female,Yes,2,Oct-1990,Earth-616,Marvel,<10
+319,Jess Harrison,Secret,Neutral,Green,Green,Female,Yes,11,Jul-1988,Earth-616,Marvel,<100
+320,Amanda Fallows,Secret,Neutral,Blue,Black,Female,Yes,1,Aug-1989,Earth-616,Marvel,<10
+321,Drake Previn,Secret,Neutral,Blue,Black,Male,Yes,3,Feb-1983,Earth-616,Marvel,<10
+322,Brian Kornfield,Secret,Neutral,Multiple,Blond,Male,Yes,1,Oct-1993,Earth-616,Marvel,<10
+323,Horace Grabsheid,Public,Neutral,Blue,Blond,Male,Yes,1,Aug-1988,Earth-616,Marvel,<10
+324,Christian Frost,Secret,Neutral,Blue,Blond,Male,Yes,7,Jun-2003,Earth-616,Marvel,<10
+325,Melissa Bowen,Public,Neutral,Blue,Red,Female,Yes,4,Jan-1984,Earth-616,Marvel,<10
+326,Highsmith,Public,Neutral,Brown,Black,Female,Yes,1,Mar-2005,Earth-616,Marvel,<10
+327,Alpha,Secret,Neutral,Yellow,Bald,Male,Yes,11,Sep-1974,Earth-616,Marvel,<100
+328,Mei Lin,Public,Neutral,Blue,Black,Female,No,3,Dec-1990,Earth-616,Marvel,<10
+329,Vitana,Non-dual,Neutral,Brown,White,Female,Yes,1,Sep-2009,Earth-616,Marvel,<10
+330,Maya Benjamin,Public,Neutral,Green,Brown,Female,Yes,1,Aug-2011,Earth-616,Marvel,<10
+331,Madeline Naylor,Public,Neutral,Blue,Red,Female,Yes,35,Sep-1988,Earth-616,Marvel,<100
+332,Wendy Christiansen,Public,Neutral,Brown,Black,Female,No,9,Jan-1995,Earth-616,Marvel,<10
+333,Alexi Shostakov,Secret,Neutral,Blue,Red,Male,Yes,31,Aug-1967,Earth-616,Marvel,<100
+334,Ram Metunga,Public,Neutral,Blue,Black,Male,Yes,1,Feb-2010,Earth-616,Marvel,<10
+335,Jak,Public,Neutral,Blue,Black,Male,No,1,Aug-1989,Earth-616,Marvel,<10
+336,Cookie Malone,Public,Neutral,Yellow,Bald,Male,Yes,3,Feb-2002,Earth-616,Marvel,<10
+337,Andre Rostov,Secret,Neutral,Black,Brown,Male,Yes,2,Jul-1975,Earth-616,Marvel,<10
+338,Alex Grimond,Non-dual,Neutral,Brown,Red,Male,Yes,1,Nov-1993,Earth-616,Marvel,<10
+339,Paolo Mantega,Public,Neutral,White,Brown,Male,Yes,1,Jul-2003,Earth-616,Marvel,<10
+340,Bun-Dall,Non-dual,Neutral,White,Bald,Male,Yes,4,Jul-1976,Earth-616,Marvel,<10
+341,Frederick Hudson II,Secret,Neutral,Blue,Black,Male,No,1,Apr-2009,Earth-616,Marvel,<10
+342,Miranda Leevald,Public,Neutral,Green,Black,Female,Yes,45,Dec-2001,Earth-616,Marvel,<100
+343,Gayle Edgerton,Secret,Neutral,Black,Black,Female,Yes,6,Jul-1995,Earth-616,Marvel,<10
+344,James Hutchinson,Public,Neutral,Yellow,White,Male,Yes,2,Aug-2002,Earth-616,Marvel,<10
+345,Man-Thing,Secret,Neutral,Red,No,Unknown,Yes,1,Jun-2013,Earth-616,Marvel,<10
+346,Thoth,Public,Neutral,Black,No,Male,Yes,2,Jun-1950,Earth-616,Marvel,<10
+347,Mr. Ichiki,Public,Neutral,White,Black,Male,Yes,3,Apr-2011,Earth-616,Marvel,<10
+348,Joseph Hogan,Public,Neutral,Blue,Bald,Male,Yes,33,Aug-1962,Earth-616,Marvel,<100
+349,Cassandra Kaufman,Secret,Neutral,Brown,Brown,Female,Yes,1,Feb-2010,Earth-616,Marvel,<10
+350,Thaddeus Ross,Public,Neutral,Blue,Black,Male,Yes,2,Feb-1997,Earth-616,Marvel,<10
+351,Max Eisenhardt,Public,Neutral,Grey,Bald,Male,Yes,709,Sep-1963,Earth-616,Marvel,<750
+352,Jerry Malcom,Public,Neutral,Blue,Black,Male,Yes,1,Oct-1948,Earth-616,Marvel,<10
+353,Anthropomorpho,Secret,Neutral,Blue,No,Unknown,Yes,3,Aug-1992,Earth-616,Marvel,<10
+354,Milo Gunderson,Non-dual,Neutral,Blue,Black,Male,No,1,Apr-2007,Earth-616,Marvel,<10
+355,Agony,Non-dual,Neutral,White,Bald,Genderless,Yes,14,May-1993,Earth-616,Marvel,<100
+356,Sabrina Nash,Public,Neutral,Blue,Blond,Female,Yes,1,Aug-1996,Earth-616,Marvel,<10
+357,Niral Chandra,Secret,Neutral,Grey,Black,Female,Yes,7,Aug-1997,Earth-616,Marvel,<10
+358,Leon Matheson,Public,Neutral,Blue,Blond,Male,No,1,Feb-2010,Earth-616,Marvel,<10
+359,John Edgar Hoover,Public,Neutral,White,Grey,Male,Yes,2,Apr-1940,Earth-616,Marvel,<10
+360,Brendon Clark,Secret,Neutral,Green,Black,Male,Yes,1,Apr-1986,Earth-616,Marvel,<10
+361,Doctor Hatton,Public,Neutral,Brown,Black,Male,Yes,1,Aug-1990,Earth-616,Marvel,<10
+362,Eliza Robbins,Public,Neutral,Red,Brown,Female,Yes,8,Jul-2002,Earth-616,Marvel,<10
+363,Grom,Secret,Neutral,Black,Red,Male,Yes,41,Aug-1971,Earth-616,Marvel,<100
+364,Aleph,Non-dual,Neutral,Yellow,No,Genderless,No,4,Feb-2013,Earth-616,Marvel,<10
+365,Namor McKenzie,Public,Neutral,Red,Black,Male,Yes,3,Dec-1996,Earth-616,Marvel,<10
+366,Cissie Guthrie,Secret,Neutral,Blue,Brown,Female,Yes,5,Sep-1994,Earth-616,Marvel,<10
+367,Swen,Public,Neutral,Red,Bald,Male,No,1,Aug-1989,Earth-616,Marvel,<10
+368,Raymond Coker,Secret,Neutral,Brown,Black,Male,Yes,16,Nov-1973,Earth-616,Marvel,<100
+369,Edward Brock,Public,Neutral,Black,Blond,Male,Yes,318,Sep-1986,Earth-616,Marvel,<500
+370,Ammon Ra,Non-dual,Neutral,Green,White,Male,Yes,3,Oct-1980,Earth-616,Marvel,<10
+371,Charlie,Non-dual,Neutral,Brown,Brown,Male,Yes,1,Oct-1964,Earth-616,Marvel,<10
+372,Jeff Knudsen,Public,Neutral,Brown,Grey,Male,Yes,5,Jan-2006,Earth-616,Marvel,<10
+373,Xiomara,Non-dual,Neutral,Blue,Red,Female,Yes,1,Feb-1993,Earth-616,Marvel,<10
+374,Autumn Rolfson,Secret,Neutral,Blue,Brown,Female,No,23,Jan-1987,Earth-616,Marvel,<100
+375,Arnie Berman,Non-dual,Neutral,Brown,Red,Male,Yes,13,Sep-1977,Earth-616,Marvel,<100
+376,Hogan adopted son,Non-dual,Neutral,Green,Blond,Male,Yes,2,Oct-1985,Earth-616,Marvel,<10
+377,Zephyr,Non-dual,Neutral,Blue,Black,Female,Yes,16,Aug-1974,Earth-616,Marvel,<100
+378,Earth,Secret,Neutral,Brown,Black,Unknown,Yes,2,Jul-1981,Earth-616,Marvel,<10
+379,Avoe,Secret,Neutral,Brown,No,Female,Yes,11,May-2010,Earth-616,Marvel,<100
+380,Missy,Secret,Neutral,Blue,Bald,Female,Yes,1,Dec-1990,Earth-616,Marvel,<10
+381,Abraham Beame,Non-dual,Neutral,Brown,White,Male,Yes,2,Aug-1976,Earth-616,Marvel,<10
+382,Virtual ORganism\/Turing EXperiment,Public,Neutral,Brown,Brown,Unknown,Yes,4,Aug-1994,Earth-616,Marvel,<10
+383,Kenneth Sjolin,Secret,Neutral,Brown,Red,Male,No,1,Jun-1993,Earth-616,Marvel,<10
+384,Dave Chatterton,Secret,Neutral,Brown,Brown,Male,No,7,Dec-1985,Earth-616,Marvel,<10
+385,Marshall Stone III,Secret,Neutral,Black,Black,Male,Yes,50,Mar-1993,Earth-616,Marvel,<100
+386,Arthur Van Krijg,Secret,Neutral,Brown,Black,Male,No,4,Jul-1987,Earth-616,Marvel,<10
+387,George Whitaker,Public,Neutral,Blue,Blond,Male,No,1,Dec-1945,Earth-616,Marvel,<10
+388,Unspoken,Secret,Neutral,Grey,Grey,Male,Yes,9,Sep-2009,Earth-616,Marvel,<10
+389,Max,Secret,Neutral,Brown,Red,Male,Yes,1,Aug-1968,Earth-616,Marvel,<10
+390,Bast,Non-dual,Neutral,Green,Black,Female,Yes,18,Jul-1966,Earth-616,Marvel,<100
+391,"Gary Wilton, Jr.",Secret,Neutral,Black,No,Male,Yes,3,Sep-1993,Earth-616,Marvel,<10
+392,Kim Lewis,Secret,Neutral,Brown,Black,Female,Yes,1,Dec-1948,Earth-616,Marvel,<10
+393,Frank Carver,Public,Neutral,Green,White,Male,Yes,1,Sep-1948,Earth-616,Marvel,<10
+394,Duntumbla,Non-dual,Neutral,Red,Brown,Unknown,Yes,1,May-1994,Earth-616,Marvel,<10
+395,Aftermath,Public,Neutral,White,No,Male,Yes,2,Jan-1994,Earth-616,Marvel,<10
+396,Todd Tremaine,Non-dual,Neutral,Green,Brown,Male,Yes,1,Nov-1989,Earth-616,Marvel,<10
+397,Tabicantra,Non-dual,Neutral,Green,Brown,Female,No,1,Feb-1981,Earth-616,Marvel,<10
+398,Frederick Slade,Secret,Neutral,Green,Pink,Male,Yes,4,May-2006,Earth-616,Marvel,<10
+399,Danika Trevani,Public,Neutral,Blue,Blond,Female,No,4,Dec-1990,Earth-616,Marvel,<10
+400,Nancy Sekido,Public,Neutral,Black,Black,Female,Yes,1,Dec-1987,Earth-616,Marvel,<10
+401,Judy Harmon,Public,Neutral,White,Black,Female,Yes,2,May-1968,Earth-616,Marvel,<10
+402,Christine McDermott,Public,Neutral,Brown,Brown,Female,Yes,6,Sep-2004,Earth-616,Marvel,<10
+403,Basaltar,Non-dual,Neutral,Grey,No,Male,Yes,1,Oct-2000,Earth-616,Marvel,<10
+404,Father Time,Public,Neutral,Brown,White,Male,No,1,Sep-1947,Earth-616,Marvel,<10
+405,Manphibian,Secret,Neutral,Red,Bald,Male,Yes,15,Sep-1975,Earth-616,Marvel,<100
+406,Dana Hutton,Public,Neutral,Black,Blond,Female,No,2,Sep-2004,Earth-616,Marvel,<10
+407,William Robert Reilly,Public,Neutral,Blue,Blond,Male,No,37,Aug-2001,Earth-616,Marvel,<100
+408,Jacob Reiss,Public,Neutral,Black,Black,Male,No,3,Jan-1973,Earth-616,Marvel,<10
+409,Caveman,Secret,Neutral,White,Brown,Male,Yes,1,Nov-1985,Earth-616,Marvel,<10
+410,Jacques LeBeau,Secret,Neutral,Blue,White,Male,No,5,Jan-2000,Earth-616,Marvel,<10
+411,Philo Baker,Public,Neutral,Green,White,Male,Yes,1,Mar-1943,Earth-616,Marvel,<10
+412,Alan Desmond,Public,Neutral,Brown,Brown,Male,Yes,1,Jul-1994,Earth-616,Marvel,<10
+413,Rufus King,Public,Neutral,Brown,No,Male,No,1,Dec-1945,Earth-616,Marvel,<10
+414,Helkooky,Public,Neutral,Green,No,Male,Yes,1,Jan-1996,Earth-616,Marvel,<10
+415,Vanisher,Secret,Neutral,Green,Bald,Male,Yes,89,Nov-1963,Earth-616,Marvel,<100
+416,Water,Public,Neutral,Blue,Brown,Unknown,Yes,2,Jul-1981,Earth-616,Marvel,<10
+417,John Buscema,Public,Neutral,Brown,Black,Male,Yes,1,Sep-1968,Earth-616,Marvel,<10
+418,Leona Tremaine,Public,Neutral,Brown,Bald,Female,Yes,1,May-2003,Earth-616,Marvel,<10
+419,Krawskin,Secret,Neutral,Brown,No,Male,No,1,Dec-2012,Earth-616,Marvel,<10
+420,Dawn Fury,Public,Neutral,Brown,Blond,Female,Yes,6,Aug-1967,Earth-616,Marvel,<10
+421,Elaine Clayton,Non-dual,Neutral,Blue,Blond,Female,Yes,1,Sep-1947,Earth-616,Marvel,<10
+422,Cole Chase,Secret,Neutral,Blue,Black,Male,No,3,Mar-1997,Earth-616,Marvel,<10
+423,Robert Smith,Public,Neutral,Blue,Brown,Male,Yes,1,Mar-1978,Earth-616,Marvel,<10
+424,Colosso,Secret,Neutral,Brown,Blond,Male,Yes,3,Jul-1966,Earth-616,Marvel,<10
+425,Ulysses Bloodstone,Secret,Neutral,Blue,Blond,Male,No,47,Feb-1960,Earth-616,Marvel,<100
+426,Orkie,Public,Neutral,Green,White,Male,Yes,3,Jul-1972,Earth-616,Marvel,<10
+427,Madame Drache,Secret,Neutral,Blue,No,Female,No,2,Dec-2001,Earth-616,Marvel,<10
+428,Curly,Public,Neutral,Brown,Bald,Male,Yes,1,Dec-1948,Earth-616,Marvel,<10
+429,Jeremy Wilson,Secret,Neutral,Black,Red,Male,Yes,3,Feb-1989,Earth-616,Marvel,<10
+430,Gammenon,Non-dual,Neutral,Brown,No,Male,Yes,31,Oct-1976,Earth-616,Marvel,<100
+431,Joan Jameson,Secret,Neutral,Brown,Brown,Female,Yes,1,Jan-2003,Earth-616,Marvel,<10
+432,Lambda-Zero,Secret,Neutral,Multiple,No,Female,No,23,Mar-2005,Earth-616,Marvel,<100
+433,Tarquin Berdeaux,Secret,Neutral,Green,Brown,Male,Yes,3,Aug-2004,Earth-616,Marvel,<10
+434,Oog,Non-dual,Neutral,Blue,Black,Male,Yes,2,Mar-1962,Earth-616,Marvel,<10
+435,Odin Borson,Public,Neutral,Blue,White,Male,Yes,502,Oct-1962,Earth-616,Marvel,<750
+436,Uranus Bliss,Public,Neutral,Brown,Brown,Female,Yes,3,Mar-1979,Earth-616,Marvel,<10
+437,Vril-Rokk,Public,Neutral,Blue,Black,Male,No,29,Oct-1977,Earth-616,Marvel,<100
+438,Janice Lincoln,Secret,Neutral,Black,Black,Female,Yes,18,Aug-2010,Earth-616,Marvel,<100
+439,Elizabeth Benning,Non-dual,Neutral,Black,Blond,Female,Yes,9,Nov-2007,Earth-616,Marvel,<10
+440,Riek Bukenya,Secret,Neutral,Black,Black,Male,No,1,Jun-2002,Earth-616,Marvel,<10
+441,Philip Betbeze,Public,Neutral,Brown,Black,Male,Yes,1,Jun-2002,Earth-616,Marvel,<10
+442,Barb,Non-dual,Neutral,Black,Brown,Female,Yes,3,Nov-1977,Earth-616,Marvel,<10
+443,Steven Danvers,Public,Neutral,Blue,Brown,Male,No,3,Aug-1978,Earth-616,Marvel,<10
+444,Carter Blaire,Non-dual,Neutral,Blue,Black,Male,No,18,Mar-1981,Earth-616,Marvel,<100
+445,Nanna,Secret,Neutral,Blue,Blond,Female,No,9,Mar-1981,Earth-616,Marvel,<10
+446,Seamus MacGillicuddy,Secret,Neutral,Brown,Red,Male,Yes,3,Nov-2007,Earth-616,Marvel,<10
+447,Sasha Ryan,Public,Neutral,Brown,Brown,Female,Yes,3,Mar-1993,Earth-616,Marvel,<10
+448,Rubin,Public,Neutral,Blue,Grey,Male,Yes,1,Oct-2004,Earth-616,Marvel,<10
+449,Number Ninety-Six,Secret,Neutral,Blue,Blond,Female,No,3,Feb-2010,Earth-616,Marvel,<10
+450,Justine Chase,Secret,Neutral,Green,Red,Female,No,3,Mar-1997,Earth-616,Marvel,<10
+451,Watoomb,Secret,Neutral,Red,No,Male,Yes,4,Apr-1979,Earth-616,Marvel,<10
+452,Willis Gottfried,Secret,Neutral,Blue,Blond,Male,Yes,2,Jul-1998,Earth-616,Marvel,<10
+453,Simeon,Public,Neutral,Blue,Grey,Male,No,9,Oct-1986,Earth-616,Marvel,<10
+454,David Brinkley,Public,Neutral,Brown,Grey,Male,Yes,3,Jul-1967,Earth-616,Marvel,<10
+455,The Writer,Public,Neutral,Black,Brown,Male,No,1,Nov-1994,Earth-616,Marvel,<10
+456,Otmu,Secret,Neutral,Brown,No,Male,Yes,1,Oct-1990,Earth-616,Marvel,<10
+457,Venom,Non-dual,Neutral,Variable,No,Genderless,Yes,23,Jun-2003,Unknown,Marvel,<100
+458,Jacob Fury,Secret,Neutral,Blue,Brown,Male,Yes,30,Aug-1967,Earth-616,Marvel,<100
+459,Elsie Grimm,Public,Neutral,Brown,Brown,Female,Yes,3,Jul-1983,Earth-616,Marvel,<10
+460,Futura,Secret,Neutral,Brown,Black,Female,Yes,1,Dec-1946,Earth-616,Marvel,<10
+461,Quog,Non-dual,Neutral,Brown,Red,Unknown,Yes,2,Oct-1939,Earth-616,Marvel,<10
+462,Bill,Secret,Neutral,White,White,Male,Yes,10,Jan-2010,Earth-616,Marvel,<10
+463,John Lopez,Secret,Neutral,Brown,Black,Male,No,13,Aug-2002,Earth-616,Marvel,<100
+464,Leiko Tan,Secret,Neutral,Brown,Black,Female,No,1,Jul-1987,Earth-616,Marvel,<10
+465,Reva Connors,Public,Neutral,Black,Black,Female,No,9,Jun-1972,Earth-616,Marvel,<10
+466,James Bourne,Public,Neutral,Brown,Brown,Male,Yes,44,Oct-1986,Earth-616,Marvel,<100
+467,Tian Mutant,Secret,Neutral,Blue,Bald,Male,No,1,Nov-2008,Earth-616,Marvel,<10
+468,Charon,Public,Neutral,Green,White,Male,Yes,8,Jan-1982,Earth-616,Marvel,<10
+469,Monsteroso,Public,Neutral,Blue,Black,Male,Yes,3,Oct-1961,Earth-616,Marvel,<10
+470,Wanda Maximoff,Public,Neutral,Red,Brown,Female,Yes,1,Nov-1996,Earth-616,Marvel,<10
+471,Edward Ferbel,Public,Neutral,Blue,Blond,Male,Yes,6,Sep-1981,Earth-616,Marvel,<10
+472,Sorrentino,Public,Neutral,White,Black,Female,Yes,8,Apr-1997,Earth-616,Marvel,<10
+473,Andrea Benton,Public,Neutral,Purple,Purple,Female,Yes,11,Apr-2013,Earth-616,Marvel,<100
+474,Gregory Dunbar,Public,Neutral,Blue,Brown,Male,Yes,1,Nov-1987,Earth-616,Marvel,<10
+475,Vron-Ikka,Secret,Neutral,Green,Red,Female,Yes,1,Nov-1989,Earth-616,Marvel,<10
+476,Charles Weiderman,Non-dual,Neutral,Blue,Blond,Male,Yes,10,Feb-2005,Earth-616,Marvel,<10
+477,Abner Doolittle,Secret,Neutral,Brown,Brown,Male,Yes,6,Sep-1976,Earth-616,Marvel,<10
+478,Kurt Marko,Public,Neutral,Black,Black,Male,No,14,Jul-1965,Earth-616,Marvel,<100
+479,Electron,Secret,Neutral,Blue,White,Male,Yes,38,Oct-1977,Earth-616,Marvel,<100
+480,Hubert Humperdinck,Non-dual,Neutral,Green,Brown,Male,No,1,Dec-1947,Earth-616,Marvel,<10
+481,Hobart Zemo,Public,Neutral,Blue,Blond,Male,No,1,Jun-2007,Earth-616,Marvel,<10
+482,Depth Charge,Secret,Neutral,Brown,Red,Male,Yes,2,Jul-1993,Earth-616,Marvel,<10
+483,General Wallace,Public,Neutral,Blue,Grey,Male,Yes,1,Apr-2005,Earth-616,Marvel,<10
+484,Daria,Non-dual,Neutral,Brown,Bald,Female,Yes,9,Oct-1996,Earth-616,Marvel,<10
+485,Naomi Ward,Non-dual,Neutral,Brown,Black,Female,Yes,2,Jan-2009,Earth-616,Marvel,<10
+486,Gaffney,Public,Neutral,Black,Blond,Male,Yes,1,Mar-1992,Earth-8410,Marvel,<10
+487,Angela Lipscombe,Non-dual,Neutral,Blue,Blond,Female,Yes,15,Mar-2000,Earth-616,Marvel,<100
+488,James Braddock Jr.,Non-dual,Neutral,Blue,Black,Male,No,56,Dec-1976,Earth-616,Marvel,<100
+489,Gabriel Stacy,Secret,Neutral,Brown,Brown,Male,Yes,22,Aug-2004,Earth-616,Marvel,<100
+490,William Puceanu,Non-dual,Neutral,Brown,Black,Male,Yes,1,Aug-1985,Earth-616,Marvel,<10
+491,Mr. Edgerton,Public,Neutral,Green,Bald,Male,No,1,Jul-1995,Earth-616,Marvel,<10
+492,Kathryn Twoyoungmen,Public,Neutral,Blue,Black,Female,No,6,Dec-1983,Earth-616,Marvel,<10
+493,Dibdeb,Public,Neutral,Green,No,Male,Yes,1,Oct-2000,Earth-616,Marvel,<10
+494,Guardian of the Spirit World,Secret,Neutral,Black,Black,Male,Yes,1,Feb-1942,Earth-616,Marvel,<10
+495,Mark Conroy,Public,Neutral,Brown,Black,Male,Yes,2,May-1992,Earth-616,Marvel,<10
+496,Donald Clendenon,Secret,Neutral,Brown,Black,Male,Yes,22,Oct-1992,Earth-616,Marvel,<100
+497,Broken Blade,Secret,Neutral,Red,Black,Female,Yes,6,Sep-2010,Earth-616,Marvel,<10
+498,Miriam Birchwood,Public,Neutral,Blue,Blond,Female,Yes,1,Oct-1996,Earth-616,Marvel,<10
+499,Eelar,Secret,Neutral,Red,No,Unknown,Yes,1,Jul-1975,Earth-616,Marvel,<10
+500,George Tremaine,Public,Neutral,Brown,Grey,Male,Yes,1,May-2003,Earth-616,Marvel,<10
+501,Glenn Talbot,Non-dual,Neutral,Blue,Brown,Male,No,151,Nov-1964,Earth-616,Marvel,<250
+502,Ashurbanipal,Secret,Neutral,Blue,Blond,Male,Yes,1,Aug-1975,Earth-616,Marvel,<10
+503,Glop,Public,Neutral,Yellow,No,Unknown,Yes,1,Jul-1961,Earth-616,Marvel,<10
+504,Fayrelyte Strongheart,Public,Neutral,Blue,White,Male,Yes,1,Oct-2000,Earth-616,Marvel,<10
+505,Louis Lembert,Secret,Neutral,Green,Blond,Male,Yes,12,Jul-1988,Earth-616,Marvel,<100
+506,David Lowell,Secret,Neutral,Green,Blond,Male,Yes,4,Jul-1997,Earth-616,Marvel,<10
+507,Goddess,Secret,Neutral,White,Blond,Female,Yes,36,Jul-1992,Earth-616,Marvel,<100
+508,Clement Wilson,Public,Neutral,Blue,Pink,Male,Yes,7,Feb-1992,Earth-616,Marvel,<10
+509,Howard Gideon,Non-dual,Neutral,Blue,Brown,Male,Yes,5,Apr-2005,Earth-616,Marvel,<10
+510,Mercedes Merced,Secret,Neutral,Brown,Black,Female,Yes,4,Nov-2010,Earth-616,Marvel,<10
+511,Supreme Pontiff,Secret,Neutral,Hazel,Black,Male,Yes,3,Jan-2002,Earth-616,Marvel,<10
+512,Archer Bryce,Non-dual,Neutral,Black,Black,Male,Yes,3,Jun-1994,Earth-616,Marvel,<10
+513,Dianne Bellamy,Secret,Neutral,Brown,Brown,Female,Yes,4,Mar-1986,Earth-616,Marvel,<10
+514,Erik Nicieza,Secret,Neutral,Red,Red,Male,Yes,1,May-2002,Earth-616,Marvel,<10
+515,Doctor Mobius,Secret,Neutral,Red,Blond,Male,Yes,1,Aug-1997,Earth-616,Marvel,<10
+516,Tom Byrnes,Non-dual,Neutral,Green,Blond,Male,Yes,1,Aug-1987,Earth-616,Marvel,<10
+517,Tefral,Secret,Neutral,Blue,No,Male,Yes,15,Jan-1977,Earth-616,Marvel,<100
+518,William Knoblach,Secret,Neutral,White,Bald,Male,Yes,3,Jul-2000,Earth-616,Marvel,<10
+519,Xak,Non-dual,Neutral,Yellow,No,Unknown,Yes,1,Jul-1991,Earth-616,Marvel,<10
+520,Alecto,Non-dual,Neutral,White,Brown,Male,Yes,5,Jun-1971,Earth-616,Marvel,<10
+521,Eldred,Secret,Neutral,Brown,Black,Male,Yes,1,Feb-1989,Earth-616,Marvel,<10
+522,Samantha Powell,Public,Neutral,Grey,Red,Female,Yes,6,Aug-1993,Earth-616,Marvel,<10
+523,Vincent King,Public,Neutral,Black,Brown,Male,No,1,Jun-1947,Earth-616,Marvel,<10
+524,Carmen Escudero,Public,Neutral,Brown,Red,Female,Yes,2,Apr-1976,Earth-616,Marvel,<10
+525,Albert DeVoor,Non-dual,Neutral,Blue,White,Male,Yes,5,Jul-1975,Earth-616,Marvel,<10
+526,Julia Winters,Non-dual,Neutral,Blue,Bald,Female,Yes,3,Oct-1974,Earth-616,Marvel,<10
+527,Bram Velsing,Secret,Neutral,Blue,Blond,Male,Yes,14,Aug-1977,Earth-616,Marvel,<100
+528,Alexandra Rasputina,Secret,Neutral,Blue,Grey,Female,No,18,May-1975,Earth-616,Marvel,<100
+529,Derrick Richardson,Secret,Neutral,Blue,Blond,Male,No,1,Aug-2009,Earth-616,Marvel,<10
+530,Wyatt Ohnn,Secret,Neutral,Blue,Brown,Male,Yes,1,May-2009,Earth-616,Marvel,<10
+531,John Dolan,Public,Neutral,Blue,Blond,Male,Yes,1,May-1949,Earth-616,Marvel,<10
+532,Fire-Eyes,Secret,Neutral,White,Red,Male,Yes,1,Nov-1976,Earth-616,Marvel,<10
+533,Marlena Petrokova,Public,Neutral,Blue,Black,Female,No,1,Oct-1997,Earth-616,Marvel,<10
+534,Araki,Non-dual,Neutral,Gold,White,Female,No,40,Feb-1978,Earth-616,Marvel,<100
+535,Sylk,Public,Neutral,Brown,Red,Female,Yes,1,May-1995,Earth-616,Marvel,<10
+536,Carter Ryking,Secret,Neutral,Green,Brown,Male,No,5,Sep-1992,Earth-616,Marvel,<10
+537,Esme Fernando,Secret,Neutral,Red,Black,Female,Yes,4,Jul-1987,Earth-616,Marvel,<10
+538,Acrobat,Secret,Neutral,Red,Black,Male,Yes,1,Aug-1977,Earth-616,Marvel,<10
+539,Orifice,Secret,Neutral,White,Black,Male,Yes,1,Sep-2002,Earth-616,Marvel,<10
+540,Phage,Public,Neutral,White,Bald,Genderless,Yes,14,May-1993,Earth-616,Marvel,<100
+541,Wyatt Sobel,Public,Neutral,Brown,Brown,Male,Yes,5,Aug-2002,Earth-616,Marvel,<10
+542,Kurani,Public,Neutral,Red,No,Unknown,Yes,2,Mar-2007,Earth-616,Marvel,<10
+543,Miho Mikashi,Secret,Neutral,Blue,Black,Female,Yes,4,Sep-1994,Earth-616,Marvel,<10
+544,Hunter in Darkness,Public,Neutral,Red,White,Unknown,Yes,11,Dec-1990,Earth-616,Marvel,<100
+545,William Turner,Secret,Neutral,Brown,Brown,Male,No,9,Nov-1974,Earth-616,Marvel,<10
+546,Wade Wilson,Secret,Neutral,Brown,Bald,Male,Yes,4,Mar-1999,Earth-616,Marvel,<10
+547,Michelle Balters,Secret,Neutral,Purple,Black,Female,Yes,3,Oct-1993,Earth-616,Marvel,<10
+548,Jacques Girard,Public,Neutral,Brown,Black,Male,Yes,10,Jan-1993,Earth-616,Marvel,<10
+549,James Cole,Secret,Neutral,Brown,Bald,Male,Yes,2,Mar-2013,Earth-616,Marvel,<10
+550,Second Sleeper,Public,Neutral,Brown,No,Male,Yes,2,Jan-1994,Earth-616,Marvel,<10
+551,Rimi Withnail,Public,Neutral,Green,Red,Female,Yes,1,May-2003,Earth-616,Marvel,<10
+552,Theodore Roberts,Public,Neutral,Blue,Brown,Male,Yes,18,Sep-1966,Earth-616,Marvel,<100
+553,Rob,Public,Neutral,Blue,Brown,Male,Yes,15,Aug-2006,Earth-616,Marvel,<100
+554,Sandman,Secret,Neutral,Black,White,Male,Yes,1,Mar-1943,Earth-616,Marvel,<10
+555,Ganya,Non-dual,Neutral,Brown,Blond,Female,Yes,1,Dec-1939,Earth-616,Marvel,<10
+556,Doug and Jerry,Secret,Neutral,Blue,Black,Male,Yes,2,Feb-2006,Earth-616,Marvel,<10
+557,Wright,Secret,Neutral,Brown,Black,Male,No,3,Apr-2002,Earth-616,Marvel,<10
+558,Astron,Secret,Neutral,Brown,Brown,Male,No,3,Apr-1981,Earth-616,Marvel,<10
+559,Ellen Brandt,Non-dual,Neutral,White,Brown,Female,Yes,17,May-1971,Earth-616,Marvel,<100
+560,Monmouth,Public,Neutral,Brown,No,Unknown,Yes,2,Sep-2000,Earth-616,Marvel,<10
+561,Agent Donohue,Public,Neutral,Black,Brown,Female,Yes,2,Oct-1989,Earth-616,Marvel,<10
+562,Bluestreak,Secret,Neutral,Blue,Brown,Male,No,4,Dec-2007,Earth-616,Marvel,<10
+563,Elaine,Public,Neutral,Brown,Blond,Female,Yes,1,Mar-2006,Earth-616,Marvel,<10
+564,99,Secret,Neutral,Blue,Brown,Male,Yes,1,Nov-1994,Earth-616,Marvel,<10
+565,Chip Martin,Secret,Neutral,Blue,Brown,Male,Yes,10,Nov-1979,Earth-616,Marvel,<10
+566,Acba,Secret,Neutral,White,No,Male,Yes,1,Aug-1991,Earth-616,Marvel,<10
+567,Ikarys,Public,Neutral,Blue,Bald,Male,Yes,2,Jun-2000,Earth-616,Marvel,<10
+568,William Lonestar,Public,Neutral,Grey,Brown,Male,Yes,5,Aug-1984,Earth-616,Marvel,<10
+569,Vampyr,Secret,Neutral,Black,Black,Male,No,1,Aug-2001,Earth-616,Marvel,<10
+570,Calumet,Public,Neutral,Green,White,Male,Yes,1,Jan-1991,Earth-616,Marvel,<10
+571,Samuel Ryan,Public,Neutral,Blue,Grey,Male,No,2,Dec-2010,Earth-616,Marvel,<10
+572,Agu,Non-dual,Neutral,Black,Brown,Male,Yes,5,Jul-1953,Earth-616,Marvel,<10
+573,Bryan Ryker,Secret,Neutral,Black,Black,Male,No,1,Feb-2013,Earth-616,Marvel,<10
+574,Visog,Non-dual,Neutral,Red,Black,Male,No,1,Jun-1994,Earth-616,Marvel,<10
+575,Steve Hardy,Non-dual,Neutral,White,No,Male,Yes,1,Jan-1940,Earth-616,Marvel,<10
+576,Harry S. Truman,Public,Neutral,Blue,White,Male,No,1,Jan-1949,Earth-616,Marvel,<10
+577,Voodini,Public,Neutral,Yellow,White,Male,No,1,Jan-1942,Earth-616,Marvel,<10
+578,Hal Flynt,Secret,Neutral,Black,Brown,Female,No,9,Jan-1995,Earth-616,Marvel,<10
+579,Gloria Rider,Public,Neutral,Blue,Bald,Female,Yes,30,Sep-1976,Earth-616,Marvel,<100
+580,Terry Kwan,Public,Neutral,Brown,Black,Female,Yes,11,Jan-1999,Earth-616,Marvel,<100
+581,Sonar,Secret,Neutral,White,Brown,Male,Yes,1,Mar-1993,Earth-616,Marvel,<10
+582,Thomas Williams,Secret,Neutral,Black,No,Male,Yes,1,Aug-2002,Earth-616,Marvel,<10
+583,Ugly John,Public,Neutral,Green,Brown,Male,No,2,Jul-2001,Earth-616,Marvel,<10
+584,Li Muan Ho,Public,Neutral,Blue,Black,Male,Yes,2,Feb-1991,Earth-616,Marvel,<10
+585,Victor Infante,Secret,Neutral,Red,No,Male,Yes,5,Aug-2002,Earth-616,Marvel,<10
+586,Adonis,Non-dual,Neutral,Black,Brown,Male,Yes,1,Jun-1951,Earth-616,Marvel,<10
+587,Heidi Franklin,Secret,Neutral,Blue,Black,Female,Yes,15,Oct-1990,Earth-616,Marvel,<100
+588,Makarioa Morbius,Public,Neutral,Blue,Black,Male,Yes,4,Feb-2013,Earth-616,Marvel,<10
+589,Jakkelburr,Public,Neutral,Blue,White,Male,Yes,1,Mar-1975,Earth-616,Marvel,<10
+590,Rigellian Grand Commissioner,Public,Neutral,Blue,No,Male,Yes,13,Sep-1966,Earth-616,Marvel,<100
+591,Adai,Non-dual,Neutral,Brown,Black,Female,Yes,1,Jun-2006,Earth-616,Marvel,<10
+592,Spinnerette,Secret,Neutral,Blue,Brown,Female,Yes,1,Dec-1981,Earth-616,Marvel,<10
+593,Speedo,Public,Neutral,Brown,Black,Male,Yes,1,Feb-1986,Earth-616,Marvel,<10
+594,Michael Hart,Secret,Neutral,Black,Bald,Male,Yes,7,Jun-2002,Earth-616,Marvel,<10
+595,John Tyler,Public,Neutral,Blue,White,Male,No,1,Mar-2013,Earth-616,Marvel,<10
+596,Soong,Public,Neutral,Orange,Black,Male,Yes,1,Sep-1990,Earth-616,Marvel,<10
+597,Frank Castle,Public,Neutral,Blue,Black,Male,Yes,878,Feb-1974,Earth-616,Marvel,<1000
+598,Boyd Wilson,Secret,Neutral,Black,Blond,Male,Yes,2,Dec-1985,Earth-616,Marvel,<10
+599,Kendra Louise Price,Secret,Neutral,Blue,Red,Female,No,10,Mar-1986,Earth-616,Marvel,<10
+600,Yellow Kid,Secret,Neutral,Blue,Bald,Male,Yes,2,Jun-2007,Earth-616,Marvel,<10
+601,Ghost Rider,Secret,Neutral,Red,No,Male,Yes,2,May-2009,Earth-616,Marvel,<10
+602,Pastor Kale,Public,Neutral,Blue,Blond,Male,Yes,3,Jul-1997,Earth-616,Marvel,<10
+603,Grady Scraps,Public,Neutral,Blue,Brown,Male,Yes,34,Jan-2011,Earth-616,Marvel,<100
+604,Mr. Powell,Public,Neutral,Black,Brown,Male,Yes,1,Dec-1995,Earth-616,Marvel,<10
+605,John Jonah Jameson,Non-dual,Neutral,Blue,Black,Male,Yes,1266,Mar-1963,Earth-616,Marvel,<1500
+606,Lumberjack,Public,Neutral,Blue,Black,Male,Yes,1,Apr-1987,Earth-616,Marvel,<10
+607,Keemia Alvarado,Secret,Neutral,Black,Black,Female,Yes,4,Feb-2010,Earth-616,Marvel,<10
+608,Kren,Public,Neutral,Black,Purple,Female,Yes,1,Oct-2009,Earth-616,Marvel,<10
+609,Cathy Jones,Public,Neutral,Black,Red,Female,Yes,2,Dec-1960,Earth-616,Marvel,<10
+610,Sacino,Public,Neutral,Red,Red,Female,Yes,1,May-2013,Earth-616,Marvel,<10
+611,Daniel Maddox,Public,Neutral,Green,Brown,Male,Yes,2,Apr-2007,Earth-616,Marvel,<10
+612,Reggie Bitters,Secret,Neutral,Brown,Brown,Male,Yes,1,Jul-1993,Earth-616,Marvel,<10
+613,William Baker,Secret,Neutral,Brown,Brown,Male,Yes,338,Sep-1963,Earth-616,Marvel,<500
+614,Julian Grey,Public,Neutral,Brown,Red,Male,No,1,Feb-2006,Earth-616,Marvel,<10
+615,Edward Leeds,Secret,Neutral,Blue,Brown,Male,No,181,Nov-1964,Earth-616,Marvel,<250
+616,Geronimo,Public,Neutral,Blue,Black,Male,Yes,2,Jun-1976,Earth-616,Marvel,<10
+617,Quill,Secret,Neutral,Brown,No,Male,Yes,13,Jul-1985,Earth-616,Marvel,<100
+618,Thomas Eliot,Public,Neutral,Brown,No,Male,No,2,Aug-2006,Earth-616,Marvel,<10
+619,Lorne Lincoln,Secret,Neutral,Black,Brown,Male,Yes,3,Feb-1985,Earth-616,Marvel,<10
+620,Mrs. Spalding,Secret,Neutral,Brown,Brown,Female,Yes,1,Sep-2010,Earth-616,Marvel,<10
+621,Kindra Grey,Public,Neutral,Black,Brown,Female,No,1,Feb-2006,Earth-616,Marvel,<10
+622,Lorelei Travis,Public,Neutral,Green,Pink,Female,Yes,19,Jul-2004,Earth-616,Marvel,<100
+623,George Clarendon,Public,Neutral,Black,Red,Male,Yes,1,Apr-1981,Earth-616,Marvel,<10
+624,Yod,Public,Neutral,Red,No,Unknown,Yes,6,Feb-1991,Earth-616,Marvel,<10
+625,Adam Wright,Non-dual,Neutral,Blue,Black,Male,Yes,2,Jan-1991,Earth-616,Marvel,<10
+626,Karl Sofen,Secret,Neutral,Green,Bald,Male,No,1,Apr-1999,Earth-616,Marvel,<10
+627,Brokar,Public,Neutral,Red,Black,Male,Yes,1,Feb-1977,Earth-616,Marvel,<10
+628,Hazram Chaliz,Public,Neutral,Black,Black,Male,Yes,3,May-1998,Earth-616,Marvel,<10
+629,Cole Wittman,Public,Neutral,Violet,Black,Female,Yes,4,Aug-2004,Earth-616,Marvel,<10
+630,Accolon,Non-dual,Neutral,Red,No,Unknown,Yes,1,Sep-1981,Earth-616,Marvel,<10
+631,Dominikos Petrakis,Secret,Neutral,Brown,Brown,Male,No,108,Jan-1981,Earth-616,Marvel,<250
+632,Donna Kiel,Public,Neutral,Green,Blond,Female,Yes,10,Aug-2011,Earth-616,Marvel,<10
+633,Fiorello La Guardia,Non-dual,Neutral,Blue,Black,Male,Yes,2,Oct-1939,Earth-616,Marvel,<10
+634,Teslav Tarasova,Secret,Neutral,Blue,Blond,Female,Yes,5,Mar-2013,Earth-616,Marvel,<10
+635,Mindwave,Secret,Neutral,Grey,White,Male,No,5,Oct-2007,Earth-616,Marvel,<10
+636,Grigory Russoff,Non-dual,Neutral,Brown,Black,Male,Yes,3,Mar-1974,Earth-616,Marvel,<10
+637,Erik Lonnroth,Public,Neutral,Green,Red,Male,No,3,Nov-2003,Earth-616,Marvel,<10
+638,Samuel Bernstein,Public,Neutral,Black,Black,Male,Yes,4,Nov-1982,Earth-616,Marvel,<10
+639,Stanley Osborn,Non-dual,Neutral,Black,Red,Male,Yes,7,Nov-2010,Earth-616,Marvel,<10
+640,Divinity,Secret,Neutral,White,No,Male,Yes,6,Jan-2000,Earth-616,Marvel,<10
+641,Elsa Chandler,Public,Neutral,Green,Red,Female,Yes,2,May-1994,Earth-616,Marvel,<10
+642,Solar Wind,Secret,Neutral,Blue,Black,Female,Yes,8,Apr-1992,Earth-616,Marvel,<10
+643,Startanious,Non-dual,Neutral,Black,Brown,Unknown,Yes,1,May-1994,Earth-616,Marvel,<10
+644,Onomi Whitemane,Secret,Neutral,Red,White,Female,Yes,15,May-2010,Earth-616,Marvel,<100
+645,K-Zek the Conduit,Secret,Neutral,Brown,No,Unknown,Yes,1,Mar-2013,Earth-616,Marvel,<10
+646,David Johnson,Public,Neutral,Brown,Brown,Male,Yes,1,Sep-1944,Earth-616,Marvel,<10
+647,Torgo,Non-dual,Neutral,Red,No,Male,Yes,17,Oct-1969,Earth-616,Marvel,<100
+648,Sikorsky,Secret,Neutral,Black,No,Male,Yes,31,Apr-1982,Earth-616,Marvel,<100
+649,Arthur Dearborn,Secret,Neutral,Blue,Brown,Male,Yes,15,Feb-1981,Earth-616,Marvel,<100
+650,Carrie Bradley,Public,Neutral,Brown,Red,Female,Yes,5,Nov-1995,Earth-616,Marvel,<10
+651,Alturi,Non-dual,Neutral,Red,Grey,Male,Yes,2,Aug-2011,Earth-616,Marvel,<10
+652,Edward Gardner,Public,Neutral,Green,Black,Male,Yes,2,Oct-1985,Earth-616,Marvel,<10
+653,Melinda Brewer,Public,Neutral,Green,Red,Female,Yes,4,Jan-1992,Earth-616,Marvel,<10
+654,Steele Fitzpatrick,Secret,Neutral,Blue,Bald,Male,Yes,14,Jan-1997,Earth-616,Marvel,<100
+655,Nikolai Rasputin,Secret,Neutral,Blue,Black,Male,No,16,May-1975,Earth-616,Marvel,<100
+656,Wibbow,Non-dual,Neutral,Black,Green,Male,Yes,1,Oct-2000,Earth-616,Marvel,<10
+657,Jenna,Non-dual,Neutral,Blue,Blond,Female,Yes,19,Jun-1971,Earth-616,Marvel,<100
+658,Ghost,Non-dual,Neutral,Red,Brown,Male,No,3,May-1961,Earth-616,Marvel,<10
+659,Ozel,Non-dual,Neutral,Green,Green,Female,Yes,1,May-1984,Earth-616,Marvel,<10
+660,Vivian Schist,Non-dual,Neutral,Blue,Grey,Female,Yes,1,Nov-1974,Earth-616,Marvel,<10
+661,Tongar,Secret,Neutral,Blue,Red,Male,Yes,1,Nov-1992,Earth-616,Marvel,<10
+662,Frank Gianelli,Secret,Neutral,Blue,Red,Male,Yes,16,May-1977,Earth-616,Marvel,<100
+663,Keniuchio Harada,Public,Neutral,Brown,Black,Male,No,82,Jul-1974,Earth-616,Marvel,<100
+664,Abraham Kieros,Secret,Neutral,Blue,Brown,Male,Yes,19,Dec-1986,Earth-616,Marvel,<100
+665,Pinta,Secret,Neutral,White,Red,Female,Yes,1,May-1991,Earth-616,Marvel,<10
+666,Monstrom,Secret,Neutral,One,White,Male,Yes,3,Sep-1960,Earth-616,Marvel,<10
+667,James Lucas,Non-dual,Neutral,Brown,Black,Male,Yes,14,Jun-1992,Earth-616,Marvel,<100
+668,Hektu,Public,Neutral,Brown,Brown,Male,Yes,2,Oct-1973,Earth-616,Marvel,<10
+669,Thernon,Public,Neutral,Brown,Black,Female,Yes,1,May-1995,Earth-616,Marvel,<10
+670,Politus,Secret,Neutral,White,Bald,Male,Yes,1,Jul-2006,Earth-616,Marvel,<10
+671,Mazinger Z,Secret,Neutral,Brown,Brown,Unknown,Yes,1,Feb-1979,Earth-616,Marvel,<10
+672,Thoran Rul,Public,Neutral,Grey,Black,Male,No,9,Apr-1979,Earth-616,Marvel,<10
+673,Vil,Secret,Neutral,Black,No,Female,Yes,56,Apr-2010,Earth-616,Marvel,<100
+674,Haemon,Non-dual,Neutral,Red,No,Male,Yes,2,Oct-1978,Earth-616,Marvel,<10
+675,Stefanya Melnikova,Secret,Neutral,Blue,Bald,Female,No,2,Nov-2004,Earth-616,Marvel,<10
+676,Captain Nemo,Non-dual,Neutral,Blue,Brown,Male,Yes,3,Jun-2012,Earth-616,Marvel,<10
+677,Geoff Monte,Public,Neutral,Yellow,Brown,Male,Yes,1,Oct-1993,Earth-616,Marvel,<10
+678,Victoria Bentley,Public,Neutral,Brown,Brown,Female,No,38,Nov-1963,Earth-616,Marvel,<100
+679,Aa-Gorn,Non-dual,Neutral,Blue,Black,Male,No,1,Aug-1991,Earth-616,Marvel,<10
+680,Matchstick Girl,Secret,Neutral,Green,Red,Female,Yes,1,Jul-2010,Earth-616,Marvel,<10
+681,Rebecca Ryker,Public,Neutral,Brown,Black,Female,Yes,23,Feb-2013,Earth-616,Marvel,<100
+682,Ralph Mortimer,Non-dual,Neutral,Green,Black,Male,No,1,Mar-1947,Earth-616,Marvel,<10
+683,Larisa Mishchenko,Non-dual,Neutral,Blue,Black,Female,No,5,Nov-2005,Earth-616,Marvel,<10
+684,Gris Gris,Secret,Neutral,Brown,Black,Male,Yes,7,Jan-1995,Earth-616,Marvel,<10
+685,Tanaka,Secret,Neutral,Blue,Bald,Male,No,1,Mar-2005,Earth-616,Marvel,<10
+686,Tybalt,Non-dual,Neutral,Red,White,Male,Yes,1,Jun-1981,Earth-616,Marvel,<10
+687,Ricardo Jones,Public,Neutral,Brown,Bald,Male,No,7,May-1966,Earth-616,Marvel,<10
+688,Richard Easton,Public,Neutral,Black,Grey,Male,Yes,3,Aug-1983,Earth-616,Marvel,<10
+689,Fletcher Traynor,Secret,Neutral,Purple,No,Male,Yes,3,Feb-2000,Earth-616,Marvel,<10
+690,Jenny,Public,Neutral,Brown,Red,Female,Yes,1,Nov-1995,Earth-616,Marvel,<10
+691,Simon Stroud,Non-dual,Neutral,Blue,Blond,Male,Yes,29,Jul-1974,Earth-616,Marvel,<100
+692,Bob,Secret,Neutral,Brown,Brown,Male,Yes,28,May-2007,Earth-616,Marvel,<100
+693,Tigerstryke,Secret,Neutral,Brown,Red,Male,Yes,9,Jun-1992,Earth-616,Marvel,<10
+694,Ralph Rider,Secret,Neutral,Red,No,Unknown,No,2,Aug-1977,Earth-616,Marvel,<10
+695,Leita,Public,Neutral,Yellow,Black,Female,Yes,1,Oct-1966,Earth-616,Marvel,<10
+696,Ghost,Secret,Neutral,Blue,Brown,Male,Yes,97,Jun-1987,Earth-616,Marvel,<100
+697,Schism,Secret,Neutral,Green,Blond,Unknown,Yes,1,May-2002,Earth-616,Marvel,<10
+698,Baranka,Non-dual,Neutral,Brown,No,Male,Yes,2,Jun-1994,Earth-616,Marvel,<10
+699,Heater Delight,Secret,Neutral,Green,Blond,Female,Yes,8,Apr-1976,Earth-616,Marvel,<10
+700,Bella Fishbach,Public,Neutral,Blue,Blond,Female,Yes,30,Jan-2011,Earth-616,Marvel,<100
+701,Clytemnestra Erwin,Public,Neutral,Brown,Brown,Female,No,35,Jun-1983,Earth-616,Marvel,<100
+702,Piskas,Public,Neutral,Brown,No,Male,Yes,1,Feb-1973,Earth-616,Marvel,<10
+703,Mike Nero,Secret,Neutral,Blue,White,Male,Yes,2,Nov-2009,Earth-616,Marvel,<10
+704,Somon,Public,Neutral,Brown,Orange,Unknown,Yes,10,Jul-1985,Earth-616,Marvel,<10
+705,Scientist Supreme,Secret,Neutral,Black,No,Male,Yes,2,Aug-1989,Earth-616,Marvel,<10
+706,Edda,Secret,Neutral,Blue,No,Male,Yes,1,Aug-1991,Earth-616,Marvel,<10
+707,Noel Penrose,Public,Neutral,Hazel,Bald,Male,Yes,1,Mar-2003,Earth-616,Marvel,<10
+708,Regean Lexico,Public,Neutral,Brown,Blond,Male,Yes,1,Mar-1940,Earth-616,Marvel,<10
+709,Mary Lavinia Octavius,Non-dual,Neutral,Black,Blue,Female,No,16,Nov-1993,Earth-616,Marvel,<100
+710,Seeker,Public,Neutral,Black,Black,Male,Yes,7,Sep-2011,Earth-616,Marvel,<10
+711,Charlton Grundge,Non-dual,Neutral,Brown,Green,Male,Yes,3,Dec-1975,Earth-616,Marvel,<10
+712,Infinity,Secret,Neutral,Red,Black,Unknown,Yes,19,Jul-1991,Earth-616,Marvel,<100
+713,McCleod,Public,Neutral,Brown,White,Male,Yes,2,Apr-1994,Earth-616,Marvel,<10
+714,Monstrollo,Secret,Neutral,Blue,Black,Unknown,Yes,2,Jan-1962,Earth-616,Marvel,<10
+715,Vernon Reaves,Secret,Neutral,Brown,Brown,Male,No,1,Aug-2001,Earth-616,Marvel,<10
+716,Nicholas Rutledge,Public,Neutral,Black,Black,Male,Yes,1,May-1996,Earth-616,Marvel,<10
+717,Larrs,Public,Neutral,Blue,White,Unknown,Yes,1,Nov-1989,Earth-616,Marvel,<10
+718,Michael Morbius,Secret,Neutral,Red,Black,Male,Yes,231,Oct-1971,Earth-616,Marvel,<250
+719,Cecilia Cardinale,Secret,Neutral,Brown,Brown,Female,Yes,16,Oct-1988,Earth-616,Marvel,<100
+720,Duron,Public,Neutral,Black,Brown,Male,No,1,Apr-1972,Earth-616,Marvel,<10
+721,Saja,Public,Neutral,Red,No,Male,Yes,1,Apr-1990,Earth-616,Marvel,<10
+722,Buford Hightower,Public,Neutral,Brown,Brown,Male,Yes,1,Feb-1985,Earth-616,Marvel,<10
+723,Minotaurus,Secret,Neutral,Brown,Brown,Male,Yes,2,Oct-1980,Earth-616,Marvel,<10
+724,Elephantine,Secret,Neutral,White,Brown,Male,Yes,2,Oct-1980,Earth-616,Marvel,<10
+725,James Sanders,Secret,Neutral,Brown,Blond,Male,Yes,93,Oct-1969,Earth-616,Marvel,<100
+726,Impossible Man,Non-dual,Neutral,Purple,No,Male,Yes,60,Feb-1963,Earth-616,Marvel,<100
+727,Ferret,Secret,Neutral,Yellow,Brown,Male,Yes,2,Apr-1993,Earth-616,Marvel,<10
+728,Makoth,Public,Neutral,Blue,Black,Male,Yes,2,Nov-1967,Earth-616,Marvel,<10
+729,Non-Newtonian Annie,Secret,Neutral,Green,Red,Female,Yes,1,Mar-2013,Earth-616,Marvel,<10
+730,Compass Rose,Secret,Neutral,Brown,Black,Unknown,Yes,2,Oct-2011,Earth-616,Marvel,<10
+731,Bernard Hoyster,Secret,Neutral,Blue,Black,Male,No,7,May-1993,Earth-616,Marvel,<10
+732,Spoilsport,Secret,Neutral,Green,Orange,Female,Yes,3,Jul-1999,Earth-616,Marvel,<10
+733,Ronald Reagan,Public,Neutral,Blue,Blond,Male,No,27,Jan-1977,Earth-616,Marvel,<100
+734,Edward Lansky,Public,Neutral,Brown,Brown,Male,Yes,30,Dec-1976,Earth-616,Marvel,<100
+735,Vanna Herald,Public,Neutral,Brown,Red,Female,No,1,Dec-1987,Earth-616,Marvel,<10
+736,Melissa Greville,Public,Neutral,Blue,Blond,Female,Yes,35,Aug-1976,Earth-616,Marvel,<100
+737,Glaktu,Public,Neutral,Blue,Black,Male,Yes,2,Feb-1990,Earth-616,Marvel,<10
+738,Delandra,Public,Neutral,Brown,Orange,Female,Yes,1,Jul-1975,Earth-616,Marvel,<10
+739,Raggadorr,Secret,Neutral,Brown,Brown,Male,Yes,3,Oct-1964,Earth-616,Marvel,<10
+740,Bart Slade,Public,Neutral,Green,Black,Male,Yes,10,Dec-1972,Earth-616,Marvel,<10
+741,Technovore,Public,Neutral,Blue,Grey,Male,Yes,2,Jul-1993,Earth-616,Marvel,<10
+742,Gloria Knoblach,Public,Neutral,Blue,Brown,Female,No,1,Aug-2001,Earth-616,Marvel,<10
+743,Scaleface,Secret,Neutral,Brown,Blue,Female,No,7,Dec-1986,Earth-616,Marvel,<10
+744,Cynthia Glass,Secret,Neutral,Blue,Brown,Female,No,6,Sep-1991,Earth-616,Marvel,<10
+745,Khan,Secret,Neutral,Brown,White,Male,Yes,8,Apr-2002,Earth-616,Marvel,<10
+746,Collier Mack,Secret,Neutral,Black,Black,Male,Yes,2,May-1992,Earth-616,Marvel,<10
+747,Roy Winters,Public,Neutral,Blue,Brown,Male,No,1,Mar-1945,Earth-616,Marvel,<10
+748,Monkey,Secret,Neutral,Blue,Black,Male,Yes,5,Nov-1988,Earth-616,Marvel,<10
+749,Erg,Secret,Neutral,One,Black,Male,Yes,44,Jul-1985,Earth-616,Marvel,<100
+750,Gregory Bestman,Public,Neutral,Green,Grey,Male,Yes,3,May-1983,Earth-616,Marvel,<10
+751,J. Norton,Public,Neutral,Green,Black,Male,No,2,Feb-1952,Earth-616,Marvel,<10
+752,Mindy Urich,Secret,Neutral,Brown,Black,Female,Yes,2,Oct-1995,Earth-616,Marvel,<10
+753,Bonita,Secret,Neutral,Blue,Auburn,Female,No,1,Apr-2001,Earth-616,Marvel,<10
+754,Jesse Thompson,Non-dual,Neutral,Green,Brown,Female,Yes,11,Oct-1997,Earth-616,Marvel,<100
+755,El-Ta,Public,Neutral,Brown,Bald,Female,Yes,1,Apr-2010,Earth-616,Marvel,<10
+756,Yana Li,Secret,Neutral,Black,Brown,Female,Yes,3,Aug-2009,Earth-616,Marvel,<10
+757,Millicent Collins,Public,Neutral,Blue,Blond,Female,Yes,321,Dec-1945,Earth-616,Marvel,<500
+758,Randac,Public,Neutral,Green,Bald,Male,Yes,6,Nov-1967,Earth-616,Marvel,<10
+759,Evelyn Necker,Public,Neutral,Green,Red,Female,Yes,8,Nov-2008,Earth-616,Marvel,<10
+760,Monica Warren,Public,Neutral,Black,Brown,Female,No,3,Jun-1995,Earth-616,Marvel,<10
+761,Matt Falcone,Public,Neutral,Blue,Black,Male,Yes,2,Aug-2004,Earth-616,Marvel,<10
+762,Timothy Anders,Public,Neutral,Brown,Red,Male,Yes,2,May-1984,Earth-616,Marvel,<10
+763,Vile,Secret,Neutral,Blue,No,Female,No,1,Dec-2012,Earth-616,Marvel,<10
+764,Mother Inferior,Secret,Neutral,Brown,Brown,Female,No,2,Jun-1991,Earth-616,Marvel,<10
+765,Cyclops,Secret,Neutral,One,Bald,Male,Yes,1,Dec-1962,Earth-616,Marvel,<10
+766,Edward Mulligan,Public,Neutral,Brown,No,Male,Yes,9,Oct-2004,Earth-616,Marvel,<10
+767,Judith Jacobs,Secret,Neutral,Brown,Black,Female,No,3,Feb-1997,Earth-616,Marvel,<10
+768,Gwendolyne Stacy,Public,Neutral,Blue,Blond,Female,No,1,Oct-2011,Earth-616,Marvel,<10
+769,Beautiful Dreamer,Non-dual,Neutral,Blue,Bald,Unknown,Yes,5,Sep-1999,Earth-616,Marvel,<10
+770,Robert Windhart,Secret,Neutral,Blue,Brown,Male,Yes,2,May-1989,Earth-616,Marvel,<10
+771,Farley Stillwell,Public,Neutral,Blue,Brown,Male,No,4,Jan-1965,Earth-616,Marvel,<10
+772,Terrance Mitchell,Non-dual,Neutral,Blue,Brown,Male,Yes,3,Mar-2012,Earth-616,Marvel,<10
+773,Edward Whelan,Secret,Neutral,Brown,Brown,Male,Yes,73,Aug-1982,Earth-616,Marvel,<100
+774,James K. Polk,Public,Neutral,Brown,No,Male,No,1,Mar-2013,Earth-616,Marvel,<10
+775,"Marko, the Manhunter",Public,Neutral,Black,Black,Male,Yes,2,Oct-1965,Earth-616,Marvel,<10
+776,Mina,Secret,Neutral,Brown,White,Female,Yes,8,Jun-2010,Earth-616,Marvel,<10
+777,Mister Howlett,Non-dual,Neutral,Blue,Grey,Male,No,5,Nov-2001,Earth-616,Marvel,<10
+778,Sala\u1e25 ad-Din Yusuf ibn Ayyub,Public,Neutral,Brown,Black,Male,No,3,Jan-1949,Earth-616,Marvel,<10
+779,Jenna Taylor,Public,Neutral,Blue,Black,Female,Yes,6,Sep-1984,Earth-616,Marvel,<10
+780,Razor Cut,Secret,Neutral,Yellow,Black,Male,Yes,4,Aug-1987,Earth-616,Marvel,<10
+781,Fountainhead,Secret,Neutral,White,Blond,Male,Yes,3,Oct-2008,Earth-616,Marvel,<10
+782,Thanatos,Secret,Neutral,Green,Blond,Male,Yes,4,Jan-2010,Earth-616,Marvel,<10
+783,Wormwhole Wodo,Secret,Neutral,Brown,No,Unknown,Yes,1,Mar-2013,Earth-616,Marvel,<10
+784,Scream,Secret,Neutral,Blue,Purple,Unknown,Yes,17,May-1993,Earth-616,Marvel,<100
+785,Kubik,Secret,Neutral,Black,White,Unknown,Yes,11,Mar-1988,Earth-616,Marvel,<100
+786,Myron Wilburn,Public,Neutral,Brown,Grey,Male,Yes,9,Nov-1982,Earth-616,Marvel,<10
+787,Amy Chen,Secret,Neutral,Black,Black,Female,Yes,34,Jul-1992,Earth-616,Marvel,<100
+788,Stewart Acheron,Public,Neutral,Blue,Blond,Male,Yes,11,Dec-2003,Earth-616,Marvel,<100
+789,Poser,Secret,Neutral,Brown,Brown,Female,Yes,1,Jul-2010,Earth-616,Marvel,<10
+790,Hiro-Kala,Non-dual,Neutral,Black,Black,Male,Yes,32,Sep-2008,Earth-616,Marvel,<100
+791,Hecara,Public,Neutral,Blue,Red,Female,Yes,1,Jan-2011,Earth-616,Marvel,<10
+792,Rax,Secret,Neutral,Blue,Blond,Male,No,7,May-2000,Earth-616,Marvel,<10
+793,Omar Barrenos,Public,Neutral,Brown,Brown,Male,Yes,4,Feb-1991,Earth-616,Marvel,<10
+794,Mammoth,Secret,Neutral,Blue,Black,Male,No,2,Oct-2001,Earth-616,Marvel,<10
+795,Nyssa,Secret,Neutral,Brown,Black,Female,No,2,Feb-2009,Earth-616,Marvel,<10
+796,Carthus,Public,Neutral,Black,No,Male,Yes,11,Dec-1998,Earth-616,Marvel,<100
+797,Nicholas Collins,Secret,Neutral,Brown,Black,Male,Yes,3,Jul-1990,Earth-616,Marvel,<10
+798,Carson Collier Senior,Public,Neutral,Blue,Grey,Male,Yes,8,Aug-1975,Earth-616,Marvel,<10
+799,Athena Parthenos,Non-dual,Neutral,Blue,Black,Female,No,54,May-1969,Earth-616,Marvel,<100
+800,F. Tieri,Secret,Neutral,Red,Black,Male,Yes,1,Sep-1996,Earth-616,Marvel,<10
+801,Butane,Secret,Neutral,White,No,Male,Yes,2,Apr-1993,Earth-616,Marvel,<10
+802,Gelt,Secret,Neutral,White,Blond,Unknown,Yes,6,Aug-2006,Earth-616,Marvel,<10
+803,Voletta Todd,Secret,Neutral,Green,Red,Female,Yes,7,Jun-1980,Earth-616,Marvel,<10
+804,Hardball,Secret,Neutral,Black,No,Male,Yes,4,Mar-1992,Earth-616,Marvel,<10
+805,Rita,Public,Neutral,Brown,Red,Female,Yes,3,Dec-2004,Earth-616,Marvel,<10
+806,Natsumi,Secret,Neutral,Black,Black,Female,No,3,Aug-2008,Earth-616,Marvel,<10
+807,Biff Rifkin,Non-dual,Neutral,Blue,Grey,Male,Yes,9,May-1981,Earth-616,Marvel,<10
+808,Charlie Cluster-7,Secret,Neutral,Blue,Black,Male,Yes,112,Aug-2002,Earth-616,Marvel,<250
+809,Ella,Secret,Neutral,Blue,Blond,Female,Yes,6,Sep-1995,Earth-616,Marvel,<10
+810,Claire Voyant,Secret,Neutral,Black,Blond,Female,Yes,25,Aug-1940,Earth-616,Marvel,<100
+811,Capriole,Secret,Neutral,Blue,Brown,Female,Yes,1,Apr-1986,Earth-616,Marvel,<10
+812,Boneyard,Secret,Neutral,Brown,Black,Female,Yes,2,Mar-1993,Earth-616,Marvel,<10
+813,Tang Jhimon,Secret,Neutral,Green,Black,Female,No,15,Nov-1989,Earth-616,Marvel,<100
+814,Fath,Public,Neutral,Blue,No,Male,Yes,4,Sep-1991,Earth-616,Marvel,<10
+815,Shades,Secret,Neutral,Brown,Bald,Male,No,10,Jun-1972,Earth-616,Marvel,<10
+816,Host,Public,Neutral,Blue,Black,Female,Yes,10,Dec-2003,Earth-616,Marvel,<10
+817,Piranis,Secret,Neutral,Yellow,No,Male,Yes,1,Nov-1995,Earth-616,Marvel,<10
+818,Harry Manners,Secret,Neutral,Brown,Bald,Male,No,2,Jan-1998,Earth-616,Marvel,<10
+819,Brian Xavier,Public,Neutral,Black,Blond,Male,No,6,Mar-1986,Earth-616,Marvel,<10
+820,Gotron,Public,Neutral,Blue,Brown,Male,Yes,1,May-1964,Earth-616,Marvel,<10
+821,Iris,Secret,Neutral,Blue,Brown,Female,Yes,1,Mar-1993,Earth-616,Marvel,<10
+822,Joelle Guthrie,Public,Neutral,Blue,Brown,Female,Yes,7,Nov-1984,Earth-616,Marvel,<10
+823,Doctor Pow,Public,Neutral,Purple,Black,Male,Yes,1,Jul-2002,Earth-616,Marvel,<10
+824,Tomazooma,Public,Neutral,Black,Brown,Male,Yes,1,Nov-1968,Earth-616,Marvel,<10
+825,Silverfox,Secret,Neutral,Blue,Black,Female,No,39,Aug-1989,Earth-616,Marvel,<100
+826,Mikhail Rasputin,Secret,Neutral,Blue,Black,Male,Yes,35,Feb-1992,Earth-616,Marvel,<100
+827,Carl Shuffler,Public,Neutral,Brown,No,Male,Yes,1,Dec-1997,Earth-616,Marvel,<10
+828,Larry Carpenter,Public,Neutral,Yellow,Brown,Male,No,6,Jan-1987,Earth-616,Marvel,<10
+829,Captain Ott,Secret,Neutral,Green,Brown,Male,Yes,1,Jan-1940,Earth-616,Marvel,<10
+830,Ray Chandler,Public,Neutral,Green,Red,Male,Yes,4,Apr-1993,Earth-616,Marvel,<10
+831,Mary Purcell,Public,Neutral,Blue,No,Female,Yes,3,Nov-1998,Earth-616,Marvel,<10
+832,Gamiel,Secret,Neutral,Yellow,Black,Unknown,Yes,1,Dec-2005,Earth-616,Marvel,<10
+833,Llan,Public,Neutral,Red,Black,Male,Yes,15,Jun-1989,Earth-616,Marvel,<100
+834,Fire,Public,Neutral,Variable,Black,Unknown,Yes,2,Jul-1981,Earth-616,Marvel,<10
+835,Huyenneyuh,Non-dual,Neutral,Brown,Brown,Male,Yes,1,May-1994,Earth-616,Marvel,<10
+836,Zargus,Secret,Neutral,Brown,White,Male,Yes,1,Aug-1973,Earth-616,Marvel,<10
+837,Furman,Secret,Neutral,Black,Black,Male,Yes,2,Mar-1993,Earth-616,Marvel,<10
+838,Celestial Madonna,Secret,Neutral,Red,Black,Female,No,2,Jun-2010,Earth-616,Marvel,<10
+839,Strug,Secret,Neutral,Blue,Bald,Male,No,2,Jun-1972,Earth-616,Marvel,<10
+840,Leon Nunez,Secret,Neutral,Blue,Black,Male,Yes,7,Jun-2008,Earth-616,Marvel,<10
+841,Randall Macklin,Secret,Neutral,Blue,Brown,Male,Yes,1,Jan-1993,Earth-616,Marvel,<10
+842,Circus Pants XVII,Secret,Neutral,Black,Black,Male,Yes,1,Dec-1995,Earth-616,Marvel,<10
+843,Drexel Cord,Non-dual,Neutral,Brown,Grey,Male,No,2,Jun-1968,Earth-616,Marvel,<10
+844,Lennox Capriati,Public,Neutral,Blue,Blond,Male,No,1,May-2003,Earth-616,Marvel,<10
+845,Miles Brickman,Public,Neutral,Blue,Black,Male,Yes,4,Oct-1978,Earth-616,Marvel,<10
+846,Elizabeth Lavenza,Public,Neutral,Photocellular,Blond,Female,No,7,Jan-1973,Earth-616,Marvel,<10
+847,George W. Bush,Non-dual,Neutral,Blue,Grey,Male,Yes,23,Nov-2001,Earth-616,Marvel,<100
+848,Dexter Bennett,Non-dual,Neutral,Grey,White,Male,Yes,29,Mar-2008,Earth-616,Marvel,<100
+849,Isaac Newton,Public,Neutral,Blue,Grey,Male,Yes,10,Jun-2010,Earth-616,Marvel,<10
+850,Ivor,Public,Neutral,Brown,Brown,Male,No,1,Sep-1975,Earth-616,Marvel,<10
+851,Bill Gregory,Non-dual,Neutral,Blue,Orange,Male,Yes,28,Nov-1950,Earth-616,Marvel,<100
+852,302,Secret,Neutral,Brown,Black,Unknown,Yes,2,Aug-2011,Earth-616,Marvel,<10
+853,Mutate 24-601,Secret,Neutral,Brown,Bald,Male,Yes,2,May-1993,Earth-616,Marvel,<10
+854,Gomar,Public,Neutral,White,Brown,Male,No,1,Apr-1972,Earth-616,Marvel,<10
+855,John McCoy,Secret,Neutral,Blue,Black,Male,Yes,1,Nov-2008,Earth-616,Marvel,<10
+856,Ed Clements,Non-dual,Neutral,Blue,Black,Male,Yes,1,Jan-1947,Earth-616,Marvel,<10
+857,Paul Norbert Ebersol,Secret,Neutral,Brown,Black,Male,No,125,Feb-1966,Earth-616,Marvel,<250
+858,Valtorr,Secret,Neutral,Yellow,Grey,Unknown,Yes,3,Jan-1993,Earth-616,Marvel,<10
+859,Michael Bloomberg,Public,Neutral,Brown,Grey,Male,Yes,1,Mar-2011,Earth-616,Marvel,<10
+860,Satorymho,Public,Neutral,Brown,Red,Male,No,3,Aug-1975,Earth-616,Marvel,<10
+861,Cort Zo Tinnus,Secret,Neutral,Black,Orange,Male,Yes,9,Oct-1987,Earth-616,Marvel,<10
+862,Valerie Barnhardt,Secret,Neutral,Brown,Black,Female,No,11,Mar-2001,Earth-616,Marvel,<100
+863,Susan Maddox,Public,Neutral,Brown,Black,Female,Yes,5,Apr-2007,Earth-616,Marvel,<10
+864,Frank Payne,Secret,Neutral,Green,Bald,Male,Yes,134,Jun-1977,Earth-616,Marvel,<250
+865,John Wraith,Non-dual,Neutral,Brown,Bald,Male,No,18,Sep-1992,Earth-616,Marvel,<100
+866,One Above All,Secret,Neutral,White,No,Male,Yes,21,Jan-1977,Earth-616,Marvel,<100
+867,B. J. Kosmojian,Public,Neutral,Blue,Black,Male,Yes,8,May-1963,Earth-616,Marvel,<10
+868,Ramon Grant,Public,Neutral,Blue,Black,Male,Yes,2,Feb-1975,Earth-616,Marvel,<10
+869,Demogoblin,Secret,Neutral,Red,No,Male,No,40,Feb-1989,Earth-616,Marvel,<100
+870,Michael Pike,Non-dual,Neutral,Blue,Brown,Male,No,1,Apr-1974,Earth-616,Marvel,<10
+871,Adrian Lynn,Secret,Neutral,Black,Black,Female,Yes,4,Mar-1993,Earth-616,Marvel,<10
+872,Bulk,Secret,Neutral,Blue,Bald,Male,No,5,Aug-1986,Earth-616,Marvel,<10
+873,Alyssa,Secret,Neutral,Red,Blond,Female,Yes,8,Aug-2010,Earth-616,Marvel,<10
+874,Chuck Brandon,Public,Neutral,Brown,Brown,Male,Yes,1,Jun-1945,Earth-616,Marvel,<10
+875,Tejpal Gavaskar,Secret,Neutral,Brown,Brown,Male,Yes,1,Sep-2010,Earth-616,Marvel,<10
+876,Walter Clark,Non-dual,Neutral,Blue,Grey,Male,No,1,Jan-1947,Earth-616,Marvel,<10
+877,Sean Cassidy,Secret,Neutral,Green,Red,Male,Yes,374,Jan-1967,Earth-616,Marvel,<500
+878,Ling McPherson,Public,Neutral,Brown,Black,Female,Yes,12,Sep-1979,Earth-616,Marvel,<100
+879,Jill Stacy,Public,Neutral,Blue,Black,Female,Yes,97,Jan-1997,Earth-616,Marvel,<100
+880,Vanessa Brooks,Public,Neutral,Brown,Black,Female,No,3,Oct-1973,Earth-616,Marvel,<10
+881,Av-Rom,Non-dual,Neutral,Black,Black,Male,Yes,3,Mar-2006,Earth-616,Marvel,<10
+882,Rochelle LeBeau,Secret,Neutral,Brown,Brown,Female,Yes,1,Oct-2000,Earth-616,Marvel,<10
+883,Steven Caccone,Public,Neutral,Blue,Black,Male,No,3,Nov-1974,Earth-616,Marvel,<10
+884,Joe Robards,Non-dual,Neutral,Brown,White,Male,Yes,4,Apr-2013,Earth-616,Marvel,<10
+885,Thurgood Vance,Public,Neutral,Black,White,Male,Yes,1,Jan-1980,Earth-616,Marvel,<10
+886,Hobgoblin,Secret,Neutral,Yellow,No,Male,No,19,Oct-1977,Earth-616,Marvel,<100
+887,Mass,Secret,Neutral,Black,Red,Male,Yes,2,Mar-2013,Earth-616,Marvel,<10
+888,Sonny Bean,Public,Neutral,Blue,No,Male,No,1,Aug-2002,Earth-616,Marvel,<10
+889,Ernest Scope,Non-dual,Neutral,Green,Black,Male,Yes,4,Apr-2001,Earth-616,Marvel,<10
+890,Kruggar,Non-dual,Neutral,Red,No,Male,Yes,1,Oct-1992,Earth-616,Marvel,<10
+891,Agamotto,Secret,Neutral,Variable,Variable,Male,No,19,Jun-1974,Earth-616,Marvel,<100
+892,Pukatus Jr.,Secret,Neutral,Brown,Black,Male,Yes,1,Feb-2013,Earth-616,Marvel,<10
+893,Lucia Callasantos,Secret,Neutral,Yellow,Red,Female,Yes,14,Jan-1992,Earth-616,Marvel,<100
+894,Sharra Neramani,Secret,Neutral,Yellow,Purple,Female,No,49,Jun-1993,Earth-616,Marvel,<100
+895,Allison Kemp,Public,Neutral,Brown,Brown,Female,Yes,5,Feb-2012,Earth-616,Marvel,<10
+896,Vanessa Fisk,Non-dual,Neutral,Blue,Black,Female,No,46,Mar-1969,Earth-616,Marvel,<100
+897,Penny Newsom,Secret,Neutral,Blue,Blond,Female,Yes,5,Jan-2011,Earth-616,Marvel,<10
+898,Alistair,Public,Neutral,Brown,Black,Unknown,Yes,1,Jul-2007,Earth-616,Marvel,<10
+899,Lightning Bug,Secret,Neutral,Blue,Bald,Unknown,No,1,Mar-1989,Earth-616,Marvel,<10
+900,Sheba Sugarfangs,Secret,Neutral,Red,Brown,Female,Yes,1,Nov-2010,Earth-616,Marvel,<10
+901,Suzanne Gaffney,Public,Neutral,Blue,Blond,Female,Yes,1,Jan-1991,Earth-616,Marvel,<10
+902,Zalph,Public,Neutral,Blue,Brown,Male,Yes,1,Sep-1989,Earth-616,Marvel,<10
+903,Spiro Agnew,Public,Neutral,Red,White,Male,Yes,6,Nov-1970,Earth-616,Marvel,<10
+904,Albert,Non-dual,Neutral,Red,Black,Male,Yes,19,Mar-1991,Earth-616,Marvel,<100
+905,Sadie Frickett,Non-dual,Neutral,Blue,Red,Female,Yes,5,Jan-1981,Earth-616,Marvel,<10
+906,Ka-Nu,Public,Neutral,Green,White,Male,Yes,9,Mar-1971,Earth-616,Marvel,<10
+907,Walter Barrett,Public,Neutral,Blue,Black,Male,Yes,4,Jul-2003,Earth-616,Marvel,<10
+908,Wanderer,Secret,Neutral,Brown,Purple,Female,Yes,2,Aug-2000,Earth-616,Marvel,<10
+909,Serpent King,Public,Neutral,Brown,No,Unknown,Yes,1,May-2007,Earth-616,Marvel,<10
+910,Shannon Kane,Secret,Neutral,Brown,Black,Female,Yes,5,May-1993,Earth-616,Marvel,<10
+911,Corrine Walton,Secret,Neutral,Blue,Black,Female,No,1,Oct-1993,Earth-616,Marvel,<10
+912,Thomas Zebulon Guthrie,Secret,Neutral,Blue,Blond,Male,No,2,Nov-1982,Earth-616,Marvel,<10
+913,Hans Knoblach,Secret,Neutral,Blue,Brown,Male,No,1,Jul-2001,Earth-616,Marvel,<10
+914,Sophie Grimm,Public,Neutral,Blue,Black,Female,No,1,Jul-1993,Earth-616,Marvel,<10
+915,Randall Jessup,Public,Neutral,Brown,Blond,Male,Yes,15,Mar-2013,Earth-616,Marvel,<100
+916,Ekho,Secret,Neutral,Brown,Black,Female,Yes,1,Dec-1948,Earth-616,Marvel,<10
+917,Cilicia,Public,Neutral,Red,Black,Female,Yes,34,Sep-1979,Earth-616,Marvel,<100
+918,Beautiful Dreamer,Secret,Neutral,Grey,Black,Female,No,15,Jul-1985,Earth-616,Marvel,<100
+919,Sun Yat,Public,Neutral,Blue,White,Male,Yes,1,Dec-1947,Earth-616,Marvel,<10
+920,General Combest,Public,Neutral,Green,Brown,Male,No,2,Sep-2010,Earth-616,Marvel,<10
+921,Andrea Rodgers,Public,Neutral,Brown,Black,Unknown,Yes,1,Feb-1978,Earth-616,Marvel,<10
+922,Wernher von Blitzschlag,Public,Neutral,Blue,White,Male,Yes,35,May-2007,Earth-616,Marvel,<100
+923,Daniel Grimm,Public,Neutral,Green,Black,Male,Yes,5,Jul-1983,Earth-616,Marvel,<10
+924,Chang,Secret,Neutral,Purple,White,Male,No,4,Mar-1989,Earth-616,Marvel,<10
+925,Sponge,Secret,Neutral,Blue,Black,Female,Yes,3,Mar-1993,Earth-616,Marvel,<10
+926,Marie-Ange Colbert,Secret,Neutral,Green,Red,Female,No,38,Jun-1984,Earth-616,Marvel,<100
+927,Evelyn Richards,Public,Neutral,Blue,Brown,Female,No,1,Nov-1995,Earth-616,Marvel,<10
+928,Ditmal Pirvat,Secret,Neutral,Brown,Black,Male,Yes,4,Nov-1990,Earth-616,Marvel,<10
+929,Golden Angel,Secret,Neutral,Black,Blond,Male,Yes,1,May-1963,Earth-616,Marvel,<10
+930,Gene Bitner,Public,Neutral,Blue,Bald,Male,Yes,6,Dec-1956,Earth-616,Marvel,<10
+931,Reed Richards,Secret,Neutral,Brown,Brown,Male,Yes,20,May-1972,Earth-616,Marvel,<100
+932,Willie Flower,Non-dual,Neutral,Brown,Brown,Male,Yes,1,May-1948,Earth-616,Marvel,<10
+933,Gorn,Public,Neutral,Red,Brown,Male,No,2,Oct-1981,Earth-616,Marvel,<10
+934,Elizabeth Braddock,Secret,Neutral,Blue,Purple,Female,Yes,708,Dec-1976,Earth-616,Marvel,<750
+935,Nina Ambrose,Non-dual,Neutral,Blue,Blond,Female,Yes,4,May-2013,Earth-616,Marvel,<10
+936,Ocelot,Secret,Neutral,Green,Brown,Male,Yes,2,Mar-1993,Earth-616,Marvel,<10
+937,Nu-An,Secret,Neutral,Black,Black,Male,Yes,35,May-1974,Earth-616,Marvel,<100
+938,Caitlyn MacDonald,Public,Neutral,Blue,Red,Female,No,2,Apr-2009,Earth-616,Marvel,<10
+939,Arus,Non-dual,Neutral,Brown,Blond,Male,Yes,2,Oct-1976,Earth-616,Marvel,<10
+940,Karrg,Secret,Neutral,Blue,No,Unknown,Yes,1,Dec-1994,Earth-616,Marvel,<10
+941,Maxwell Glenn,Non-dual,Neutral,Blue,Blond,Male,Yes,2,Jun-1976,Earth-616,Marvel,<10
+942,Phil,Public,Neutral,Brown,Brown,Male,Yes,1,Aug-2011,Earth-616,Marvel,<10
+943,Isis,Secret,Neutral,Black,Black,Female,Yes,10,Sep-1975,Earth-616,Marvel,<10
+944,Glitch,Secret,Neutral,Blue,Red,Female,Yes,1,Aug-2010,Earth-616,Marvel,<10
+945,Aberdeen Angus,Secret,Neutral,Brown,Brown,Male,Yes,3,Feb-1993,Earth-616,Marvel,<10
+946,Nichole Martin,Secret,Neutral,Green,Red,Female,Yes,5,Sep-2007,Earth-616,Marvel,<10
+947,Gwenny Lee,Secret,Neutral,Green,Black,Female,Yes,3,Nov-1969,Earth-616,Marvel,<10
+948,Donna Strange,Public,Neutral,Brown,Brown,Female,Yes,3,Nov-1989,Earth-616,Marvel,<10
+949,Director X,Secret,Neutral,Blue,Grey,Male,Yes,4,Aug-1997,Earth-616,Marvel,<10
+950,Grigory,Secret,Neutral,Green,Black,Male,Yes,1,Nov-2005,Earth-616,Marvel,<10
+951,Yeti,Secret,Neutral,Red,White,Male,Yes,1,Sep-1977,Earth-616,Marvel,<10
+952,Frederick Foswell,Secret,Neutral,Blue,Brown,Male,No,83,Mar-1964,Earth-616,Marvel,<100
+953,Eobar Garrington,Secret,Neutral,Green,Black,Male,No,7,Dec-1973,Earth-616,Marvel,<10
+954,Madeline Watson,Secret,Neutral,Brown,Blond,Female,No,8,Dec-1984,Earth-616,Marvel,<10
+955,Krush,Public,Neutral,Blue,Black,Male,Yes,1,May-1995,Earth-616,Marvel,<10
+956,Ted Young,Non-dual,Neutral,Yellow,Black,Male,Yes,1,Dec-1945,Earth-616,Marvel,<10
+957,Slugger Sykes,Non-dual,Neutral,Brown,Black,Male,No,1,Jun-1967,Earth-616,Marvel,<10
+958,Cyanide,Secret,Neutral,Yellow,Bald,Male,Yes,2,Feb-1993,Earth-616,Marvel,<10
+959,Burning Snake,Secret,Neutral,Blue,Brown,Unknown,Yes,4,May-1976,Earth-616,Marvel,<10
+960,Nicola Bradley,Public,Neutral,Blue,Black,Male,No,1,Aug-2009,Earth-616,Marvel,<10
+961,Masumi,Public,Neutral,Black,Black,Male,No,1,Dec-1988,Earth-616,Marvel,<10
+962,Jaboa Murphy,Public,Neutral,Brown,Red,Female,Yes,2,Jul-1991,Earth-616,Marvel,<10
+963,Arnold Urich,Secret,Neutral,Brown,Black,Male,Yes,2,Oct-1995,Earth-616,Marvel,<10
+964,Michelangelo Simoni,Secret,Neutral,Blue,Red,Male,Yes,6,Apr-2011,Earth-616,Marvel,<10
+965,Agrimet,Public,Neutral,Green,Grey,Male,No,1,Aug-2003,Earth-616,Marvel,<10
+966,Sanjar Javeed,Secret,Neutral,Black,Bald,Male,Yes,9,Jan-2011,Earth-616,Marvel,<10
+967,Robert Farrell,Secret,Neutral,Brown,Black,Male,Yes,51,Sep-1977,Earth-616,Marvel,<100
+968,Ben Morse,Non-dual,Neutral,Blue,Blond,Male,Yes,2,Sep-2010,Earth-616,Marvel,<10
+969,Stretch,Secret,Neutral,Hazel,Brown,Male,Yes,9,Sep-2005,Earth-616,Marvel,<10
+970,Sublime,Secret,Neutral,Blue,Black,Unknown,Yes,24,Jun-1991,Earth-616,Marvel,<100
+971,April Maye,Non-dual,Neutral,Green,Blond,Female,Yes,10,Jul-1979,Earth-616,Marvel,<10
+972,Valentin Shatalov,Secret,Neutral,Brown,Blue,Male,Yes,11,Apr-1990,Earth-616,Marvel,<100
+973,Susan Dane,Public,Neutral,Blue,Black,Female,Yes,1,Mar-1947,Earth-616,Marvel,<10
+974,Jester IV,Public,Neutral,Blue,Green,Male,Yes,17,Apr-1984,Earth-616,Marvel,<100
+975,Bartos,Non-dual,Neutral,Blue,No,Male,Yes,1,Oct-2000,Earth-616,Marvel,<10
+976,Prester John,Secret,Neutral,Blue,Red,Male,No,27,Sep-1966,Earth-616,Marvel,<100
+977,Lou Snider,Public,Neutral,Red,Black,Male,Yes,8,Oct-1980,Earth-616,Marvel,<10
+978,Beyonder,Secret,Neutral,Variable,Variable,Male,Yes,81,May-1984,Earth-616,Marvel,<100
+979,William,Public,Neutral,White,Grey,Male,No,1,Oct-2001,Earth-616,Marvel,<10
+980,Heather McNeil,Public,Neutral,Green,Red,Female,Yes,252,Nov-1980,Earth-616,Marvel,<500
+981,Congressman Gundersen,Public,Neutral,Hazel,White,Male,Yes,1,Oct-1980,Earth-616,Marvel,<10
+982,Tracy Burke,Public,Neutral,Hazel,Grey,Female,Yes,14,Aug-1977,Earth-616,Marvel,<100
+983,Freak Quincy,Secret,Neutral,White,Black,Male,Yes,1,Apr-1990,Earth-616,Marvel,<10
+984,Miguela Tores,Secret,Neutral,Brown,Brown,Female,Yes,5,Nov-1996,Earth-616,Marvel,<10
+985,Cee,Secret,Neutral,Blue,Black,Male,No,2,Aug-2006,Earth-616,Marvel,<10
+986,George Stonewell,Public,Neutral,Brown,Blond,Male,Yes,1,Mar-1964,Earth-616,Marvel,<10
+987,Yuriko Takiguchi,Non-dual,Neutral,White,White,Male,No,31,Aug-1977,Earth-616,Marvel,<100
+988,Mambo Layla,Public,Neutral,Brown,Auburn,Female,No,5,Jul-1973,Earth-616,Marvel,<10
+989,Katherine Blaire,Non-dual,Neutral,Blue,Blond,Female,Yes,11,Mar-1981,Earth-616,Marvel,<100
+990,Gloria Santiago,Public,Neutral,Brown,Brown,Female,Yes,3,Feb-2006,Earth-616,Marvel,<10
+991,Tyreseus,Public,Neutral,Green,Brown,Male,No,1,Dec-1985,Earth-616,Marvel,<10
+992,Owen McGuinness,Non-dual,Neutral,Hazel,Grey,Male,Yes,1,Apr-2010,Earth-616,Marvel,<10
+993,Ernst Erskine,Secret,Neutral,Green,White,Male,Yes,6,Jul-2007,Earth-616,Marvel,<10
+994,Robert Christansen,Public,Neutral,Blue,Black,Male,Yes,3,Jul-2011,Earth-616,Marvel,<10
+995,Cerexo,Secret,Neutral,White,Black,Male,Yes,1,Mar-1971,Earth-616,Marvel,<10
+996,Troy Killkelly,Public,Neutral,Brown,Brown,Male,No,6,Mar-2004,Earth-616,Marvel,<10
+997,Phineas Mason,Public,Neutral,Grey,White,Male,Yes,62,May-1963,Earth-616,Marvel,<100
+998,Robert Kelly,Public,Neutral,Brown,Brown,Male,No,50,May-1980,Earth-616,Marvel,<100
+999,Jeremy,Public,Neutral,Blue,Blond,Male,Yes,1,Sep-2003,Earth-616,Marvel,<10
+1000,Richard Bloom,Secret,Neutral,Red,Brown,Male,Yes,6,Oct-1993,Earth-616,Marvel,<10
+1001,Rank,Secret,Neutral,Black,Bald,Male,Yes,1,Dec-1999,Earth-616,Marvel,<10
+1002,Modred,Secret,Neutral,Blue,Silver,Male,Yes,61,Oct-1975,Earth-616,Marvel,<100
+1003,Fang,Secret,Neutral,Brown,Brown,Male,No,12,Oct-1977,Earth-616,Marvel,<100
+1004,Evangelina Rivera,Non-dual,Neutral,Brown,Black,Female,No,3,Aug-2003,Earth-616,Marvel,<10
+1005,Davida DeVito,Public,Neutral,Blue,Black,Female,Yes,34,Aug-1979,Earth-616,Marvel,<100
+1006,Verg,Non-dual,Neutral,Red,No,Male,No,1,Nov-2010,Earth-616,Marvel,<10
+1007,Conan,Non-dual,Neutral,Blue,Black,Male,Yes,787,Oct-1970,Earth-616,Marvel,<1000
+1008,Minister Marvel,Public,Neutral,Green,No,Male,No,3,Jun-2012,Earth-616,Marvel,<10
+1009,Liu Wo-Han,Public,Neutral,Black,Black,Male,Yes,1,Sep-2000,Earth-616,Marvel,<10
+1010,Gordon Lefferts,Secret,Neutral,Brown,Blond,Male,No,2,Jan-1993,Earth-616,Marvel,<10
+1011,Johnny Carson,Public,Neutral,Black,White,Male,Yes,9,Jul-1967,Earth-616,Marvel,<10
+1012,Rav Gavaskar,Public,Neutral,Brown,Black,Male,Yes,5,Sep-2010,Earth-616,Marvel,<10
+1013,Peanut,Secret,Neutral,Brown,No,Unknown,Yes,3,Jan-1993,Earth-616,Marvel,<10
+1014,Lens,Secret,Neutral,Yellow,No,Male,Yes,1,Mar-1993,Earth-616,Marvel,<10
+1015,Abigail Harkness,Public,Neutral,Brown,Brown,Female,Yes,1,Jan-2000,Earth-616,Marvel,<10
+1016,Dan Strom,Non-dual,Neutral,Brown,Brown,Male,Yes,1,Jul-2002,Earth-616,Marvel,<10
+1017,Tessa,Secret,Neutral,Red,Black,Female,Yes,1,Jul-1993,Earth-616,Marvel,<10
+1018,Dahrev,Public,Neutral,Black,Black,Female,Yes,1,Oct-2009,Earth-616,Marvel,<10
+1019,Awesome Android,Non-dual,Neutral,Brown,No,Male,Yes,73,Jun-1963,Earth-616,Marvel,<100
+1020,"Jacob Gavin, Jr.",Secret,Neutral,Blue,Black,Female,Yes,18,Aug-1993,Earth-616,Marvel,<100
+1021,Gray Russell,Secret,Neutral,Red,Brown,Male,Yes,4,Aug-1993,Earth-616,Marvel,<10
+1022,Peter Parker,Secret,Neutral,Hazel,Bald,Male,No,8,Mar-1995,Earth-616,Marvel,<10
+1023,Angela,Secret,Neutral,Blue,Blond,Female,No,4,Feb-2011,Earth-616,Marvel,<10
+1024,Dean Swayvrick,Public,Neutral,Blue,Black,Male,No,3,Jan-1994,Earth-616,Marvel,<10
+1025,Ertzia,Non-dual,Neutral,Red,Bald,Male,Yes,1,Feb-2011,Earth-616,Marvel,<10
+1026,He Who Remains,Public,Neutral,Black,No,Male,Yes,5,Mar-1976,Earth-616,Marvel,<10
+1027,Kallark,Public,Neutral,Blue,Blue,Male,Yes,160,Oct-1977,Earth-616,Marvel,<250
+1028,AC-DC,Secret,Neutral,Red,Bald,Male,Yes,15,Jul-1985,Earth-616,Marvel,<100
+1029,Iceman,Secret,Neutral,Red,Blond,Male,Yes,5,Jan-2011,Earth-616,Marvel,<10
+1030,Folkbern Logan,Non-dual,Neutral,Brown,Black,Male,Yes,1,Jun-2013,Earth-616,Marvel,<10
+1031,Buck Chisholm,Secret,Neutral,Brown,Brown,Male,No,17,Dec-1987,Earth-616,Marvel,<100
+1032,Black Ogre,Secret,Neutral,Brown,Black,Male,Yes,1,Apr-1953,Earth-616,Marvel,<10
+1033,Rita Worth,Public,Neutral,Blue,Blond,Female,No,1,Jun-1945,Earth-616,Marvel,<10
+1034,Santos,Public,Neutral,Brown,Red,Male,Yes,1,Dec-2008,Earth-616,Marvel,<10
+1035,Amergin,Public,Neutral,Amber,Grey,Male,No,2,Nov-1982,Earth-616,Marvel,<10
+1036,Conn,Public,Neutral,Brown,Black,Male,Yes,11,Sep-1980,Earth-616,Marvel,<100
+1037,Mignonette Gotlib,Public,Neutral,Brown,Brown,Female,Yes,1,Aug-2011,Earth-616,Marvel,<10
+1038,Ed Rutgers,Public,Neutral,Blue,White,Male,No,1,Sep-1945,Earth-616,Marvel,<10
+1039,Ellis Kincaid,Public,Neutral,Grey,Brown,Male,Yes,6,Aug-2005,Earth-616,Marvel,<10
+1040,Katos,Non-dual,Neutral,Red,No,Male,Yes,3,Nov-1988,Earth-616,Marvel,<10
+1041,Scrounger,Secret,Neutral,Black,Black,Male,Yes,4,Jul-1976,Earth-616,Marvel,<10
+1042,Selach,Public,Neutral,Blue,Black,Male,Yes,7,Nov-2010,Earth-616,Marvel,<10
+1043,Tinkerbelle,Secret,Neutral,Blue,Bald,Female,Yes,3,Mar-1976,Earth-616,Marvel,<10
+1044,Frederick,Public,Neutral,Brown,Black,Male,Yes,1,Nov-1999,Earth-616,Marvel,<10
+1045,Alexander van Tilburg,Non-dual,Neutral,Blue,Brown,Male,No,6,Nov-1979,Earth-616,Marvel,<10
+1046,James Burley,Secret,Neutral,Blue,Black,Male,Yes,7,Sep-1992,Earth-616,Marvel,<10
+1047,Manta,Public,Neutral,White,No,Female,Yes,48,Sep-1980,Earth-616,Marvel,<100
+1048,Mortimer Toynbee,Secret,Neutral,Black,Brown,Male,Yes,210,Mar-1964,Earth-616,Marvel,<250
+1049,Eddie,Public,Neutral,Black,Brown,Male,Yes,1,Mar-1988,Earth-616,Marvel,<10
+1050,Freddie Stanachek,Public,Neutral,White,Brown,Male,Yes,4,Oct-1984,Earth-616,Marvel,<10
+1051,Kondrati Topolov,Secret,Neutral,Blue,Bald,Male,No,23,May-1973,Earth-616,Marvel,<100
+1052,Billy Ward,Non-dual,Neutral,Brown,Brown,Male,Yes,1,Jan-2009,Earth-616,Marvel,<10
+1053,Morton Clegstead,Secret,Neutral,Grey,Bald,Male,No,3,Apr-1972,Earth-616,Marvel,<10
+1054,Richard Obadiah Johnston,Public,Neutral,Brown,Brown,Male,Yes,1,Sep-1988,Earth-616,Marvel,<10
+1055,Tom,Non-dual,Neutral,Brown,Brown,Male,Yes,1,Dec-1939,Earth-616,Marvel,<10
+1056,Dotty Benson,Public,Neutral,Green,Blond,Female,Yes,1,Sep-1945,Earth-616,Marvel,<10
+1057,Terry Bollea,Public,Neutral,Blue,Blond,Male,Yes,2,Feb-1988,Earth-616,Marvel,<10
+1058,Mikhail Gorbachev,Public,Neutral,Yellow,White,Male,Yes,4,May-1989,Earth-616,Marvel,<10
+1059,Michael Shauneghan,Public,Neutral,Blue,Brown,Male,Yes,1,Feb-1991,Earth-616,Marvel,<10
+1060,Jesse Johns,Public,Neutral,Green,Black,Male,Yes,2,Sep-1984,Earth-616,Marvel,<10
+1061,David Lieberman,Secret,Neutral,Green,Brown,Male,No,163,Nov-1987,Earth-616,Marvel,<250
+1062,Mort Morbid,Secret,Neutral,Blue,Black,Male,Yes,1,Nov-1948,Earth-616,Marvel,<10
+1063,Berthold Sternberg,Non-dual,Neutral,Brown,Bald,Male,No,1,Dec-1976,Earth-616,Marvel,<10
+1064,Mr. Davis,Non-dual,Neutral,Blue,Brown,Male,Yes,2,Jun-2002,Earth-616,Marvel,<10
+1065,Neifi,Public,Neutral,Brown,No,Male,Yes,6,Dec-1998,Earth-616,Marvel,<10
+1066,Alphan,Secret,Neutral,Yellow,Black,Unknown,Yes,1,Jul-1991,Earth-616,Marvel,<10
+1067,Wally Bevins,Public,Neutral,Blue,Blond,Male,Yes,2,Aug-1974,Earth-616,Marvel,<10
+1068,James Taylor James,Secret,Neutral,Brown,Auburn,Male,No,35,Jul-2008,Earth-616,Marvel,<100
+1069,Golden Gator,Secret,Neutral,Black,No,Male,Yes,1,May-2006,Earth-616,Marvel,<10
+1070,Thomas Foster,Public,Neutral,Brown,Black,Male,Yes,12,Feb-2007,Earth-616,Marvel,<100
+1071,Cormick Grimshaw,Public,Neutral,Brown,Blond,Male,Yes,23,Oct-1988,Earth-616,Marvel,<100
+1072,Phil,Public,Neutral,Black,Brown,Male,Yes,2,Feb-1988,Earth-616,Marvel,<10
+1073,Black Maria,Secret,Neutral,White,Black,Female,Yes,3,Dec-2007,Earth-616,Marvel,<10
+1074,Lucien Dennis,Public,Neutral,Brown,Red,Male,No,1,Aug-1946,Earth-616,Marvel,<10
+1075,Knorda,Public,Neutral,Brown,Blond,Female,Yes,7,Oct-1964,Earth-616,Marvel,<10
+1076,MCM-XLI,Secret,Neutral,Gold,Blond,Female,No,2,Aug-1975,Earth-616,Marvel,<10
+1077,Gali,Secret,Neutral,Brown,Black,Female,Yes,2,Jun-2009,Earth-616,Marvel,<10
+1078,Emnu,Non-dual,Neutral,Variable,Bald,Male,Yes,5,May-1964,Earth-616,Marvel,<10
+1079,Julian Phyffe,Secret,Neutral,Brown,Black,Male,Yes,9,Aug-1975,Earth-616,Marvel,<10
+1080,Gwyneth,Public,Neutral,Blue,Black,Female,No,3,Nov-1998,Earth-616,Marvel,<10
+1081,Siren,Secret,Neutral,Blue,Bald,Female,Yes,2,Jan-1986,Earth-616,Marvel,<10
+1082,Tania Belinskaya,Secret,Neutral,Blue,Black,Female,Yes,49,May-1976,Earth-616,Marvel,<100
+1083,Ares,Secret,Neutral,Brown,Brown,Male,No,236,Apr-1949,Earth-616,Marvel,<250
+1084,Josie,Public,Neutral,White,Blond,Female,Yes,15,Sep-1979,Earth-616,Marvel,<100
+1085,Arnold Dane,Non-dual,Neutral,Brown,Black,Male,No,1,Nov-2012,Earth-616,Marvel,<10
+1086,MeMe,Secret,Neutral,Green,Blue,Male,No,1,Sep-1992,Earth-616,Marvel,<10
+1087,Momenta,Secret,Neutral,No,Blond,Female,Yes,1,Mar-2005,Earth-616,Marvel,<10
+1088,John Lewandow,Public,Neutral,Black,Black,Male,Yes,2,Apr-1986,Earth-616,Marvel,<10
+1089,Geoffrey Wilder,Secret,Neutral,Brown,Black,Male,No,38,Jul-2003,Earth-616,Marvel,<100
+1090,Mary Alice Anders,Non-dual,Neutral,Hazel,Black,Female,No,8,Nov-1997,Earth-616,Marvel,<10
+1091,Harvey Farber,Public,Neutral,Black,Blond,Male,Yes,1,Jul-1980,Earth-616,Marvel,<10
+1092,Dementia,Secret,Neutral,Brown,Blue,Female,Yes,3,Jun-1993,Earth-616,Marvel,<10
+1093,Alice Graham,Non-dual,Neutral,Brown,Black,Female,Yes,1,Jul-1948,Earth-616,Marvel,<10
+1094,Ister,Secret,Neutral,Black,Bald,Male,No,2,Aug-2012,Earth-616,Marvel,<10
+1095,Diego Sandoval,Public,Neutral,Black,Brown,Male,Yes,4,Jul-2001,Earth-616,Marvel,<10
+1096,Centauron,Secret,Neutral,Brown,Black,Male,No,3,Jul-1980,Earth-616,Marvel,<10
+1097,Harry Sikes,Secret,Neutral,Brown,Brown,Male,Yes,9,May-1953,Earth-616,Marvel,<10
+1098,Hattie Saint-Ange,Public,Neutral,White,Red,Female,Yes,1,Jan-2005,Earth-616,Marvel,<10
+1099,Myron MacLain,Public,Neutral,Blue,Grey,Male,Yes,11,Jul-1969,Earth-616,Marvel,<100
+1100,Jane Thorne,Secret,Neutral,Black,Black,Female,Yes,23,Nov-1989,Earth-616,Marvel,<100
+1101,Elistis Diggenwell,Public,Neutral,Red,Black,Male,Yes,1,Nov-1948,Earth-616,Marvel,<10
+1102,John Warden,Public,Neutral,Black,Black,Male,Yes,1,Apr-2009,Earth-616,Marvel,<10
+1103,Magique,Secret,Neutral,Purple,White,Female,No,14,Oct-1977,Earth-616,Marvel,<100
+1104,Vittio,Public,Neutral,White,Black,Male,Yes,2,Mar-1994,Earth-616,Marvel,<10
+1105,Mesmero,Secret,Neutral,Green,Brown,Male,Yes,56,Oct-1968,Earth-616,Marvel,<100
+1106,Mindy McPherson,Non-dual,Neutral,Red,Black,Female,Yes,18,Nov-1969,Earth-616,Marvel,<100
+1107,Peter,Public,Neutral,Brown,Black,Male,No,2,Dec-2002,Earth-616,Marvel,<10
+1108,Bhadsha,Secret,Neutral,Yellow,No,Male,Yes,4,Apr-1986,Earth-616,Marvel,<10
+1109,Hilliard Zemo,Public,Neutral,Blue,Brown,Male,No,1,May-2007,Earth-616,Marvel,<10
+1110,Nicolai Vardoff,Secret,Neutral,White,White,Male,No,1,Sep-1941,Earth-616,Marvel,<10
+1111,Allen Crater,Non-dual,Neutral,Grey,Black,Male,Yes,1,Jul-2008,Earth-616,Marvel,<10
+1112,John J. Curtis,Non-dual,Neutral,Red,White,Male,Yes,1,Jul-1947,Earth-616,Marvel,<10
+1113,Elektra Natchios,Secret,Neutral,Blue,Black,Female,Yes,280,Jan-1981,Earth-616,Marvel,<500
+1114,Mycolojester,Secret,Neutral,Black,No,Unknown,Yes,2,Apr-2013,Earth-616,Marvel,<10
+1115,Kosinski,Public,Neutral,Blue,Brown,Male,Yes,2,Aug-1991,Earth-616,Marvel,<10
+1116,Lucia Page,Public,Neutral,Blue,Blue,Female,No,3,Feb-2006,Earth-616,Marvel,<10
+1117,Verna Maijus,Public,Neutral,Brown,Red,Female,Yes,2,Feb-1952,Earth-616,Marvel,<10
+1118,Rouler Marceaux,Secret,Neutral,Brown,Brown,Male,No,3,Feb-2000,Earth-616,Marvel,<10
+1119,Hippolyta,Secret,Neutral,Blue,Blond,Female,Yes,27,Apr-1966,Earth-616,Marvel,<100
+1120,Kayama Inouye,Secret,Neutral,Green,Black,Male,Yes,6,Jul-1991,Earth-616,Marvel,<10
+1121,Nicholas Fury,Non-dual,Neutral,Brown,Brown,Male,Yes,1137,May-1963,Earth-616,Marvel,<1500
+1122,Lynn Walsh,Secret,Neutral,Black,Blond,Female,Yes,5,Oct-1995,Earth-616,Marvel,<10
+1123,Rosalind Sharpe,Public,Neutral,Brown,Black,Female,Yes,22,Jun-1996,Earth-616,Marvel,<100
+1124,Mary Jo Duffy,Public,Neutral,Blue,Blond,Female,Yes,1,Oct-1977,Earth-616,Marvel,<10
+1125,Yeti,Secret,Neutral,Red,White,Male,Yes,8,Jun-1970,Earth-616,Marvel,<10
+1126,Pamela Pierce,Secret,Neutral,Brown,Blond,Female,Yes,3,Feb-2007,Earth-616,Marvel,<10
+1127,Carole,Public,Neutral,Brown,Brown,Female,Yes,1,Jul-1967,Earth-616,Marvel,<10
+1128,Barry Gwynn,Secret,Neutral,Blue,Grey,Male,Yes,2,May-2008,Earth-616,Marvel,<10
+1129,Munnopor,Secret,Neutral,Blue,Blue,Female,Yes,1,May-1964,Earth-616,Marvel,<10
+1130,Gamora,Non-dual,Neutral,Yellow,Black,Female,Yes,218,Jun-1975,Earth-616,Marvel,<250
+1131,Ard-Con,Secret,Neutral,White,Brown,Male,Yes,12,Mar-1973,Earth-616,Marvel,<100
+1132,Lucy Robinson,Secret,Neutral,Brown,Blond,Female,Yes,6,Mar-2001,Earth-616,Marvel,<10
+1133,Priscilla Lyons,Secret,Neutral,Blue,Red,Female,Yes,21,Jan-1987,Earth-616,Marvel,<100
+1134,Chalo,Secret,Neutral,Brown,Black,Male,Yes,1,Jun-1970,Earth-616,Marvel,<10
+1135,Brad Trent,Public,Neutral,Black,Blond,Male,Yes,1,Dec-1944,Earth-616,Marvel,<10
+1136,Shanna,Public,Neutral,Blue,Blond,Male,No,1,Apr-1972,Earth-616,Marvel,<10
+1137,Francis Smith,Public,Neutral,Blue,Brown,Male,Yes,3,Aug-2000,Earth-616,Marvel,<10
+1138,Janice Yanizeski,Secret,Neutral,Hazel,Blond,Female,Yes,40,Dec-1995,Earth-616,Marvel,<100
+1139,Rafael Scarfe,Public,Neutral,Blue,Brown,Male,Yes,44,Aug-1975,Earth-616,Marvel,<100
+1140,In-Betweener,Non-dual,Neutral,Black,No,Male,Yes,48,Oct-1975,Earth-616,Marvel,<100
+1141,Veritus,Public,Neutral,Yellow,Bald,Male,Yes,1,Apr-1999,Earth-616,Marvel,<10
+1142,Cody Robbins,Public,Neutral,Blue,Blond,Male,No,12,Sep-1984,Earth-616,Marvel,<100
+1143,Fahd Alireza,Secret,Neutral,Brown,Black,Male,Yes,3,Feb-2010,Earth-616,Marvel,<10
+1144,Sheila Marks,Known to Authorities,Neutral,Black,White,Female,Yes,2,Feb-1980,Earth-616,Marvel,<10
+1145,Tildie Soames,Secret,Neutral,Green,Orange,Female,Yes,4,Jul-2004,Earth-616,Marvel,<10
+1146,G-Type,Secret,Neutral,Blue,Bald,Male,Yes,5,May-2002,Earth-616,Marvel,<10
+1147,Maria Trovaya,Secret,Neutral,Black,Black,Female,No,6,Jun-1963,Earth-616,Marvel,<10
+1148,Benny Elton,Non-dual,Neutral,Brown,Brown,Male,Yes,1,May-1947,Earth-616,Marvel,<10
+1149,Michael Fleet,Secret,Neutral,Green,White,Male,Yes,2,Oct-1996,Earth-616,Marvel,<10
+1150,Joey Eliot,Public,Neutral,Blue,Brown,Male,Yes,11,Nov-2006,Earth-616,Marvel,<100
+1151,Kalikya,Public,Neutral,Blue,Brown,Female,Yes,5,Dec-1998,Earth-616,Marvel,<10
+1152,Spencer Smythe,Non-dual,Neutral,Blue,Grey,Male,No,21,Jun-1965,Earth-616,Marvel,<100
+1153,Sadista,Secret,Neutral,Red,Red,Female,Yes,2,Jun-1994,Earth-616,Marvel,<10
+1154,Moira Gray,Public,Neutral,Blue,Black,Female,No,1,Oct-2002,Earth-616,Marvel,<10
+1155,Jacko Tanner,Non-dual,Neutral,Black,Brown,Male,Yes,16,Oct-1976,Earth-616,Marvel,<100
+1156,Chons,Public,Neutral,Variable,Brown,Male,Yes,51,Nov-1980,Earth-616,Marvel,<100
+1157,Jacques Moreau,Secret,Neutral,Green,Black,Male,Yes,2,Dec-1985,Earth-616,Marvel,<10
+1158,Jean Bradley,Public,Neutral,Brown,Blond,Female,Yes,3,Jan-2005,Earth-616,Marvel,<10
+1159,Simon Hall,Secret,Neutral,Green,Red,Male,Yes,11,May-1993,Earth-616,Marvel,<100
+1160,Jarhead,Secret,Neutral,Brown,Blond,Unknown,Yes,2,Feb-2010,Earth-616,Marvel,<10
+1161,Ed Gross,Public,Neutral,White,Brown,Male,Yes,4,Jul-2005,Earth-616,Marvel,<10
+1162,Grannz,Secret,Neutral,Orange,Orange,Male,Yes,42,Oct-1977,Earth-616,Marvel,<100
+1163,Slee,Non-dual,Neutral,Brown,No,Male,Yes,1,Feb-1969,Earth-616,Marvel,<10
+1164,Bruce Fearing,Non-dual,Neutral,Brown,Black,Male,No,1,Jul-1947,Earth-616,Marvel,<10
+1165,Abrams,Non-dual,Neutral,Blue,Blond,Male,Yes,1,May-1988,Earth-616,Marvel,<10
+1166,Mary Gregory,Public,Neutral,White,Blond,Female,Yes,2,Nov-1950,Earth-616,Marvel,<10
+1167,Ghost of the Antarctic,Secret,Neutral,Brown,Red,Female,Yes,1,Jun-1954,Earth-616,Marvel,<10
+1168,Edwin Cord,Non-dual,Neutral,Brown,Grey,Male,Yes,12,Nov-1980,Earth-616,Marvel,<100
+1169,Charles Davies,Public,Neutral,Green,Black,Male,Yes,1,Aug-2011,Earth-616,Marvel,<10
+1170,Robwood,Public,Neutral,Green,Black,Male,Yes,1,Mar-1998,Earth-616,Marvel,<10
+1171,Robot Delta,Secret,Neutral,Blue,Blond,Unknown,No,2,Jun-1966,Earth-616,Marvel,<10
+1172,Sarnogg,Public,Neutral,Green,No,Male,No,2,Jun-2006,Earth-616,Marvel,<10
+1173,Puff,Secret,Neutral,Blue,White,Female,Yes,7,Apr-1985,Earth-616,Marvel,<10
+1174,Ed Jordan,Public,Neutral,Purple,Black,Male,No,1,Jun-1945,Earth-616,Marvel,<10
+1175,Zalme,Secret,Neutral,Brown,Black,Male,Yes,1,Jan-1984,Earth-616,Marvel,<10
+1176,Lavinia LeBlanc,Secret,Neutral,Grey,Grey,Female,No,10,Jul-1998,Earth-616,Marvel,<10
+1177,Winston Kranpuff,Non-dual,Neutral,Brown,White,Male,No,1,Oct-1988,Earth-616,Marvel,<10
+1178,Mindmeld,Secret,Neutral,White,Blond,Male,Yes,1,Jan-1997,Earth-616,Marvel,<10
+1179,Marianella Mancha,Public,Neutral,Brown,Black,Female,No,6,Jun-2005,Earth-616,Marvel,<10
+1180,Galen,Non-dual,Neutral,Red,No,Male,Yes,1,Aug-1992,Earth-616,Marvel,<10
+1181,The Entity,Secret,Neutral,White,Blond,Unknown,Yes,3,Oct-2005,Earth-616,Marvel,<10
+1182,Alphonse Frankenstein,Non-dual,Neutral,Green,Black,Male,Yes,5,Jan-1973,Earth-616,Marvel,<10
+1183,Gerhart,Public,Neutral,Brown,Blond,Male,No,1,Dec-1987,Earth-616,Marvel,<10
+1184,Edmond Winshed,Public,Neutral,Auburn,Black,Male,No,1,May-1975,Earth-616,Marvel,<10
+1185,933,Secret,Neutral,Brown,Blond,Unknown,Yes,1,Aug-2011,Earth-616,Marvel,<10
+1186,Lordin,Non-dual,Neutral,Yellow,Brown,Male,Yes,1,Oct-1939,Earth-616,Marvel,<10
+1187,Mutate 682,Secret,Neutral,Red,Bald,Female,No,1,Nov-1993,Earth-616,Marvel,<10
+1188,Jaard,Non-dual,Neutral,Gold,Gold,Male,No,3,Feb-1976,Earth-616,Marvel,<10
+1189,Gregor,Non-dual,Neutral,Red,No,Male,Yes,1,Jul-1973,Unknown,Marvel,<10
+1190,Amelia Voelker,Non-dual,Neutral,Brown,Brown,Female,Yes,1,Feb-1994,Earth-616,Marvel,<10
+1191,Gloria Dayne,Secret,Neutral,Blue,Blond,Female,Yes,14,Feb-1999,Earth-616,Marvel,<100
+1192,Meryet Karim,Secret,Neutral,Yellow,Black,Female,Yes,19,Oct-1990,Earth-616,Marvel,<100
+1193,Hogan adopted daughter,Non-dual,Neutral,Blue,Blond,Female,Yes,2,Oct-1985,Earth-616,Marvel,<10
+1194,Weapon X,Secret,Neutral,Brown,Black,Male,Yes,4,Dec-1998,Earth-616,Marvel,<10
+1195,Ted,Public,Neutral,Blue,Bald,Male,Yes,1,Apr-2002,Earth-616,Marvel,<10
+1196,Laralei,Public,Neutral,Blue,Black,Female,Yes,8,Aug-1977,Earth-616,Marvel,<10
+1197,Static,Secret,Neutral,Black,Orange,Male,Yes,3,Mar-1993,Earth-616,Marvel,<10
+1198,Luther Creed,Secret,Neutral,Brown,Brown,Male,No,1,Apr-2009,Earth-616,Marvel,<10
+1199,Skinsmith,Secret,Neutral,Red,Bald,Unknown,Yes,1,Jan-2013,Earth-616,Marvel,<10
+1200,Fizzure,Secret,Neutral,Red,Brown,Male,Yes,1,Aug-1993,Earth-616,Marvel,<10
+1201,Sara Robbins,Public,Neutral,Black,Black,Female,Yes,11,Jul-2002,Earth-616,Marvel,<100
+1202,Emma Frost,Public,Neutral,Blue,Brown,Female,Yes,880,Jan-1980,Earth-616,Marvel,<1000
+1203,Michael Bowen,Public,Neutral,Brown,Bald,Male,No,20,Dec-1980,Earth-616,Marvel,<100
+1204,Ashleigh Nichols,Non-dual,Neutral,Green,Blond,Female,Yes,8,Dec-2003,Earth-616,Marvel,<10
+1205,Alex Lipton,Public,Neutral,Red,Black,Male,No,1,Jan-1991,Earth-616,Marvel,<10
+1206,Namor McKenzie,Secret,Neutral,Blue,Black,Male,Yes,1,Dec-2003,Earth-616,Marvel,<10
+1207,Agent Deems,Secret,Neutral,Brown,Bald,Male,No,13,Oct-2006,Earth-616,Marvel,<100
+1208,Max Meer,Public,Neutral,Blue,Blond,Male,Yes,3,Oct-1991,Earth-616,Marvel,<10
+1209,It the Living Colossus,Secret,Neutral,White,Bald,Male,Yes,21,Feb-1961,Earth-616,Marvel,<100
+1210,Donald Menken,Non-dual,Neutral,Blue,Blond,Male,Yes,14,Apr-1983,Earth-616,Marvel,<100
+1211,Shadu the Shady,Secret,Neutral,Brown,Black,Male,Yes,3,Nov-2007,Earth-616,Marvel,<10
+1212,Donald Gill,Public,Neutral,Blue,Blue,Male,Yes,73,Oct-1987,Earth-616,Marvel,<100
+1213,Boris,Non-dual,Neutral,Blue,Grey,Male,Yes,15,Sep-1964,Earth-616,Marvel,<100
+1214,Nadia Dornova,Public,Neutral,Blue,Blond,Female,No,9,Jun-1991,Earth-616,Marvel,<10
+1215,Shift,Secret,Neutral,Brown,Bald,Male,Yes,2,Mar-2013,Earth-616,Marvel,<10
+1216,Mary Price,Secret,Neutral,Brown,Grey,Female,No,1,Aug-2009,Earth-616,Marvel,<10
+1217,Maria Carbonell,Public,Neutral,Brown,Grey,Female,Yes,19,Nov-1977,Earth-616,Marvel,<100
+1218,Uatu Jackson,Public,Neutral,Brown,Bald,Male,Yes,32,Jan-2011,Earth-616,Marvel,<100
+1219,Zarin,Secret,Neutral,Blue,Blond,Male,Yes,4,May-1977,Earth-616,Marvel,<10
+1220,Ms. Welsh,Public,Neutral,Brown,Brown,Female,Yes,1,Dec-1985,Earth-616,Marvel,<10
+1221,Divad,Secret,Neutral,Blue,Red,Male,Yes,15,Apr-1992,Earth-616,Marvel,<100
+1222,Gunna Sijurvald,Secret,Neutral,Brown,Black,Female,Yes,41,Aug-2010,Earth-616,Marvel,<100
+1223,Black Widow,Secret,Neutral,Brown,Brown,Female,No,2,Jan-2005,Earth-616,Marvel,<10
+1224,Maria Santos,Secret,Neutral,Brown,No,Unknown,Yes,2,Jun-1991,Earth-616,Marvel,<10
+1225,Huang,Public,Neutral,Brown,Black,Male,Yes,1,Feb-2011,Earth-616,Marvel,<10
+1226,Karen Lee,Non-dual,Neutral,Brown,Brown,Female,No,2,Jan-1984,Earth-616,Marvel,<10
+1227,Bleck,Non-dual,Neutral,Blue,Brown,Male,No,1,Oct-1939,Earth-616,Marvel,<10
+1228,Tuesday Bird,Public,Neutral,Blue,Black,Female,Yes,1,Feb-1996,Earth-616,Marvel,<10
+1229,Nick Iona,Public,Neutral,Blue,Blond,Male,Yes,1,Oct-1948,Earth-616,Marvel,<10
+1230,Kathy Stewart,Secret,Neutral,Blue,Red,Female,Yes,1,Nov-1972,Earth-616,Marvel,<10
+1231,Jennifer Stewart,Secret,Neutral,Brown,Black,Female,Yes,12,Aug-1995,Earth-616,Marvel,<100
+1232,Nezarr,Secret,Neutral,No,No,Male,Yes,21,Mar-1977,Earth-616,Marvel,<100
+1233,Helmut Zemo,Secret,Neutral,Blue,Blond,Male,No,4,Feb-2002,Earth-616,Marvel,<10
+1234,Terraxia,Secret,Neutral,Black,Black,Female,No,3,Sep-1991,Earth-616,Marvel,<10
+1235,Sebastian Shaw,Non-dual,Neutral,Blue,Black,Male,Yes,174,Jan-1980,Earth-616,Marvel,<250
+1236,Steven Partridge,Public,Neutral,Blue,White,Unknown,Yes,4,May-1991,Earth-616,Marvel,<10
+1237,Melinda Leucenstern,Public,Neutral,Brown,Black,Female,Yes,12,Mar-2013,Earth-616,Marvel,<100
+1238,Crater,Non-dual,Neutral,Brown,Red,Unknown,Yes,1,Jan-2008,Earth-616,Marvel,<10
+1239,Joe Mallon,Public,Neutral,Black,White,Male,Yes,1,Sep-1948,Earth-616,Marvel,<10
+1240,Nance Winters,Secret,Neutral,Blue,Black,Female,No,3,Oct-1991,Earth-616,Marvel,<10
+1241,Mogol,Non-dual,Neutral,White,Bald,Male,No,2,May-1970,Earth-616,Marvel,<10
+1242,Esteban Morales,Secret,Neutral,Brown,Black,Male,No,1,Jun-1996,Earth-616,Marvel,<10
+1243,Warren Worthington,Public,Neutral,Purple,Brown,Male,Yes,2,Jul-2009,Earth-616,Marvel,<10
+1244,Luz,Secret,Neutral,Blue,Blond,Female,Yes,4,Sep-2010,Earth-616,Marvel,<10
+1245,Damian Tryp Jr.,Secret,Neutral,Brown,Brown,Male,No,3,Feb-2006,Earth-616,Marvel,<10
+1246,Hugh Tyson,Public,Neutral,Red,Black,Male,No,1,Dec-1945,Earth-616,Marvel,<10
+1247,Jennifer Stavros,Secret,Neutral,Blue,Blond,Female,No,33,Jun-1984,Earth-616,Marvel,<100
+1248,Danny Dougherty,Public,Neutral,Brown,Red,Male,Yes,1,Jun-1941,Earth-616,Marvel,<10
+1249,Laura Dane,Public,Neutral,Blue,Black,Female,Yes,1,Jun-1945,Earth-616,Marvel,<10
+1250,Peter Parker,Secret,Neutral,Blue,Black,Male,No,12,Feb-1996,Earth-616,Marvel,<100
+1251,Frank Werner,Public,Neutral,Green,Brown,Male,Yes,2,Feb-1952,Earth-616,Marvel,<10
+1252,Xande,Non-dual,Neutral,Brown,Black,Male,Yes,1,Jul-2002,Earth-616,Marvel,<10
+1253,Bertrand Crawley,Non-dual,Neutral,Brown,White,Male,Yes,46,Jun-1976,Earth-616,Marvel,<100
+1254,Veritas,Non-dual,Neutral,Green,Blond,Male,Yes,1,Mar-1967,Earth-616,Marvel,<10
+1255,Ars Magna,Secret,Neutral,Brown,White,Unknown,Yes,2,Dec-1993,Earth-616,Marvel,<10
+1256,Baski,Non-dual,Neutral,Black,Black,Male,Yes,1,Dec-2008,Earth-616,Marvel,<10
+1257,Howard Foley,Secret,Neutral,Blue,Brown,Male,Yes,2,Jan-2004,Earth-616,Marvel,<10
+1258,Melody Jacobs,Secret,Neutral,Brown,Black,Female,Yes,38,Jan-1993,Earth-616,Marvel,<100
+1259,Llhupa Sanders,Secret,Neutral,Brown,Brown,Female,No,1,Dec-1940,Earth-616,Marvel,<10
+1260,Magnus,Public,Neutral,Red,No,Male,No,3,Nov-2003,Earth-616,Marvel,<10
+1261,Paul Stacy,Public,Neutral,Blue,Blond,Male,Yes,40,Mar-1997,Earth-616,Marvel,<100
+1262,Wolverine,Public,Neutral,Blue,Black,Male,Yes,3061,Oct-1974,Unknown,Marvel,>3000
+1263,Lydia Stumpmeyer,Public,Neutral,Black,Red,Female,Yes,3,Apr-2009,Earth-616,Marvel,<10
+1264,Leonus,Secret,Neutral,Blue,Yellow,Male,Yes,27,Oct-1968,Earth-616,Marvel,<100
+1265,David Roberts,Secret,Neutral,Blue,Purple,Male,Yes,2,Jan-1993,Earth-616,Marvel,<10
+1266,Angel of Vengeance,Secret,Neutral,Blue,Blond,Male,Yes,2,Jan-1993,Earth-616,Marvel,<10
+1267,Adva,Secret,Neutral,Brown,Black,Female,Yes,12,Oct-1998,Earth-616,Marvel,<100
+1268,Franz Heinrich,Public,Neutral,Red,Bald,Male,Yes,1,Jun-1951,Earth-616,Marvel,<10
+1269,General Standish,Public,Neutral,Green,Bald,Male,Yes,3,May-1992,Earth-616,Marvel,<10
+1270,Gideon Wilson,Secret,Neutral,Brown,Bald,Male,Yes,5,Sep-2007,Earth-616,Marvel,<10
+1271,Karima,Secret,Neutral,Black,Black,Female,Yes,3,Dec-1994,Earth-616,Marvel,<10
+1272,Achmed El Gib\u00e1r,Secret,Neutral,Blue,White,Male,No,6,Dec-1976,Earth-616,Marvel,<10
+1273,Karia,Non-dual,Neutral,Brown,No,Unknown,Yes,2,Jan-1993,Earth-616,Marvel,<10
+1274,Harris,Non-dual,Neutral,Blue,Grey,Male,Yes,2,Oct-1939,Earth-616,Marvel,<10
+1275,Amy Brewer,Non-dual,Neutral,Blue,Blond,Female,No,1,Feb-1992,Earth-616,Marvel,<10
+1276,Boris Vadim,Secret,Neutral,Yellow,Red,Male,No,13,Mar-2008,Earth-616,Marvel,<100
+1277,Apalla,Secret,Neutral,Blue,Red,Female,Yes,6,Apr-1977,Earth-616,Marvel,<10
+1278,Chronos,Public,Neutral,White,White,Male,Yes,1,Oct-2008,Earth-616,Marvel,<10
+1279,Sara Harrington,Public,Neutral,Blue,Red,Female,Yes,1,Aug-1993,Earth-616,Marvel,<10
+1280,Sulani,Non-dual,Neutral,Red,Red,Female,Yes,1,Dec-1939,Earth-616,Marvel,<10
+1281,Justicar,Public,Neutral,Brown,Black,Female,No,3,Apr-2013,Earth-616,Marvel,<10
+1282,Tyler Meagher,Public,Neutral,Blue,Brown,Female,Yes,8,Dec-1990,Earth-616,Marvel,<10
+1283,Maxwell Markham,Public,Neutral,Blue,Blond,Male,Yes,47,Dec-1974,Earth-616,Marvel,<100
+1284,Jerry Ward,Non-dual,Neutral,Black,Black,Male,Yes,2,Jan-2009,Earth-616,Marvel,<10
+1285,Jefferson Bolt,Public,Neutral,Brown,Black,Male,No,2,Jul-1972,Earth-616,Marvel,<10
+1286,Isabel Bunsen,Public,Neutral,Blue,Brown,Female,Yes,1,Mar-1987,Earth-616,Marvel,<10
+1287,Michi Sasaki,Secret,Neutral,White,Blond,Female,Yes,3,Jun-1991,Earth-616,Marvel,<10
+1288,Living Eraser,Secret,Neutral,Brown,Brown,Male,Yes,7,Nov-1963,Earth-616,Marvel,<10
+1289,Sporr,Public,Neutral,Blue,No,Unknown,Yes,2,Sep-1960,Earth-616,Marvel,<10
+1290,Oubliette Midas,Secret,Neutral,Blue,Blond,Female,Yes,17,Aug-2000,Earth-616,Marvel,<100
+1291,Nakka,Non-dual,Neutral,Red,Brown,Male,Yes,2,Aug-1991,Earth-616,Marvel,<10
+1292,Dreldan,Public,Neutral,Photocellular,Blond,Male,Yes,3,Jul-1997,Earth-616,Marvel,<10
+1293,Metallax the Untamer,Secret,Neutral,Red,No,Male,Yes,1,Feb-2013,Earth-616,Marvel,<10
+1294,Ard,Secret,Neutral,White,No,Male,Yes,2,Jun-1993,Earth-616,Marvel,<10
+1295,Exitar,Public,Neutral,Green,Green,Unknown,No,9,Jan-1988,Earth-616,Marvel,<10
+1296,Waya,Non-dual,Neutral,Red,Black,Female,Yes,1,Nov-2010,Earth-616,Marvel,<10
+1297,Dalia,Secret,Neutral,White,No,Female,Yes,2,Feb-1982,Earth-616,Marvel,<10
+1298,Wadlow,Secret,Neutral,Green,Grey,Male,Yes,1,Apr-1993,Earth-616,Marvel,<10
+1299,Satellite,Non-dual,Neutral,Blue,Black,Male,Yes,1,Dec-1995,Earth-616,Marvel,<10
+1300,Tyrr,Public,Neutral,Blue,Brown,Male,Yes,2,Sep-1972,Earth-616,Marvel,<10
+1301,Max Garr,Public,Neutral,Blue,Brown,Male,No,2,Jun-1961,Earth-616,Marvel,<10
+1302,Daniel Jermain,Public,Neutral,Green,Red,Male,Yes,3,Jun-2004,Earth-616,Marvel,<10
+1303,Brillalae,Secret,Neutral,Auburn,Black,Female,Yes,7,Jan-1976,Earth-616,Marvel,<10
+1304,Craig Simpson,Public,Neutral,Brown,Grey,Male,No,28,Aug-1972,Earth-616,Marvel,<100
+1305,Crusher,Public,Neutral,Brown,Brown,Male,Yes,3,Feb-1961,Earth-616,Marvel,<10
+1306,Larry Bodine,Non-dual,Neutral,Blue,Brown,Male,No,1,Nov-1986,Earth-616,Marvel,<10
+1307,Matt Coris,Secret,Neutral,Brown,White,Male,No,2,Dec-1989,Earth-616,Marvel,<10
+1308,Sally,Non-dual,Neutral,Blue,Blond,Female,Yes,2,Sep-2009,Earth-616,Marvel,<10
+1309,Deathlok,Secret,Neutral,Blue,Red,Unknown,No,8,Jul-1979,Earth-616,Marvel,<10
+1310,Vuk,Secret,Neutral,White,Green,Male,Yes,9,Mar-1964,Earth-616,Marvel,<10
+1311,Napoleon Sickles,Public,Neutral,Blue,Black,Male,Yes,6,Apr-1942,Earth-616,Marvel,<10
+1312,Frederick,Public,Neutral,Brown,Brown,Male,Yes,3,Apr-2009,Earth-616,Marvel,<10
+1313,Jet Zola,Secret,Neutral,Brown,Black,Female,Yes,20,Jan-2013,Earth-616,Marvel,<100
+1314,Henri LeBeau,Secret,Neutral,Red,Bald,Male,No,2,Dec-1993,Earth-616,Marvel,<10
+1315,Mother,Secret,Neutral,White,White,Female,Yes,4,Sep-2002,Earth-616,Marvel,<10
+1316,Thor Odinson,Public,Neutral,Red,Bald,Male,Yes,42,Sep-2006,Earth-616,Marvel,<100
+1317,Hector Espejo,Public,Neutral,Brown,Black,Male,Yes,5,Feb-2006,Earth-616,Marvel,<10
+1318,Tad Carter,Non-dual,Neutral,White,Brown,Male,Yes,6,Jul-1962,Earth-616,Marvel,<10
+1319,Salia Petrie,Public,Neutral,Blue,Brown,Female,Yes,6,Mar-1977,Earth-616,Marvel,<10
+1320,Kiana,Secret,Neutral,Brown,Black,Female,Yes,12,Oct-1980,Earth-616,Marvel,<100
+1321,Hank,Public,Neutral,Brown,Blond,Male,Yes,1,Jan-1988,Earth-616,Marvel,<10
+1322,Kusek,Non-dual,Neutral,Blue,No,Male,Yes,1,Oct-2000,Earth-616,Marvel,<10
+1323,Ryan Laporto,Secret,Neutral,Blue,Red,Male,No,2,Dec-1989,Earth-616,Marvel,<10
+1324,Olivia Cooper,Public,Neutral,Grey,Brown,Female,Yes,1,Jan-2007,Earth-616,Marvel,<10
+1325,Elektro,Public,Neutral,Red,No,Male,Yes,6,Jan-1961,Earth-616,Marvel,<10
+1326,Jonathan Drew,Public,Neutral,Brown,Black,Male,No,18,Apr-1978,Earth-616,Marvel,<100
+1327,Nikolai Krylenko,Secret,Neutral,Blue,Red,Male,Yes,53,Apr-1978,Earth-616,Marvel,<100
+1328,Ellie Phimister,Secret,Neutral,Black,Black,Female,No,14,Aug-2001,Earth-616,Marvel,<100
+1329,Mokadi,Public,Neutral,Brown,Black,Male,Yes,1,Mar-1975,Earth-616,Marvel,<10
+1330,Susan in Sunshine,Secret,Neutral,Green,Blond,Female,Yes,3,Jul-2011,Earth-616,Marvel,<10
+1331,Mrs. Cambell,Non-dual,Neutral,Red,Red,Female,No,1,Jul-2003,Earth-616,Marvel,<10
+1332,Porcal,Public,Neutral,Brown,Brown,Male,Yes,6,Jun-1995,Earth-616,Marvel,<10
+1333,Haroun ibn Sallah al-Rashid,Secret,Neutral,Black,Black,Male,No,35,Jun-1984,Earth-616,Marvel,<100
+1334,Ken Urich,Secret,Neutral,Green,Brown,Male,Yes,2,Oct-1995,Earth-616,Marvel,<10
+1335,Snoop,Secret,Neutral,Blue,Black,Male,Yes,2,Jan-1993,Earth-616,Marvel,<10
+1336,Victoria Wingate Hellstrom,Non-dual,Neutral,Blue,Brown,Female,Yes,4,Jan-1974,Earth-616,Marvel,<10
+1337,Joanne Beaubier,Public,Neutral,Yellow,Black,Female,No,1,Mar-1992,Earth-616,Marvel,<10
+1338,Lior Eschel,Public,Neutral,Green,Brown,Female,No,1,Dec-2008,Earth-616,Marvel,<10
+1339,Javier Caldrone,Public,Neutral,Brown,Black,Male,Yes,6,Jan-1999,Earth-616,Marvel,<10
+1340,Franklin Neal,Public,Neutral,Brown,Black,Male,Yes,1,Apr-1980,Earth-616,Marvel,<10
+1341,Janet Darling,Public,Neutral,Brown,Brown,Female,Yes,1,Dec-1985,Earth-616,Marvel,<10
+1342,Jonathan Powell,Secret,Neutral,Blue,Blond,Male,Yes,46,Mar-1991,Earth-616,Marvel,<100
+1343,Ed Koch,Public,Neutral,White,White,Male,Yes,5,Aug-1979,Earth-616,Marvel,<10
+1344,Roger Dutton,Non-dual,Neutral,Hazel,Brown,Male,Yes,2,Apr-1972,Earth-616,Marvel,<10
+1345,Victoria Creed,Secret,Neutral,Blue,Brown,Female,No,3,Aug-1993,Earth-616,Marvel,<10
+1346,Lorna Zane,Secret,Neutral,Green,Brown,Female,Yes,2,Feb-1973,Earth-616,Marvel,<10
+1347,William Bates,Public,Neutral,Red,Blond,Male,No,2,Jul-2005,Earth-616,Marvel,<10
+1348,Hybrid,Secret,Neutral,White,No,Genderless,Yes,10,Jan-1996,Earth-616,Marvel,<10
+1349,Michael Ditillio,Secret,Neutral,Brown,Blond,Male,Yes,6,Sep-1988,Earth-616,Marvel,<10
+1350,Cyclops,Secret,Neutral,Brown,Black,Male,Yes,5,Jan-2011,Earth-616,Marvel,<10
+1351,Kelly,Non-dual,Neutral,Green,Brown,Female,Yes,1,Aug-2011,Earth-616,Marvel,<10
+1352,Sleepy Eyes,Secret,Neutral,Blue,Bald,Male,Yes,1,Apr-1957,Earth-616,Marvel,<10
+1353,Victor Frankenstein,Public,Neutral,Blue,Brown,Male,Yes,19,Aug-1969,Earth-616,Marvel,<100
+1354,Salvo,Secret,Neutral,White,Brown,Male,No,4,Jun-2000,Earth-616,Marvel,<10
+1355,Neosaurus,Secret,Neutral,Yellow,Bald,Male,Yes,3,May-2002,Earth-616,Marvel,<10
+1356,Derek Bishop,Public,Neutral,Brown,Black,Male,Yes,2,May-2005,Earth-616,Marvel,<10
+1357,Willem Vincent,Secret,Neutral,Blue,Red,Male,No,4,Jul-1987,Earth-616,Marvel,<10
+1358,Veritina,Non-dual,Neutral,Blue,No,Female,No,2,Apr-2013,Earth-616,Marvel,<10
+1359,John Williamson,Public,Neutral,Amber,Black,Male,Yes,1,Mar-1947,Earth-616,Marvel,<10
+1360,Junichiro,Secret,Neutral,Black,Black,Male,No,1,Aug-2008,Earth-616,Marvel,<10
+1361,Kerwin Stockwell,Public,Neutral,Blue,Black,Male,Yes,1,May-2011,Earth-616,Marvel,<10
+1362,Gil Jeffers,Secret,Neutral,Brown,Black,Male,Yes,3,Sep-1987,Earth-616,Marvel,<10
+1363,Basallo,Public,Neutral,Blue,No,Male,Yes,6,Oct-1963,Earth-616,Marvel,<10
+1364,Louise Kennedy,Public,Neutral,Yellow,Brown,Female,No,12,Aug-1995,Earth-616,Marvel,<100
+1365,Kreddik,Public,Neutral,Green,No,Male,Yes,1,Oct-2000,Earth-616,Marvel,<10
+1366,Werjil,Secret,Neutral,Red,Brown,Unknown,Yes,1,Aug-1942,Earth-616,Marvel,<10
+1367,Hoora,Non-dual,Neutral,Brown,Black,Female,Yes,1,Apr-1982,Earth-616,Marvel,<10
+1368,Jonathan Swift,Secret,Neutral,Violet,Brown,Male,Yes,5,Dec-2006,Earth-616,Marvel,<10
+1369,Clive Vickers,Secret,Neutral,Brown,Brown,Male,No,1,Oct-2001,Earth-616,Marvel,<10
+1370,Musere,Public,Neutral,Blue,Black,Male,Yes,1,Nov-2010,Earth-616,Marvel,<10
+1371,Hillary King,Non-dual,Neutral,Black,Black,Male,Yes,1,Mar-1947,Earth-616,Marvel,<10
+1372,Rockwell Davis,Secret,Neutral,Green,Brown,Male,Yes,3,Dec-2007,Earth-616,Marvel,<10
+1373,Plunderer,Secret,Neutral,Black,Grey,Male,No,1,Feb-2007,Earth-616,Marvel,<10
+1374,Primotur Jekuakkekt,Public,Neutral,Red,Red,Male,Yes,1,Apr-1998,Earth-616,Marvel,<10
+1375,Victoria Snow,Public,Neutral,Brown,Red,Female,Yes,1,Aug-1998,Earth-616,Marvel,<10
+1376,Kura,Public,Neutral,Brown,Black,Female,Yes,9,Sep-1985,Earth-616,Marvel,<10
+1377,Budan,Public,Neutral,Black,Black,Male,Yes,1,Jan-1981,Earth-616,Marvel,<10
+1378,Solace,Public,Neutral,Black,Black,Male,Yes,4,Aug-1980,Earth-616,Marvel,<10
+1379,Yruku,Secret,Neutral,Yellow,Bald,Male,Yes,2,Feb-2011,Earth-616,Marvel,<10
+1380,Ajanii Jackson,Secret,Neutral,Brown,Black,Male,Yes,1,Apr-1999,Earth-616,Marvel,<10
+1381,Carl Braden,Public,Neutral,Blue,Brown,Male,Yes,2,Feb-1978,Earth-616,Marvel,<10
+1382,Abraham Lincoln,Public,Neutral,Blue,Brown,Male,No,8,Jan-1966,Earth-616,Marvel,<10
+1383,Solaise,Public,Neutral,Blue,Blond,Female,Yes,8,Oct-1986,Earth-616,Marvel,<10
+1384,Robin Braxton,Public,Neutral,Green,Red,Female,Yes,18,Mar-1986,Earth-616,Marvel,<100
+1385,Phelix,Secret,Neutral,Red,White,Male,Yes,1,Dec-1992,Earth-616,Marvel,<10
+1386,Rynda,Secret,Neutral,Blue,Black,Female,No,3,Jan-1968,Earth-616,Marvel,<10
+1387,Tyler Nixon,Public,Neutral,Brown,Brown,Male,Yes,4,Nov-2003,Earth-616,Marvel,<10
+1388,Michael Clemson,Non-dual,Neutral,Orange,Black,Male,Yes,2,Jan-1987,Earth-616,Marvel,<10
+1389,Herbert Wyndham,Secret,Neutral,Brown,Brown,Male,Yes,179,Nov-1966,Earth-616,Marvel,<250
+1390,Lily Lucca,Public,Neutral,Blue,Brown,Female,Yes,11,Nov-2006,Earth-616,Marvel,<100
+1391,Pauline Stratton,Public,Neutral,Blue,Blond,Female,Yes,5,May-1990,Earth-616,Marvel,<10
+1392,Cullen Bloodstone,Non-dual,Neutral,Green,Blond,Male,Yes,23,Feb-2013,Earth-616,Marvel,<100
+1393,Crom,Secret,Neutral,Brown,Red,Unknown,Yes,1,Dec-1981,Earth-616,Marvel,<10
+1394,Zarathos,Secret,Neutral,Blue,No,Male,Yes,40,Aug-1972,Earth-616,Marvel,<100
+1395,Doctor Foster,Public,Neutral,Brown,Black,Male,No,4,Jan-2006,Earth-616,Marvel,<10
+1396,Gunhawk,Secret,Neutral,Brown,Brown,Male,No,11,Aug-1970,Earth-616,Marvel,<100
+1397,Skinner,Non-dual,Neutral,Blue,Brown,Male,Yes,3,Nov-2010,Earth-616,Marvel,<10
+1398,Miriam Sharpe,Public,Neutral,Green,Brown,Female,Yes,15,Jul-2006,Earth-616,Marvel,<100
+1399,Arlo Summers,Public,Neutral,Yellow,No,Male,Yes,1,Aug-2002,Earth-616,Marvel,<10
+1400,Michael Phillips,Public,Neutral,Black,Blond,Male,Yes,9,Apr-1988,Earth-616,Marvel,<10
+1401,Susan Rice,Public,Neutral,Black,Blond,Female,Yes,5,Apr-2013,Earth-616,Marvel,<10
+1402,Gregori Kronski,Secret,Neutral,White,Brown,Male,No,9,Jun-1974,Earth-616,Marvel,<10
+1403,Frank Bigelow,Public,Neutral,Blue,Black,Male,Yes,4,Jun-1993,Earth-616,Marvel,<10
+1404,Aladi Ko Eke,Secret,Neutral,Blue,Brown,Female,Yes,11,May-2010,Earth-616,Marvel,<100
+1405,Robert Takahama,Secret,Neutral,Brown,Black,Male,No,2,Jul-1997,Earth-616,Marvel,<10
+1406,Gauntlet,Secret,Neutral,Blue,Brown,Male,Yes,24,Apr-1991,Earth-616,Marvel,<100
+1407,Blanca del Hierro,Non-dual,Neutral,Brown,Black,Female,Yes,2,Dec-2000,Earth-616,Marvel,<10
+1408,Phoenix Force,Secret,Neutral,Red,No,Unknown,No,229,Oct-1976,Earth-616,Marvel,<250
+1409,Sayge,Secret,Neutral,Brown,Bald,Unknown,Yes,16,Mar-1967,Earth-616,Marvel,<100
+1410,Seginn Gallio,Secret,Neutral,White,White,Male,No,11,Oct-1987,Earth-616,Marvel,<100
+1411,Thomas Hanson,Public,Neutral,Grey,Black,Male,No,2,Dec-1985,Earth-616,Marvel,<10
+1412,John Price,Secret,Neutral,Brown,Grey,Male,No,1,Aug-2009,Earth-616,Marvel,<10
+1413,Nigel Frobisher,Public,Neutral,Blue,Blond,Male,No,16,Oct-1988,Earth-616,Marvel,<100
+1414,Henry Adams,Public,Neutral,White,Brown,Male,Yes,1,Dec-1996,Earth-616,Marvel,<10
+1415,Darick Gallhager,Secret,Neutral,Brown,Black,Male,Yes,2,Apr-2003,Earth-616,Marvel,<10
+1416,Obax Majid,Known to Authorities,Neutral,Brown,Black,Female,Yes,13,Sep-1993,Earth-616,Marvel,<100
+1417,Balor,Secret,Neutral,Blue,Red,Male,Yes,6,Nov-1982,Earth-616,Marvel,<10
+1418,Randall Jefferson,Public,Neutral,Black,Black,Male,No,2,Jan-1999,Earth-616,Marvel,<10
+1419,Akasha Martinez,Non-dual,Neutral,Blue,No,Female,Yes,4,Sep-1997,Earth-616,Marvel,<10
+1420,Kirbax the Kraklar,Secret,Neutral,Red,Black,Male,Yes,1,Jan-2013,Earth-616,Marvel,<10
+1421,Raving Beauty,Secret,Neutral,Grey,Blond,Female,Yes,1,Nov-1994,Earth-616,Marvel,<10
+1422,Miximixim,Public,Neutral,Yellow,Black,Unknown,Yes,1,May-1994,Earth-616,Marvel,<10
+1423,Tyrannix the Abominoid,Secret,Neutral,Red,No,Male,Yes,16,Jan-2013,Earth-616,Marvel,<100
+1424,Wilfred Nagel,Secret,Neutral,Red,Black,Male,No,4,Jan-2003,Earth-616,Marvel,<10
+1425,Finn,Secret,Neutral,Green,Green,Male,Yes,2,Nov-1999,Earth-616,Marvel,<10
+1426,Wu,Secret,Neutral,Blue,No,Male,Yes,53,Apr-2010,Earth-616,Marvel,<100
+1427,Fruitbagel,Public,Neutral,Blue,White,Female,Yes,3,Oct-1988,Earth-616,Marvel,<10
+1428,Haleena,Public,Neutral,Black,Black,Female,Yes,3,Jun-2011,Earth-616,Marvel,<10
+1429,Nelson Cragg,Public,Neutral,Black,Black,Male,Yes,1,Mar-2006,Earth-616,Marvel,<10
+1430,Ape,Secret,Neutral,Blue,Blue,Male,No,16,Jul-1985,Earth-616,Marvel,<100
+1431,Hamilton,Public,Neutral,Blue,Brown,Male,Yes,3,Feb-1988,Earth-616,Marvel,<10
+1432,Adam Essex,Non-dual,Neutral,Yellow,White,Male,No,2,Jul-1996,Earth-616,Marvel,<10
+1433,Arkon,Public,Neutral,Brown,Brown,Male,Yes,33,Apr-1970,Earth-616,Marvel,<100
+1434,Persuader robot,Secret,Neutral,Black,No,Unknown,Yes,1,Mar-1990,Unknown,Marvel,<10
+1435,Fugue,Secret,Neutral,Green,Blond,Unknown,Yes,1,Dec-2000,Earth-616,Marvel,<10
+1436,All-Blud,Secret,Neutral,White,No,Male,No,1,Dec-2012,Earth-616,Marvel,<10
+1437,Barber,Public,Neutral,Brown,Blond,Unknown,Yes,1,Oct-1989,Earth-616,Marvel,<10
+1438,Chester Berry,Public,Neutral,Green,Black,Male,Yes,1,Oct-1948,Earth-616,Marvel,<10
+1439,Dominicus Pierce,Secret,Neutral,White,Blond,Male,Yes,2,Apr-2005,Earth-616,Marvel,<10
+1440,Destiny Gonzales,Public,Neutral,Blue,Blue,Female,No,10,Jul-2003,Earth-616,Marvel,<10
+1441,Moon Wolf,Public,Neutral,Blue,Black,Male,Yes,1,Jul-1998,Earth-616,Marvel,<10
+1442,Kralor,Secret,Neutral,Brown,Red,Male,Yes,1,Dec-1993,Earth-616,Marvel,<10
+1443,Bambi,Non-dual,Neutral,Yellow,Red,Female,Yes,4,Jan-1976,Earth-616,Marvel,<10
+1444,Milo Smutts,Public,Neutral,Blue,Brown,Male,No,1,Mar-2003,Earth-616,Marvel,<10
+1445,Anne Benson,Non-dual,Neutral,Blue,Blond,Female,Yes,3,Oct-1961,Earth-616,Marvel,<10
+1446,Duncan Corley,Public,Neutral,Yellow,Auburn,Male,Yes,1,Jan-1974,Earth-616,Marvel,<10
+1447,Scarlet Spider,Secret,Neutral,Brown,White,Male,No,3,Dec-1996,Earth-616,Marvel,<10
+1448,Armageddon Man,Secret,Neutral,White,Bald,Male,Yes,3,Mar-1999,Earth-616,Marvel,<10
+1449,Blimp,Secret,Neutral,White,Bald,Male,Yes,2,May-2002,Earth-616,Marvel,<10
+1450,Beta-Beast,Secret,Neutral,Brown,Black,Male,No,1,Jul-1978,Earth-616,Marvel,<10
+1451,Warren Rothschild,Non-dual,Neutral,Blue,Grey,Male,No,1,Dec-1997,Earth-616,Marvel,<10
+1452,Walter Collins,Secret,Neutral,Brown,Grey,Male,Yes,11,Jun-1971,Earth-616,Marvel,<100
+1453,Celestial Gardener,Non-dual,Neutral,Blue,No,Unknown,No,1,Jun-2013,Earth-616,Marvel,<10
+1454,Gordon Campbell,Public,Neutral,Blue,No,Male,Yes,4,Feb-1990,Earth-616,Marvel,<10
+1455,Obb,Non-dual,Neutral,White,No,Male,Yes,3,Apr-2011,Earth-616,Marvel,<10
+1456,Ikari,Secret,Neutral,Blue,Grey,Male,Yes,3,Jun-2013,Earth-616,Marvel,<10
+1457,Enaku,Public,Neutral,Red,Bald,Male,Yes,1,Feb-2011,Earth-616,Marvel,<10
+1458,William Frankenstein,Non-dual,Neutral,Purple,Black,Male,Yes,3,Jan-1973,Earth-616,Marvel,<10
+1459,Atum,Secret,Neutral,Red,No,Male,Yes,17,Oct-1982,Earth-616,Marvel,<100
+1460,Einar,Public,Neutral,Blue,No,Unknown,Yes,2,May-1986,Earth-616,Marvel,<10
+1461,Laroximous Boneflayer,Secret,Neutral,Green,Black,Male,Yes,2,Mar-2010,Earth-616,Marvel,<10
+1462,Spat,Secret,Neutral,Black,Blond,Female,Yes,6,Sep-1997,Earth-616,Marvel,<10
+1463,Robert Dammer,Non-dual,Neutral,Brown,Black,Male,Yes,1,Sep-1948,Earth-616,Marvel,<10
+1464,Godzilla,Non-dual,Neutral,Red,No,Male,No,33,Aug-1977,Earth-616,Marvel,<100
+1465,Tupat,Non-dual,Neutral,Black,Brown,Male,Yes,1,Dec-1939,Earth-616,Marvel,<10
+1466,Eric Heller,Public,Neutral,Brown,Brown,Male,No,6,Jan-1991,Earth-616,Marvel,<10
+1467,Dangerous Doll,Secret,Neutral,Green,Black,Male,Yes,2,Dec-1960,Earth-616,Marvel,<10
+1468,Thing,Secret,Neutral,Blue,No,Unknown,Yes,1,Dec-1956,Earth-616,Marvel,<10
+1469,Rose Delany,Public,Neutral,Green,Blond,Female,No,5,Jul-2003,Earth-616,Marvel,<10
+1470,Teri Hillman,Public,Neutral,Green,Blond,Female,Yes,5,May-2010,Earth-616,Marvel,<10
+1471,Holdsworth,Public,Neutral,Blue,Brown,Male,Yes,3,Jun-1997,Earth-616,Marvel,<10
+1472,Dennis Bukowski,Non-dual,Neutral,Brown,Red,Male,Yes,16,Mar-1980,Earth-616,Marvel,<100
+1473,Akaje,Secret,Neutral,Black,Blond,Male,Yes,1,Jun-2003,Earth-616,Marvel,<10
+1474,Peter Bristow,Secret,Neutral,Blue,Red,Male,Yes,1,Jun-1983,Earth-616,Marvel,<10
+1475,Manat,Public,Neutral,Brown,No,Male,Yes,1,Oct-2000,Earth-616,Marvel,<10
+1476,Gau,Secret,Neutral,Brown,Black,Male,Yes,1,Mar-1954,Earth-616,Marvel,<10
+1477,Zoro,Non-dual,Neutral,Grey,Red,Male,Yes,1,Dec-1939,Earth-616,Marvel,<10
+1478,Bruuk,Secret,Neutral,Yellow,No,Unknown,Yes,1,Jul-1991,Earth-616,Marvel,<10
+1479,Muktong Mollie,Public,Neutral,Brown,Black,Female,Yes,2,Feb-1954,Earth-616,Marvel,<10
+1480,Air,Public,Neutral,Blue,Bald,Unknown,Yes,2,Jul-1981,Earth-616,Marvel,<10
+1481,Symbionic Man,Public,Neutral,Brown,Black,Male,Yes,1,Feb-1976,Earth-616,Marvel,<10
+1482,Lyja,Secret,Neutral,Green,Green,Female,Yes,120,Apr-1984,Earth-616,Marvel,<250
+1483,Hiram King,Public,Neutral,Brown,White,Male,Yes,1,Oct-1948,Earth-616,Marvel,<10
+1484,Titan,Secret,Neutral,Brown,Brown,Male,No,32,Oct-1977,Earth-616,Marvel,<100
+1485,Krang,Secret,Neutral,Blue,Black,Male,Yes,63,Sep-1963,Earth-616,Marvel,<100
+1486,Itsu,Non-dual,Neutral,Brown,Black,Female,No,16,May-2006,Earth-616,Marvel,<100
+1487,Furgar,Public,Neutral,Blue,Brown,Male,Yes,6,Jun-1995,Earth-616,Marvel,<10
+1488,Juliana Valencia,Public,Neutral,Hazel,Brown,Female,Yes,1,Feb-2013,Earth-616,Marvel,<10
+1489,Annie Richardson,Non-dual,Neutral,Blue,Brown,Female,No,4,Jul-1981,Earth-616,Marvel,<10
+1490,Fatal Finnegan,Public,Neutral,Brown,Black,Male,Yes,3,Jun-1963,Earth-616,Marvel,<10
+1491,Mike Columbus,Secret,Neutral,One,Bald,Male,No,12,Feb-2003,Earth-616,Marvel,<100
+1492,Mrs. Gwynn,Public,Neutral,Black,Pink,Female,Yes,4,Apr-2010,Earth-616,Marvel,<10
+1493,Laura,Public,Neutral,Yellow,Brown,Female,Yes,2,Nov-1995,Earth-616,Marvel,<10
+1494,A. Summers,Non-dual,Neutral,Blue,Black,Female,No,1,Nov-1987,Earth-616,Marvel,<10
+1495,Smasher III,Public,Neutral,Blue,Brown,Male,No,1,Jul-2009,Earth-616,Marvel,<10
+1496,Gigi Martin,Public,Neutral,Brown,Auburn,Female,Yes,4,Oct-2002,Earth-616,Marvel,<10
+1497,Tantrum,Secret,Neutral,Blue,Bald,Male,Yes,3,Aug-2006,Earth-616,Marvel,<10
+1498,Charles Barton,Public,Neutral,Blue,Red,Male,Yes,43,May-1969,Earth-616,Marvel,<100
+1499,Catherine Price,Secret,Neutral,Blue,Blond,Female,No,1,Aug-2009,Earth-616,Marvel,<10
+1500,Agent X,Secret,Neutral,Brown,Bald,Male,Yes,35,May-2002,Earth-616,Marvel,<100
+1501,Vincent Stevens,Public,Neutral,Blue,Black,Male,Yes,13,Feb-1994,Earth-616,Marvel,<100
+1502,Uchio Tanaka,Secret,Neutral,Black,Bald,Unknown,Yes,1,Dec-1993,Earth-616,Marvel,<10
+1503,Buzz Cooper,Public,Neutral,Blue,Brown,Male,Yes,1,Jan-2007,Earth-616,Marvel,<10
+1504,Tagar,Secret,Neutral,Red,Black,Male,Yes,28,Oct-1966,Earth-616,Marvel,<100
+1505,Hadad,Public,Neutral,Red,No,Male,Yes,13,Sep-1989,Earth-616,Marvel,<100
+1506,Ralph Brickman,Public,Neutral,Blue,Black,Male,Yes,4,Nov-1996,Earth-616,Marvel,<10
+1507,Sandstorm,Public,Neutral,Blue,Blond,Male,Yes,1,Oct-1992,Earth-616,Marvel,<10
+1508,Witness,Secret,Neutral,Brown,Black,Male,Yes,5,Jan-1949,Earth-616,Marvel,<10
+1509,Odysseus,Public,Neutral,Brown,Brown,Male,No,4,Nov-1979,Earth-616,Marvel,<10
+1510,Maximus,Secret,Neutral,Blue,Black,Male,Yes,147,Feb-1966,Earth-616,Marvel,<250
+1511,Rex Randolph,Secret,Neutral,Green,Blond,Male,Yes,5,May-1989,Earth-616,Marvel,<10
+1512,Micheal Hamilton,Public,Neutral,Brown,Black,Male,Yes,5,Apr-1992,Earth-616,Marvel,<10
+1513,Dave Cambell,Non-dual,Neutral,Brown,Brown,Male,No,1,Jul-2003,Earth-616,Marvel,<10
+1514,Owen Backes,Secret,Neutral,Brown,Blond,Male,Yes,7,Mar-2013,Earth-616,Marvel,<10
+1515,Gaillard,Public,Neutral,Brown,Brown,Female,Yes,1,Mar-1945,Earth-616,Marvel,<10
+1516,Malcolm Drake,Secret,Neutral,Photocellular,Black,Male,Yes,1,Aug-1998,Earth-616,Marvel,<10
+1517,Jaine Cutter,Non-dual,Neutral,Blue,Black,Female,Yes,21,Mar-1994,Earth-616,Marvel,<100
+1518,Impulse,Secret,Neutral,Grey,No,Male,No,15,Oct-1977,Earth-616,Marvel,<100
+1519,Terry Roland,Secret,Neutral,Blue,Blond,Male,Yes,3,Nov-2011,Earth-616,Marvel,<10
+1520,Scintilla,Secret,Neutral,Blue,Red,Female,Yes,19,Oct-1977,Earth-616,Marvel,<100
+1521,Tatiana Caban,Non-dual,Neutral,Brown,Brown,Female,Yes,15,Jul-2004,Earth-616,Marvel,<100
+1522,Carol Campbell,Public,Neutral,Green,Black,Female,Yes,3,Dec-2004,Earth-616,Marvel,<10
+1523,Gertrude Jacks,Secret,Neutral,Blue,Brown,Female,Yes,2,Oct-2009,Earth-616,Marvel,<10
+1524,Harlan Vargas,Secret,Neutral,Grey,Auburn,Male,Yes,16,Jan-1970,Earth-616,Marvel,<100
+1525,Callisto,Secret,Neutral,Blue,Black,Female,Yes,114,May-1983,Earth-616,Marvel,<250
+1526,Alice,Non-dual,Neutral,Brown,Blond,Female,Yes,1,Apr-1993,Earth-616,Marvel,<10
+1527,Watcher of the Calishee,Secret,Neutral,Blue,No,Unknown,Yes,4,Jul-1990,Earth-616,Marvel,<10
+1528,Shatter,Secret,Neutral,Yellow,No,Male,Yes,6,Jun-2002,Earth-616,Marvel,<10
+1529,Walker Hobbes,Public,Neutral,Red,Black,Male,Yes,2,Mar-2005,Earth-616,Marvel,<10
+1530,Joshua Kale,Public,Neutral,Black,Black,Male,Yes,10,Jun-1973,Earth-616,Marvel,<10
+1531,Jane Takahama,Public,Neutral,Blue,Black,Female,No,2,Jul-1997,Earth-616,Marvel,<10
+1532,Roy Reyna,Secret,Neutral,Brown,White,Male,Yes,4,Dec-2008,Earth-616,Marvel,<10
+1533,Manuel Eloganto,Secret,Neutral,Black,Black,Male,Yes,12,Dec-1964,Earth-616,Marvel,<100
+1534,Jim Langdon,Public,Neutral,White,Bald,Male,Yes,1,Dec-1944,Earth-616,Marvel,<10
+1535,Nestor Garcia,Non-dual,Neutral,Black,Black,Male,Yes,5,Jan-2004,Earth-616,Marvel,<10
+1536,Jenny,Public,Neutral,Blue,Bald,Female,Yes,1,May-2003,Earth-616,Marvel,<10
+1537,Madeline Bass,Public,Neutral,Brown,Brown,Female,Yes,20,May-1968,Earth-616,Marvel,<100
+1538,John Russel,Public,Neutral,Blue,Brown,Male,Yes,3,Jul-2011,Earth-616,Marvel,<10
+1539,Iprah,Non-dual,Neutral,Blue,Blond,Female,No,2,Jun-2002,Earth-616,Marvel,<10
+1540,Darlene Wright,Secret,Neutral,Green,Red,Female,Yes,4,Dec-2012,Earth-616,Marvel,<10
+1541,Master Order,Non-dual,Neutral,Blue,No,Unknown,Yes,36,Dec-1977,Earth-616,Marvel,<100
+1542,Marci Sabol,Secret,Neutral,Brown,Blond,Female,No,6,Jul-2009,Earth-616,Marvel,<10
+1543,Sasha Roerich,Secret,Neutral,White,Auburn,Female,No,8,Mar-2008,Earth-616,Marvel,<10
+1544,Margo Damian,Non-dual,Neutral,Blue,Red,Female,No,29,Jul-1976,Earth-616,Marvel,<100
+1545,Kevin E.,Public,Neutral,Red,Black,Male,Yes,1,Mar-2006,Earth-616,Marvel,<10
+1546,Dan Carlisle,Non-dual,Neutral,Blue,Brown,Male,Yes,1,Apr-1954,Earth-616,Marvel,<10
+1547,Khadar,Non-dual,Neutral,Red,No,Male,Yes,3,Oct-1978,Earth-616,Marvel,<10
+1548,Monstra,Public,Neutral,Green,Green,Female,Yes,4,Apr-2002,Earth-616,Marvel,<10
+1549,Cosmo,Secret,Neutral,Black,Grey,Male,No,5,Apr-2002,Earth-616,Marvel,<10
+1550,Norma Astrovik,Public,Neutral,Brown,Brown,Female,Yes,18,Jul-1975,Earth-616,Marvel,<100
+1551,Squorm,Secret,Neutral,Brown,No,Male,Yes,5,Apr-2002,Earth-616,Marvel,<10
+1552,Ginny Guzman,Secret,Neutral,Blue,Blond,Female,Yes,8,Mar-2013,Earth-616,Marvel,<10
+1553,Dorrek,Non-dual,Neutral,Green,No,Male,Yes,4,Mar-1975,Earth-616,Marvel,<10
+1554,Sky-Walker,Secret,Neutral,White,Grey,Male,Yes,2,Dec-1975,Earth-616,Marvel,<10
+1555,Albert Poole,Public,Neutral,Black,Blond,Male,Yes,1,Jun-1960,Earth-616,Marvel,<10
+1556,Mrs. Shaw,Public,Neutral,Red,Black,Female,No,1,Mar-2000,Earth-616,Marvel,<10
+1557,Hiroim,Public,Neutral,Green,Black,Male,Yes,35,Apr-2006,Earth-616,Marvel,<100
+1558,Catherwood,Non-dual,Neutral,Brown,White,Male,Yes,3,Jun-1990,Earth-616,Marvel,<10
+1559,Arnold Lundberg,Public,Neutral,Blue,Blond,Male,No,6,Sep-2002,Earth-616,Marvel,<10
+1560,Roderick Krupp,Secret,Neutral,Green,Brown,Male,No,23,Sep-1969,Earth-616,Marvel,<100
+1561,Henry Pierce,Public,Neutral,Blue,Grey,Male,Yes,9,Aug-2003,Earth-616,Marvel,<10
+1562,Nightwind,Secret,Neutral,Green,Blue,Female,Yes,3,Jul-1999,Earth-616,Marvel,<10
+1563,Palik,Public,Neutral,Green,Black,Male,Yes,5,Sep-1989,Earth-616,Marvel,<10
+1564,Karnilla,Secret,Neutral,Purple,Black,Female,Yes,127,Aug-1964,Earth-616,Marvel,<250
+1565,Neal Saroyan,Public,Neutral,Blue,Black,Male,No,18,Sep-1991,Earth-616,Marvel,<100
+1566,Sporr,Non-dual,Neutral,Black,No,Unknown,Yes,2,Feb-1977,Earth-616,Marvel,<10
+1567,Leo Zelinsky,Public,Neutral,Blue,White,Male,Yes,3,Feb-2004,Earth-616,Marvel,<10
+1568,Litterbug,Secret,Neutral,Red,No,Male,Yes,22,Jun-2002,Earth-616,Marvel,<100
+1569,Professor Duck,Secret,Neutral,Red,Bald,Male,Yes,1,Dec-2007,Earth-616,Marvel,<10
+1570,Heart-Like-Fire,Secret,Neutral,Blue,Black,Male,Yes,1,Sep-2006,Earth-616,Marvel,<10
+1571,Aeneas,Secret,Neutral,Brown,Brown,Male,Yes,2,Nov-1979,Earth-616,Marvel,<10
+1572,Glom,Public,Neutral,White,No,Unknown,Yes,3,Apr-1992,Earth-616,Marvel,<10
+1573,Greg,Non-dual,Neutral,Blue,Blond,Male,Yes,6,Jun-2003,Earth-616,Marvel,<10
+1574,Damon Dran,Public,Neutral,Blue,Grey,Male,No,13,Oct-1972,Earth-616,Marvel,<100
+1575,Linda Littletrees,Secret,Neutral,Brown,Black,Female,Yes,19,Jun-1973,Earth-616,Marvel,<100
+1576,Luther Benedict,Secret,Neutral,Brown,Bald,Male,Yes,2,Aug-1962,Earth-616,Marvel,<10
+1577,Doug Johnson III,Public,Neutral,Blue,Blond,Male,No,16,Jun-2010,Earth-616,Marvel,<100
+1578,Jose Hidalgo,Secret,Neutral,Blue,Bald,Male,Yes,3,Aug-1994,Earth-616,Marvel,<10
+1579,William Kinmont,Non-dual,Neutral,Hazel,Grey,Male,Yes,1,Jan-2010,Earth-616,Marvel,<10
+1580,Nathaniel Richards,Non-dual,Neutral,Brown,Grey,Male,Yes,72,Nov-1984,Earth-616,Marvel,<100
+1581,Jan van Slambrouck,Non-dual,Neutral,Grey,Brown,Female,Yes,1,Jul-1988,Earth-616,Marvel,<10
+1582,Calvin Goynes,Public,Neutral,Pink,Blond,Male,Yes,1,Feb-2007,Earth-616,Marvel,<10
+1583,Chuck,Public,Neutral,Blue,Brown,Male,Yes,6,May-1963,Earth-616,Marvel,<10
+1584,Brian DeWolff,Public,Neutral,Blue,Red,Male,No,21,Aug-1976,Earth-616,Marvel,<100
+1585,Alexander Gentry,Public,Neutral,Blue,Grey,Male,No,44,Oct-1963,Earth-616,Marvel,<100
+1586,Matt,Public,Neutral,Blue,Black,Male,Yes,12,Jun-2003,Earth-616,Marvel,<100
+1587,Parvez,Non-dual,Neutral,Brown,Black,Male,Yes,12,Apr-2012,Earth-616,Marvel,<100
+1588,Donna Diego,Secret,Neutral,Green,Red,Female,No,22,May-1993,Earth-616,Marvel,<100
+1589,Yahweh,Non-dual,Neutral,Variable,Variable,Male,Yes,3,Oct-1980,Earth-616,Marvel,<10
+1590,Joey Chambers,Public,Neutral,Black,Black,Male,No,3,Sep-2004,Earth-616,Marvel,<10
+1591,Johnny Gomorrah,Secret,Neutral,White,White,Male,Yes,1,Jul-2011,Earth-616,Marvel,<10
+1592,Krakkan,Secret,Neutral,Blue,No,Male,Yes,2,Nov-1999,Earth-616,Marvel,<10
+1593,Swami Riba,Secret,Neutral,Blue,Black,Male,Yes,1,Nov-1985,Earth-616,Marvel,<10
+1594,Simone DeSantos,Secret,Neutral,Blue,Blond,Female,Yes,14,Jan-2008,Earth-982,Marvel,<100
+1595,General Chasen,Non-dual,Neutral,Blue,Brown,Male,Yes,7,May-1975,Earth-616,Marvel,<10
+1596,Paul Harker,Public,Neutral,Green,Grey,Male,No,7,Aug-1989,Earth-616,Marvel,<10
+1597,Robert Putnam,Public,Neutral,Brown,Bald,Male,No,2,Feb-1952,Earth-616,Marvel,<10
+1598,Zius,Secret,Neutral,Yellow,Blond,Male,Yes,3,Nov-2004,Earth-616,Marvel,<10
+1599,Gro,Secret,Neutral,Brown,Blond,Female,Yes,3,Jul-2002,Earth-616,Marvel,<10
+1600,Lasher,Secret,Neutral,White,Bald,Genderless,Yes,14,May-1993,Earth-616,Marvel,<100
+1601,Harry Pace,Public,Neutral,Blue,Brown,Male,Yes,2,Feb-1973,Earth-616,Marvel,<10
+1602,Basil Kilgrew,Secret,Neutral,Blue,Black,Male,No,3,Aug-1998,Earth-616,Marvel,<10
+1603,Nelet Pa,Public,Neutral,White,Grey,Male,Yes,1,Oct-2000,Earth-616,Marvel,<10
+1604,Cameron Brock,Secret,Neutral,Green,Grey,Male,Yes,2,Apr-1989,Earth-616,Marvel,<10
+1605,Jagrfelm,Public,Neutral,Yellow,Green,Male,Yes,6,Apr-2000,Earth-616,Marvel,<10
+1606,Belize Marceaux,Secret,Neutral,Brown,Blond,Male,No,3,Jan-2000,Earth-616,Marvel,<10
+1607,Giggles,Secret,Neutral,Blue,No,Unknown,Yes,13,Jul-1985,Earth-616,Marvel,<100
+1608,Morley Erwin,Public,Neutral,Brown,Brown,Male,No,35,Mar-1983,Earth-616,Marvel,<100
+1609,Joseph Jennings,Secret,Neutral,Brown,Brown,Male,Yes,8,Jan-1974,Earth-616,Marvel,<10
+1610,Marc Dale,Public,Neutral,Black,Black,Male,Yes,1,Apr-2003,Earth-616,Marvel,<10
+1611,Harry Morrel,Public,Neutral,Blue,Brown,Male,Yes,7,Jan-1985,Earth-616,Marvel,<10
+1612,Grombar,Public,Neutral,Blue,White,Male,Yes,1,Sep-1976,Earth-616,Marvel,<10
+1613,Nose Norton,Secret,Neutral,Blue,Red,Male,Yes,2,Oct-1982,Earth-616,Marvel,<10
+1614,Jackson Arvad,Public,Neutral,White,Blond,Male,Yes,33,Apr-1977,Earth-616,Marvel,<100
+1615,Jean-Claude Lauziere,Public,Neutral,Brown,Brown,Male,Yes,3,Jul-2004,Earth-616,Marvel,<10
+1616,Hafga,Secret,Neutral,Brown,No,Unknown,Yes,6,Feb-1991,Earth-616,Marvel,<10
+1617,Devron,Public,Neutral,Black,Black,Unknown,Yes,2,Dec-2005,Earth-616,Marvel,<10
+1618,Neutrino Annihilator,Public,Neutral,Yellow,Silver,Male,Yes,4,Oct-2002,Earth-616,Marvel,<10
+1619,Lerad,Public,Neutral,Green,Black,Unknown,Yes,2,Nov-2005,Earth-616,Marvel,<10
+1620,Galactus,Secret,Neutral,Brown,No,Male,Yes,390,Mar-1966,Earth-616,Marvel,<500
+1621,Baroshtok,Non-dual,Neutral,Blue,Black,Unknown,Yes,2,Feb-2010,Earth-616,Marvel,<10
+1622,Figillulli,Non-dual,Neutral,Brown,No,Unknown,Yes,1,May-1994,Earth-616,Marvel,<10
+1623,Gray Dolman,Secret,Neutral,Brown,Black,Male,Yes,8,Feb-1999,Earth-616,Marvel,<10
+1624,"Frank Castle, Jr.",Public,Neutral,Brown,Black,Male,No,16,Aug-1975,Earth-616,Marvel,<100
+1625,Sixth Light,Non-dual,Neutral,Photocellular,Orange,Male,Yes,2,Jul-2011,Earth-616,Marvel,<10
+1626,Modi Thorson,Secret,Neutral,Brown,Red,Male,Yes,2,Mar-1980,Earth-616,Marvel,<10
+1627,Warren Worthington Jr.,Public,Neutral,Blue,Black,Male,No,19,Nov-1965,Earth-616,Marvel,<100
+1628,Martin Leigh,Non-dual,Neutral,Blue,Blond,Male,Yes,7,Mar-2004,Earth-616,Marvel,<10
+1629,Diomedes,Secret,Neutral,Blue,Black,Male,Yes,2,Nov-1979,Earth-616,Marvel,<10
+1630,Cordelia Frost,Public,Neutral,Brown,Black,Female,Yes,15,Jan-1995,Earth-616,Marvel,<100
+1631,Mario Castiglione,Public,Neutral,Blue,Black,Male,Yes,1,Jan-1986,Earth-616,Marvel,<10
+1632,Sasha Martin,Public,Neutral,Blue,Black,Female,Yes,12,Sep-2004,Earth-616,Marvel,<100
+1633,Epiphany,Secret,Neutral,Silver,Red,Female,Yes,4,Jan-2003,Earth-616,Marvel,<10
+1634,Fabian Nicieza,Non-dual,Neutral,Blue,Grey,Male,Yes,1,May-1993,Earth-616,Marvel,<10
+1635,Time-Buoy Number 6-C,Secret,Neutral,Black,Black,Unknown,Yes,5,Aug-1981,Earth-616,Marvel,<10
+1636,Alex,Secret,Neutral,Red,Blond,Unknown,Yes,1,Dec-1990,Earth-616,Marvel,<10
+1637,Ukaki,Secret,Neutral,Brown,Brown,Unknown,Yes,1,Jul-1953,Earth-616,Marvel,<10
+1638,Susan Catrini,Secret,Neutral,Auburn,Red,Female,No,3,Nov-2007,Earth-616,Marvel,<10
+1639,Venom,Known to Authorities,Neutral,Variable,No,Genderless,Yes,348,May-1984,Earth-616,Marvel,<500
+1640,Andrew Bazin,Public,Neutral,Blue,Black,Unknown,Yes,3,Aug-1991,Earth-616,Marvel,<10
+1641,Curtis Nolan,Public,Neutral,Brown,Brown,Male,Yes,1,Jan-2011,Earth-616,Marvel,<10
+1642,Oldar,Public,Neutral,Hazel,White,Female,Yes,2,Apr-1968,Earth-616,Marvel,<10
+1643,Danad,Non-dual,Neutral,Hazel,No,Male,Yes,1,Feb-1969,Earth-616,Marvel,<10
+1644,Thomas Lightner,Public,Neutral,Blue,Brown,Male,Yes,16,Nov-1976,Earth-616,Marvel,<100
+1645,Roarke,Secret,Neutral,Red,Grey,Male,Yes,1,Sep-1988,Earth-616,Marvel,<10
+1646,Sutekh,Non-dual,Neutral,Red,Brown,Male,No,2,Aug-1994,Earth-616,Marvel,<10
+1647,Myra Haddock,Secret,Neutral,Blue,Black,Female,Yes,6,Nov-1997,Earth-616,Marvel,<10
+1648,Sean Rockwell,Secret,Neutral,Blue,Blond,Male,Yes,2,Jul-2008,Earth-616,Marvel,<10
+1649,Cleo Nefertiti,Secret,Neutral,Brown,Black,Female,Yes,55,Sep-1985,Earth-616,Marvel,<100
+1650,Uthar,Public,Neutral,Blue,Brown,Male,Yes,1,Aug-1982,Earth-616,Marvel,<10
+1651,Daniel Grimm Jr.,Public,Neutral,Brown,Brown,Male,No,4,Jul-1983,Earth-616,Marvel,<10
+1652,Jorrma,Public,Neutral,Brown,Blond,Male,Yes,9,May-1990,Earth-616,Marvel,<10
+1653,Glamour,Secret,Neutral,Blue,Red,Female,Yes,4,Jul-2004,Earth-616,Marvel,<10
+1654,Yorlo,Non-dual,Neutral,Brown,Brown,Male,Yes,1,Apr-1989,Earth-616,Marvel,<10
+1655,Jackie Starr,Public,Neutral,Blue,Brown,Male,Yes,1,Jun-1948,Earth-616,Marvel,<10
+1656,Temujai,Secret,Neutral,Brown,Black,Male,Yes,1,Dec-1956,Earth-616,Marvel,<10
+1657,Mr. Ingersol,Public,Neutral,Blue,Black,Male,Yes,3,Nov-2002,Earth-616,Marvel,<10
+1658,Igor Vanko,Public,Neutral,Green,Red,Male,No,1,Jan-2010,Earth-616,Marvel,<10
+1659,Hans,Secret,Neutral,Red,Blond,Male,Yes,3,Sep-2004,Earth-616,Marvel,<10
+1660,Don Thomas,Secret,Neutral,Blue,Red,Male,No,15,Jan-1978,Earth-616,Marvel,<100
+1661,Tether,Secret,Neutral,Black,No,Female,Yes,2,Oct-1997,Earth-616,Marvel,<10
+1662,Andreas von Strucker,Secret,Neutral,Blue,Blond,Male,No,93,Jun-1985,Earth-616,Marvel,<100
+1663,Daemian Wainscroft,Public,Neutral,Blue,White,Male,Yes,4,Jul-1991,Earth-616,Marvel,<10
+1664,James Westbrook,Public,Neutral,Blue,Grey,Male,Yes,7,Jul-2004,Earth-616,Marvel,<10
+1665,Adjudicator,Secret,Neutral,Black,Black,Male,Yes,4,Aug-2007,Earth-616,Marvel,<10
+1666,Voltar,Secret,Neutral,Black,Red,Male,No,1,Jan-2010,Earth-616,Marvel,<10
+1667,Boreas,Non-dual,Neutral,Brown,White,Male,Yes,1,Mar-2011,Earth-616,Marvel,<10
+1668,Pixie,Secret,Neutral,Blue,Brown,Female,Yes,1,Jan-1991,Earth-616,Marvel,<10
+1669,Marie Danvers,Secret,Neutral,Blue,Grey,Female,Yes,5,Jan-1978,Earth-616,Marvel,<10
+1670,Mister Eleven,Secret,Neutral,Variable,Variable,Male,Yes,6,Jan-2008,Earth-616,Marvel,<10
+1671,Cyclops,Non-dual,Neutral,Blue,Brown,Unknown,No,1,Aug-1963,Earth-616,Marvel,<10
+1672,Adam Essex,Secret,Neutral,Brown,Red,Male,No,1,Sep-2005,Earth-41001,Marvel,<10
+1673,Mister Y,Secret,Neutral,Green,Black,Male,Yes,1,Sep-2010,Earth-616,Marvel,<10
+1674,Alberik,Non-dual,Neutral,Blue,Black,Male,Yes,1,Oct-2000,Earth-616,Marvel,<10
+1675,Jean-Luc LeBeau,Secret,Neutral,Brown,Brown,Male,Yes,22,Dec-1993,Earth-616,Marvel,<100
+1676,Thomas Fireheart,Secret,Neutral,Green,Black,Male,Yes,68,Sep-1984,Earth-616,Marvel,<100
+1677,Ho Lee,Public,Neutral,Black,Black,Male,No,1,Feb-1964,Earth-616,Marvel,<10
+1678,Korrek,Secret,Neutral,White,Blond,Male,Yes,11,Dec-1973,Earth-616,Marvel,<100
+1679,Joshua Wirtham,Public,Neutral,Blue,White,Male,No,4,Feb-1992,Earth-616,Marvel,<10
+1680,Nathan Summers,Public,Neutral,Blue,White,Male,Yes,612,Jan-1986,Earth-616,Marvel,<750
+1681,Silent One,Secret,Neutral,Blue,Red,Male,Yes,4,Jan-1971,Earth-616,Marvel,<10
+1682,Jocasta Frost,Public,Neutral,Black,Blond,Female,Yes,1,Oct-2002,Earth-616,Marvel,<10
+1683,Driver Reese,Public,Neutral,Green,Black,Female,No,3,Feb-2011,Earth-616,Marvel,<10
+1684,Tommy Wilkins,Public,Neutral,Black,Brown,Male,Yes,1,Feb-1946,Earth-616,Marvel,<10
+1685,Infant Terrible,Secret,Neutral,Green,No,Male,Yes,8,Mar-1964,Earth-616,Marvel,<10
+1686,Hiro,Secret,Neutral,Green,Black,Male,Yes,4,Feb-1991,Earth-616,Marvel,<10
+1687,Yvette Steckley,Public,Neutral,Grey,Blond,Female,No,3,May-1974,Earth-616,Marvel,<10
+1688,Artemus Pithins,Non-dual,Neutral,Brown,Brown,Male,Yes,13,Jul-1979,Earth-616,Marvel,<100
+1689,Jake Costanza,Public,Neutral,Brown,Brown,Male,No,1,Jul-2004,Earth-616,Marvel,<10
+1690,Robert Herman,Secret,Neutral,Brown,No,Male,Yes,65,Oct-2001,Earth-616,Marvel,<100
+1691,Toro,Public,Neutral,Brown,Black,Male,Yes,1,Nov-1940,Earth-616,Marvel,<10
+1692,Kree-Tor,Secret,Neutral,Green,Blond,Male,Yes,1,Sep-1997,Earth-616,Marvel,<10
+1693,Tezcatlipoca,Public,Neutral,Brown,Black,Male,Yes,6,Oct-1980,Earth-616,Marvel,<10
+1694,Jack Ventura,Public,Neutral,Brown,Blond,Male,No,1,May-1986,Earth-616,Marvel,<10
+1695,Bailey Mathius,Non-dual,Neutral,Blue,Purple,Male,Yes,3,Dec-2003,Earth-616,Marvel,<10
+1696,Cowboy,Secret,Neutral,Black,Bald,Male,Yes,1,Jan-2013,Earth-616,Marvel,<10
+1697,Uravo,Secret,Neutral,Yellow,No,Female,Yes,6,Feb-2011,Earth-616,Marvel,<10
+1698,Nagenda,Public,Neutral,Grey,Black,Male,Yes,1,Nov-2010,Earth-616,Marvel,<10
+1699,Maria Castle,Public,Neutral,Brown,Blond,Female,No,17,Aug-1975,Earth-616,Marvel,<100
+1700,Gina Morelli,Public,Neutral,Black,Black,Female,Yes,16,Aug-1975,Earth-616,Marvel,<100
+1701,Mooneye,Public,Neutral,Blue,Black,Male,Yes,1,Nov-1971,Earth-616,Marvel,<10
+1702,Louis Joubert,Secret,Neutral,Brown,Black,Male,Yes,1,May-1990,Earth-616,Marvel,<10
+1703,Amanda von Doom,Public,Neutral,Brown,Black,Female,Yes,9,Dec-2011,Earth-616,Marvel,<10
+1704,Antiphon,Public,Neutral,White,Yellow,Unknown,No,1,May-2007,Earth-616,Marvel,<10
+1705,Lisa Molinari,Secret,Neutral,Brown,Brown,Female,Yes,15,Jul-2009,Earth-616,Marvel,<100
+1706,Sandra Verdugo,Non-dual,Neutral,Brown,Black,Female,No,10,Mar-2002,Earth-616,Marvel,<10
+1707,Oyakata,Secret,Neutral,Brown,Black,Male,Yes,2,Dec-1998,Earth-616,Marvel,<10
+1708,Don Remming,Secret,Neutral,Grey,Black,Male,Yes,3,Nov-1985,Earth-616,Marvel,<10
+1709,Scrier,Secret,Neutral,Black,No,Male,Yes,40,Oct-1994,Earth-616,Marvel,<100
+1710,UFO,Secret,Neutral,Brown,No,Male,Yes,1,Feb-1957,Earth-616,Marvel,<10
+1711,Mud-Thing,Secret,Neutral,White,Blue,Male,Yes,3,Jun-1981,Earth-616,Marvel,<10
+1712,Herbert Isaacs,Secret,Neutral,Green,Black,Male,Yes,2,Jan-1994,Earth-616,Marvel,<10
+1713,Brute,Secret,Neutral,Yellow,Green,Male,No,3,Jul-1990,Earth-616,Marvel,<10
+1714,Iron Man,Public,Neutral,White,No,Genderless,No,4,Mar-2000,Earth-616,Marvel,<10
+1715,General Whedon,Public,Neutral,Hazel,Brown,Male,Yes,2,May-2012,Earth-616,Marvel,<10
+1716,Tanya Sealy,Secret,Neutral,Green,Black,Female,Yes,69,Jun-1980,Earth-616,Marvel,<100
+1717,Reiko,Secret,Neutral,Black,Black,Female,Yes,1,Dec-1988,Earth-616,Marvel,<10
+1718,Ocsh,Non-dual,Neutral,Blue,Brown,Male,Yes,6,Mar-1993,Earth-616,Marvel,<10
+1719,Roust,Secret,Neutral,Brown,Blond,Male,Yes,10,Oct-1996,Earth-616,Marvel,<10
+1720,Genard Alouette,Secret,Neutral,Compound,Black,Male,Yes,4,Aug-1999,Earth-616,Marvel,<10
+1721,Adolphus,Secret,Neutral,Blue,Brown,Male,Yes,5,Jul-2004,Earth-616,Marvel,<10
+1722,William Nguyen,Non-dual,Neutral,Blue,Black,Male,Yes,3,May-2010,Earth-616,Marvel,<10
+1723,Young Soo Pock,Secret,Neutral,Brown,Black,Male,Yes,2,May-2011,Earth-616,Marvel,<10
+1724,Lar-Ka,Public,Neutral,Brown,White,Male,No,1,Oct-2006,Earth-616,Marvel,<10
+1725,Scrier,Public,Neutral,Brown,Brown,Male,Yes,8,Jul-1997,Earth-616,Marvel,<10
+1726,Emilee Freeman,Public,Neutral,Brown,Black,Female,Yes,3,Feb-2008,Earth-616,Marvel,<10
+1727,Eel,Secret,Neutral,Blue,Black,Male,Yes,3,Oct-1989,Earth-616,Marvel,<10
+1728,Tess Black,Secret,Neutral,Blue,Black,Female,Yes,3,Mar-2004,Earth-616,Marvel,<10
+1729,Brilliant One,Secret,Neutral,Black,Red,Female,Yes,2,Apr-1994,Earth-616,Marvel,<10
+1730,Cherry,Public,Neutral,Silver,Brown,Male,Yes,1,Jan-2002,Earth-616,Marvel,<10
+1731,Astra,Secret,Neutral,White,Red,Female,Yes,19,Oct-1977,Earth-616,Marvel,<100
+1732,Sharon Selleck,Secret,Neutral,Brown,Blond,Female,Yes,7,Feb-1983,Earth-616,Marvel,<10
+1733,Mavis Benally,Non-dual,Neutral,Brown,Brown,Female,Yes,5,Nov-2005,Earth-616,Marvel,<10
+1734,Mirage,Secret,Neutral,Green,Blond,Female,No,4,Dec-2007,Earth-616,Marvel,<10
+1735,Golem,Secret,Neutral,Green,No,Male,Yes,9,Dec-1970,Earth-616,Marvel,<10
+1736,Zeeshan,Public,Neutral,Brown,Black,Male,No,1,Sep-2011,Earth-616,Marvel,<10
+1737,Miklos Vryolak,Secret,Neutral,Green,Brown,Male,No,2,Apr-1970,Earth-616,Marvel,<10
+1738,Gertrude Hunter,Secret,Neutral,Variable,Blond,Female,No,1,Jul-2001,Earth-616,Marvel,<10
+1739,Bliss,Secret,Neutral,Green,Bald,Female,Yes,18,May-1990,Earth-616,Marvel,<100
+1740,Stigmata,Secret,Neutral,Yellow,No,Female,Yes,2,Sep-1997,Earth-616,Marvel,<10
+1741,Nathan Patrofsky,Public,Neutral,Brown,Grey,Male,No,2,Jul-2008,Earth-616,Marvel,<10
+1742,Alejandra Blaze,Secret,Neutral,Brown,Black,Female,Yes,20,Sep-2011,Earth-616,Marvel,<100
+1743,Blackwulf,Secret,Neutral,Red,White,Male,Yes,15,Mar-1994,Earth-616,Marvel,<100
+1744,Phisherman,Secret,Neutral,Blue,Red,Male,Yes,1,Jan-2002,Earth-616,Marvel,<10
+1745,Brian Leighton,Secret,Neutral,Violet,Brown,Male,Yes,2,Apr-2000,Earth-616,Marvel,<10
+1746,Mephista,Secret,Neutral,Orange,Black,Female,Yes,19,Aug-1989,Earth-616,Marvel,<100
+1747,Maureen Lyszinski,Secret,Neutral,Brown,Black,Female,Yes,10,Dec-2002,Earth-616,Marvel,<10
+1748,Tillie Beezer,Public,Neutral,Blue,Blond,Female,Yes,1,May-2003,Earth-616,Marvel,<10
+1749,Korumbu,Public,Neutral,Black,Bald,Male,Yes,2,Jan-1961,Earth-616,Marvel,<10
+1750,Thiago Piranha,Public,Neutral,Black,Black,Male,No,1,Jul-2002,Earth-616,Marvel,<10
+1751,Arthur Winslow,Public,Neutral,Blue,Black,Male,Yes,4,Mar-1976,Earth-616,Marvel,<10
+1752,Eugene Beaumont,Secret,Neutral,Brown,Red,Male,Yes,1,May-1981,Earth-616,Marvel,<10
+1753,Abigail Wright,Secret,Neutral,Brown,Pink,Female,Yes,24,Dec-1987,Earth-616,Marvel,<100
+1754,Rhea,Public,Neutral,Brown,Black,Female,Yes,6,Jun-2011,Earth-616,Marvel,<10
+1755,Benjamin Donovan,Non-dual,Neutral,Brown,Black,Male,Yes,16,Oct-1973,Earth-616,Marvel,<100
+1756,Aloba Dastoor,Secret,Neutral,Brown,Black,Male,Yes,4,Feb-1994,Earth-616,Marvel,<10
+1757,Cain,Non-dual,Neutral,Brown,Black,Male,Yes,2,Jun-2002,Earth-616,Marvel,<10
+1758,Agent Walsh,Public,Neutral,Brown,Black,Male,Yes,4,Dec-2003,Earth-616,Marvel,<10
+1759,Paul Bailey,Secret,Neutral,Green,Brown,Male,Yes,3,Oct-1980,Earth-616,Marvel,<10
+1760,Ted Castle,Public,Neutral,Green,Blond,Male,Yes,13,Apr-2008,Earth-616,Marvel,<100
+1761,Glissem,Non-dual,Neutral,Brown,Grey,Male,No,1,Jul-1975,Earth-616,Marvel,<10
+1762,Pyko,Public,Neutral,Brown,No,Male,Yes,5,May-1982,Earth-616,Marvel,<10
+1763,Utama Somchart,Secret,Neutral,Black,No,Male,Yes,5,Nov-1999,Earth-616,Marvel,<10
+1764,Geb,Non-dual,Neutral,Blue,Bald,Male,Yes,4,Nov-1975,Earth-616,Marvel,<10
+1765,Primus,Secret,Neutral,Yellow,No,Male,Yes,16,May-1977,Earth-616,Marvel,<100
+1766,Dr. Matsuzaki,Public,Neutral,Brown,Black,Female,Yes,2,Feb-2011,Earth-616,Marvel,<10
+1767,Walter Hardy,Public,Neutral,Green,Bald,Male,No,10,Jul-1979,Earth-616,Marvel,<10
+1768,Annihilus,Non-dual,Neutral,Green,No,Male,Yes,125,Nov-1968,Earth-616,Marvel,<250
+1769,Jamala,Public,Neutral,Blue,Black,Female,Yes,1,Nov-1985,Earth-616,Marvel,<10
+1770,Mrs. Falcone,Public,Neutral,Black,Black,Female,Yes,1,Aug-2004,Earth-616,Marvel,<10
+1771,Harrison Thompson,Public,Neutral,Blue,Blond,Male,No,15,Dec-1976,Earth-616,Marvel,<100
+1772,Amina Synge,Secret,Neutral,Brown,Black,Female,Yes,2,Aug-2006,Earth-616,Marvel,<10
+1773,Bella Donna Boudreaux,Secret,Neutral,Blue,Blond,Female,Yes,37,May-1992,Earth-616,Marvel,<100
+1774,Odysseus Indigo,Secret,Neutral,Blue,Bald,Male,Yes,6,Oct-1998,Earth-616,Marvel,<10
+1775,Paladin,Secret,Neutral,Brown,Brown,Male,Yes,134,Jan-1978,Earth-616,Marvel,<250
+1776,Double Trouble,Secret,Neutral,Brown,Blond,Female,Yes,5,May-1993,Earth-616,Marvel,<10
+1777,Charles Delazny Jr.,Secret,Neutral,Brown,Brown,Male,No,15,Feb-1977,Earth-616,Marvel,<100
+1778,Mikhail Kutuzov,Non-dual,Neutral,Brown,Brown,Male,Yes,2,Jun-1976,Earth-616,Marvel,<10
+1779,Navee Moshtaghi,Public,Neutral,Brown,Brown,Male,Yes,2,Jul-2011,Earth-616,Marvel,<10
+1780,Krakoa,Secret,Neutral,Green,No,Unknown,Yes,18,May-1975,Earth-616,Marvel,<100
+1781,Cynthia Chalmers,Public,Neutral,Blue,Blond,Female,No,3,Jul-1991,Earth-616,Marvel,<10
+1782,Joust,Secret,Neutral,Brown,Blond,Male,Yes,4,Oct-1996,Earth-616,Marvel,<10
+1783,Gorani,Non-dual,Neutral,Yellow,Brown,Unknown,Yes,4,Oct-2008,Earth-616,Marvel,<10
+1784,Rhonda Monte,Public,Neutral,Blue,Brown,Female,Yes,1,Oct-1993,Earth-616,Marvel,<10
+1785,Charles Anderson,Public,Neutral,Brown,Red,Male,Yes,4,Sep-1985,Earth-616,Marvel,<10
+1786,Triploid Mutant,Secret,Neutral,Brown,Bald,Male,No,1,Sep-2008,Earth-616,Marvel,<10
+1787,Gretl Anders,Public,Neutral,Blue,Red,Female,No,4,Jan-1984,Earth-616,Marvel,<10
+1788,Professor Ramsey,Public,Neutral,Blue,Brown,Male,No,1,Mar-1947,Earth-616,Marvel,<10
+1789,Guardian,Secret,Neutral,Green,No,Unknown,No,1,Dec-1978,Earth-616,Marvel,<10
+1790,James,Non-dual,Neutral,Black,Brown,Male,No,5,Apr-1974,Earth-616,Marvel,<10
+1791,Marrow,Secret,Neutral,Blue,Red,Female,Yes,119,Sep-1994,Earth-616,Marvel,<250
+1792,Kenji Uedo,Public,Neutral,Blue,Bald,Male,No,25,Jan-2011,Earth-616,Marvel,<100
+1793,Blackthorn,Public,Neutral,Violet,No,Male,Yes,3,May-1982,Earth-616,Marvel,<10
+1794,Amelia Voght,Non-dual,Neutral,Green,Red,Female,Yes,50,May-1993,Earth-616,Marvel,<100
+1795,Rocco Castiglione,Public,Neutral,Blue,White,Male,Yes,1,Dec-1990,Earth-616,Marvel,<10
+1796,Eric Marshall,Secret,Neutral,Brown,Black,Male,Yes,4,Aug-2006,Earth-616,Marvel,<10
+1797,Arc,Public,Neutral,Brown,No,Male,Yes,4,Apr-2002,Earth-616,Marvel,<10
+1798,Pinkerton,Non-dual,Neutral,Blue,Bald,Male,Yes,1,Dec-1939,Earth-616,Marvel,<10
+1799,Brian Lazarus,Public,Neutral,Blue,Blond,Male,Yes,3,Dec-1974,Earth-616,Marvel,<10
+1800,Frobbank,Public,Neutral,Grey,Black,Male,Yes,2,Aug-1975,Earth-616,Marvel,<10
+1801,Wrakk,Public,Neutral,Brown,Black,Male,Yes,1,Nov-1989,Earth-616,Marvel,<10
+1802,Toshiro Mikashi,Non-dual,Neutral,Black,Grey,Male,Yes,5,Aug-1994,Earth-616,Marvel,<10
+1803,Lou Hackett,Secret,Neutral,Brown,Blond,Male,No,8,Jun-1973,Earth-616,Marvel,<10
+1804,J. Patrick Smitty,Secret,Neutral,Brown,Brown,Male,Yes,1,Dec-2007,Earth-616,Marvel,<10
+1805,Kyle Gibney,Secret,Neutral,Blue,Blond,Male,No,142,Aug-1983,Earth-616,Marvel,<250
+1806,Ualu,Secret,Neutral,Brown,No,Male,Yes,1,Oct-1990,Earth-616,Marvel,<10
+1807,North Norrell,Secret,Neutral,Brown,Bald,Male,Yes,4,Oct-2009,Earth-616,Marvel,<10
+1808,Michael Asher,Secret,Neutral,Brown,Black,Male,No,8,Jul-2001,Earth-616,Marvel,<10
+1809,Gustav Brandt,Secret,Neutral,Brown,Black,Male,Yes,34,Jan-1970,Earth-616,Marvel,<100
+1810,Irving Wattle,Public,Neutral,Variable,Grey,Male,Yes,1,Aug-1988,Earth-616,Marvel,<10
+1811,Luz Delgado,Public,Neutral,White,Brown,Female,No,5,Dec-1990,Earth-616,Marvel,<10
+1812,Hank Zlotty,Non-dual,Neutral,Brown,Brown,Male,Yes,1,Jun-2002,Earth-616,Marvel,<10
+1813,Red Guardian,Secret,Neutral,Blue,Blond,Male,Yes,13,Mar-2008,Earth-616,Marvel,<100
+1814,Arishem,Non-dual,Neutral,Blue,No,Male,Yes,44,Aug-1976,Earth-616,Marvel,<100
+1815,Master Monarch,Secret,Neutral,Green,Blond,Male,Yes,1,Apr-2000,Earth-616,Marvel,<10
+1816,Ankhi Gottberg,Secret,Neutral,Blue,Bald,Female,Yes,1,Aug-2002,Earth-616,Marvel,<10
+1817,Dr. Yao,Public,Neutral,Blue,Black,Male,Yes,6,Jul-1996,Earth-616,Marvel,<10
+1818,Asmodeus,Non-dual,Neutral,Yellow,No,Male,Yes,2,Dec-1971,Earth-616,Marvel,<10
+1819,Sergei Sorokin,Public,Neutral,Green,Black,Male,No,2,Feb-2013,Earth-616,Marvel,<10
+1820,Max Kelvin,Secret,Neutral,Brown,Brown,Male,Yes,1,Feb-2013,Earth-616,Marvel,<10
+1821,John Rival,Public,Neutral,Black,Black,Male,Yes,3,Feb-1985,Earth-616,Marvel,<10
+1822,Arris,Secret,Neutral,Blue,No,Male,Yes,1,Jul-2011,Earth-616,Marvel,<10
+1823,Belit,Non-dual,Neutral,Blue,Red,Female,No,35,Sep-1974,Earth-616,Marvel,<100
+1824,Ronald Rankin,Public,Neutral,Black,Grey,Male,No,1,Apr-1966,Earth-616,Marvel,<10
+1825,Ralph van Slambrouck,Secret,Neutral,White,Blond,Male,Yes,1,Jul-1988,Earth-616,Marvel,<10
+1826,Ul-Uhar,Secret,Neutral,Black,No,Male,No,4,Apr-2010,Earth-616,Marvel,<10
+1827,Tamara Kurtz,Secret,Neutral,Black,Auburn,Female,Yes,23,Sep-1990,Earth-616,Marvel,<100
+1828,Susanna Dane,Public,Neutral,Green,Brown,Female,No,1,Nov-2012,Earth-616,Marvel,<10
+1829,Jennifer Leigh,Non-dual,Neutral,Blue,Blond,Female,Yes,7,Mar-2004,Earth-616,Marvel,<10
+1830,Leonard Pimacher,Public,Neutral,Hazel,Blond,Male,Yes,2,Sep-2010,Earth-616,Marvel,<10
+1831,Tweedledope,Non-dual,Neutral,Blue,Black,Male,Yes,16,Apr-1984,Earth-616,Marvel,<100
+1832,Les,Public,Neutral,Brown,Auburn,Male,Yes,1,Jul-1990,Earth-616,Marvel,<10
+1833,Tuan,Public,Neutral,Black,Black,Male,Yes,7,Feb-1976,Earth-616,Marvel,<10
+1834,Cuffs,Secret,Neutral,Brown,Brown,Female,Yes,3,Jul-1992,Earth-616,Marvel,<10
+1835,Jason Treemont,Public,Neutral,Red,Grey,Male,No,1,Sep-2002,Earth-616,Marvel,<10
+1836,Abomination,Secret,Neutral,Blue,No,Male,Yes,1,Mar-2011,Earth-616,Marvel,<10
+1837,Secco,Secret,Neutral,Blue,No,Male,No,1,Feb-2002,Earth-616,Marvel,<10
+1838,Massdriver,Secret,Neutral,Black,No,Female,No,3,Nov-2008,Earth-616,Marvel,<10
+1839,Lance Johnson,Public,Neutral,Blue,Brown,Male,Yes,1,Dec-1941,Earth-616,Marvel,<10
+1840,Edward Culhaney,Non-dual,Neutral,Red,Black,Male,No,1,May-1975,Earth-616,Marvel,<10
+1841,Alasdhair Kinross,Non-dual,Neutral,Brown,Brown,Male,No,3,Sep-1999,Earth-616,Marvel,<10
+1842,Sajani Jaffrey,Non-dual,Neutral,Brown,Black,Female,Yes,40,Jan-2011,Earth-616,Marvel,<100
+1843,Landscape,Secret,Neutral,Orange,Red,Male,Yes,1,Sep-1997,Earth-616,Marvel,<10
+1844,Meru,Secret,Neutral,White,Grey,Male,Yes,3,Mar-1982,Earth-616,Marvel,<10
+1845,Watts,Secret,Neutral,Black,Black,Female,Yes,3,Oct-1996,Earth-616,Marvel,<10
+1846,Marion Sofen,Public,Neutral,Blue,Blond,Female,No,3,Apr-1999,Earth-616,Marvel,<10
+1847,Warwick Jamieson,Non-dual,Neutral,Blue,Bald,Male,Yes,1,Apr-1998,Earth-616,Marvel,<10
+1848,Juma,Public,Neutral,Brown,Bald,Male,Yes,5,Apr-1974,Earth-616,Marvel,<10
+1849,Gavel,Secret,Neutral,Brown,Black,Male,Yes,3,Sep-1995,Earth-616,Marvel,<10
+1850,Gideon Blaine,Secret,Neutral,Blue,Brown,Male,Yes,1,Oct-1975,Earth-616,Marvel,<10
+1851,Oberon,Secret,Neutral,Gold,Black,Male,Yes,6,Jan-2007,Earth-616,Marvel,<10
+1852,Christopher Daniels,Public,Neutral,Brown,Black,Male,Yes,13,Nov-1991,Earth-616,Marvel,<100
+1853,Delphi,Secret,Neutral,Brown,Blond,Female,Yes,1,Nov-2007,Earth-616,Marvel,<10
+1854,Lucy,Public,Neutral,Black,Blond,Female,Yes,1,Feb-1985,Earth-616,Marvel,<10
+1855,Senso,Public,Neutral,Blue,No,Unknown,Yes,1,Apr-2002,Earth-616,Marvel,<10
+1856,Lightning Rod,Secret,Neutral,Blue,Bald,Male,Yes,6,Jul-2004,Earth-616,Marvel,<10
+1857,Brother Inquisitor,Secret,Neutral,Blue,Brown,Male,Yes,4,Sep-1976,Earth-616,Marvel,<10
+1858,Dr. Molinari,Public,Neutral,Brown,Black,Male,Yes,3,Sep-1968,Earth-616,Marvel,<10
+1859,Hazel Frost,Public,Neutral,Blue,Blond,Female,Yes,11,Jun-2003,Earth-616,Marvel,<100
+1860,Judicator,Secret,Neutral,Red,Red,Female,Yes,4,Jun-1993,Earth-616,Marvel,<10
+1861,Amberson Osborn,Non-dual,Neutral,Brown,Brown,Male,Yes,8,Jun-1994,Earth-616,Marvel,<10
+1862,Jack Hammer,Secret,Neutral,Brown,Black,Male,Yes,51,Aug-1993,Earth-616,Marvel,<100
+1863,Ahmed,Secret,Neutral,Photocellular,Black,Male,Yes,1,Mar-2005,Earth-616,Marvel,<10
+1864,Heller Zemo,Public,Neutral,Blue,Blond,Male,No,1,Apr-2007,Earth-616,Marvel,<10
+1865,Joanne Lucas,Non-dual,Neutral,Brown,Brown,Female,Yes,1,Jan-2009,Earth-616,Marvel,<10
+1866,Winslow Smith,Public,Neutral,Brown,Bald,Male,Yes,2,Nov-1985,Earth-616,Marvel,<10
+1867,Marta DuBois,Non-dual,Neutral,Green,Black,Female,Yes,3,Mar-1994,Earth-616,Marvel,<10
+1868,Marquez,Public,Neutral,Black,Brown,Female,Yes,1,Nov-2007,Earth-616,Marvel,<10
+1869,Stuart Anthony Whyte,Secret,Neutral,Brown,Black,Male,No,1,Sep-1994,Earth-616,Marvel,<10
+1870,Gretchen Carrenna,Public,Neutral,Black,Blond,Female,No,1,Dec-1989,Earth-616,Marvel,<10
+1871,Prester Omega,Secret,Neutral,Blue,Blond,Male,Yes,6,Mar-2012,Earth-616,Marvel,<10
+1872,Ruth LaRue,Public,Neutral,Brown,Blond,Female,Yes,1,Sep-1944,Earth-616,Marvel,<10
+1873,Manfred Jones,Public,Neutral,Brown,Brown,Male,Yes,1,Aug-2004,Earth-616,Marvel,<10
+1874,Wump Jump,Secret,Neutral,Gold,Auburn,Male,Yes,4,Feb-1942,Earth-616,Marvel,<10
+1875,Theresa Petty,Non-dual,Neutral,Brown,Brown,Female,Yes,2,Feb-1997,Earth-616,Marvel,<10
+1876,Oracle of Siwa,Secret,Neutral,Brown,Grey,Male,Yes,1,May-2005,Earth-616,Marvel,<10
+1877,Bartholomew Gallows,Secret,Neutral,Green,Red,Male,Yes,7,Jun-1994,Earth-616,Marvel,<10
+1878,Amos Crawley,Non-dual,Neutral,Brown,Black,Male,Yes,2,Apr-1976,Earth-616,Marvel,<10
+1879,Stewart Cadwall,Secret,Neutral,Brown,Brown,Male,Yes,4,Jul-1985,Earth-616,Marvel,<10
+1880,Grigory Grigorievich Rasputin,Secret,Neutral,Brown,Black,Male,No,1,Nov-2005,Earth-616,Marvel,<10
+1881,Hilda Zemo,Public,Neutral,Blue,Blond,Female,No,2,Dec-1973,Earth-616,Marvel,<10
+1882,Headstone P. Gravely,Secret,Neutral,Brown,Brown,Male,Yes,11,Oct-1969,Earth-616,Marvel,<100
+1883,Rebecca Barnes,Public,Neutral,Brown,Black,Female,No,1,Nov-2009,Earth-616,Marvel,<10
+1884,Mike,Public,Neutral,Blue,Brown,Male,Yes,1,Sep-1963,Earth-616,Marvel,<10
+1885,Rebecca Blake,Public,Neutral,Blue,Auburn,Female,Yes,59,Nov-1978,Earth-616,Marvel,<100
+1886,Roger Brokeridge,Secret,Neutral,Green,Blond,Male,Yes,42,May-2007,Earth-616,Marvel,<100
+1887,Argon,Public,Neutral,Blue,Blond,Male,No,52,Jan-1979,Earth-616,Marvel,<100
+1888,Morris Maxwell,Non-dual,Neutral,Blue,White,Male,Yes,17,Oct-1998,Earth-616,Marvel,<100
+1889,Sui-San,Non-dual,Neutral,Green,Black,Female,No,9,Nov-1973,Earth-616,Marvel,<10
+1890,Ms. Ferguson,Secret,Neutral,Black,Blond,Female,Yes,1,Jul-2006,Earth-616,Marvel,<10
+1891,John Harris,Public,Neutral,Brown,Black,Male,Yes,1,Dec-1948,Earth-616,Marvel,<10
+1892,Cary Grant,Secret,Neutral,Brown,Brown,Male,Yes,1,Nov-1983,Earth-616,Marvel,<10
+1893,Virusplague,Secret,Neutral,Brown,White,Unknown,Yes,3,Apr-2012,Earth-616,Marvel,<10
+1894,Deadpool,Secret,Neutral,Brown,Bald,Male,Yes,500,Feb-1991,Unknown,Marvel,<500
+1895,Delphos,Secret,Neutral,Brown,Brown,Female,Yes,3,Aug-2000,Earth-616,Marvel,<10
+1896,Heather Tucker,Secret,Neutral,Brown,Black,Female,No,28,Feb-1990,Earth-616,Marvel,<100
+1897,Osiris,Public,Neutral,Blue,Black,Male,Yes,17,Sep-1975,Earth-616,Marvel,<100
+1898,Lyndon Johnson,Public,Neutral,White,Brown,Male,Yes,10,Feb-1967,Earth-616,Marvel,<10
+1899,Zotarr,Non-dual,Neutral,Brown,Brown,Unknown,Yes,1,Aug-1975,Earth-616,Marvel,<10
+1900,Bill Gordon,Non-dual,Neutral,Blue,Blond,Male,Yes,2,May-1962,Earth-616,Marvel,<10
+1901,Laurie Caban,Secret,Neutral,Brown,Brown,Female,Yes,1,Jul-2004,Earth-616,Marvel,<10
+1902,Mary Simpson,Public,Neutral,Black,Blond,Female,Yes,1,Mar-1945,Earth-616,Marvel,<10
+1903,Scan,Secret,Neutral,Brown,No,Male,Yes,1,Mar-1993,Earth-616,Marvel,<10
+1904,Scope,Secret,Neutral,Orange,No,Male,Yes,1,Mar-1993,Earth-616,Marvel,<10
+1905,Peggy Park,Public,Neutral,Brown,Black,Female,Yes,1,Feb-2007,Earth-616,Marvel,<10
+1906,Chet Huntley,Public,Neutral,White,Brown,Male,Yes,5,Jul-1967,Earth-616,Marvel,<10
+1907,X-13,Public,Neutral,Blue,No,Male,Yes,2,Feb-1962,Earth-616,Marvel,<10
+1908,Otis Matthews,Secret,Neutral,Brown,Black,Male,Yes,1,Mar-2000,Earth-616,Marvel,<10
+1909,Dantella,Non-dual,Neutral,Yellow,Blond,Female,Yes,1,Jun-1994,Earth-616,Marvel,<10
+1910,Jason Jerome,Public,Neutral,Blue,Black,Male,Yes,5,Jul-1990,Earth-616,Marvel,<10
+1911,Gannon,Public,Neutral,Brown,White,Male,Yes,1,May-2010,Earth-616,Marvel,<10
+1912,Alice Springs,Non-dual,Neutral,Blue,Blond,Female,Yes,1,Feb-1995,Earth-616,Marvel,<10
+1913,Oak,Secret,Neutral,White,No,Male,Yes,3,Mar-1993,Earth-616,Marvel,<10
+1914,El Chupacabra,Secret,Neutral,Blue,Black,Male,Yes,1,Sep-2007,Earth-616,Marvel,<10
+1915,Danny French,Public,Neutral,Yellow,Blond,Male,No,8,May-1972,Earth-616,Marvel,<10
+1916,Zoe Ishihara,Secret,Neutral,Black,Black,Female,Yes,7,May-1999,Earth-616,Marvel,<10
+1917,Overdrive,Secret,Neutral,Black,Black,Male,Yes,24,Jun-2007,Earth-616,Marvel,<100
+1918,Raptore,Secret,Neutral,Yellow,Black,Male,Yes,2,Jan-2008,Earth-616,Marvel,<10
+1919,Paula,Public,Neutral,Green,Brown,Female,Yes,1,Jul-2008,Earth-616,Marvel,<10
+1920,Zeus Panhellenios,Non-dual,Neutral,Blue,Red,Male,Yes,124,Jun-1949,Earth-616,Marvel,<250
+1921,Creeper,Secret,Neutral,Blue,Blond,Male,No,2,Jun-2007,Earth-616,Marvel,<10
+1922,Egma,Secret,Neutral,White,Bald,Male,Yes,1,Aug-1991,Earth-616,Marvel,<10
+1923,Kofi Annan,Non-dual,Neutral,White,Black,Male,Yes,3,Jul-2001,Earth-616,Marvel,<10
+1924,Megatu,Secret,Neutral,Brown,Blond,Male,Yes,1,Jun-2013,Earth-616,Marvel,<10
+1925,Joyce Curtis,Non-dual,Neutral,Yellow,Black,Female,Yes,1,Jul-1947,Earth-616,Marvel,<10
+1926,Elizabeth Nixon,Secret,Neutral,Blue,Blond,Female,Yes,2,Nov-2003,Earth-616,Marvel,<10
+1927,Cornelius Worth,Public,Neutral,Brown,Grey,Male,Yes,7,Nov-2005,Earth-616,Marvel,<10
+1928,Daap,Public,Neutral,Red,No,Male,Yes,4,Jul-2005,Earth-616,Marvel,<10
+1929,Bertram K.,Non-dual,Neutral,White,Black,Male,Yes,1,Mar-2006,Earth-616,Marvel,<10
+1930,Prodigal,Secret,Neutral,White,Grey,Male,Yes,7,Aug-1992,Earth-616,Marvel,<10
+1931,Bogart Jeffries,Non-dual,Neutral,Blue,Brown,Male,Yes,3,Nov-1994,Earth-616,Marvel,<10
+1932,Courtney Johnson,Public,Neutral,Blue,Blond,Female,Yes,5,Feb-2013,Earth-616,Marvel,<10
+1933,The Origamist,Secret,Neutral,Black,Black,Male,Yes,7,Feb-2013,Earth-616,Marvel,<10
+1934,Leah,Secret,Neutral,Green,Black,Female,Yes,27,Aug-2011,Earth-616,Marvel,<100
+1935,Hussar,Secret,Neutral,Yellow,Blond,Female,Yes,29,Sep-1980,Earth-616,Marvel,<100
+1936,Desmond Kline,Public,Neutral,Blue,Black,Male,No,2,Jan-1994,Earth-616,Marvel,<10
+1937,Iron Shanks,Public,Neutral,Yellow,White,Unknown,Yes,1,Sep-1987,Earth-616,Marvel,<10
+1938,Chi Lo,Public,Neutral,Brown,Black,Female,Yes,14,Sep-1972,Earth-616,Marvel,<100
+1939,Farrell,Public,Neutral,Blue,Bald,Male,Yes,4,Jul-2008,Earth-616,Marvel,<10
+1940,Kulto,Public,Neutral,Black,Black,Male,Yes,1,Jan-1949,Earth-616,Marvel,<10
+1941,Demarest Dodds,Public,Neutral,Blue,White,Male,Yes,1,Oct-1948,Earth-616,Marvel,<10
+1942,Screwball,Secret,Neutral,Blue,Purple,Female,Yes,19,Jul-2008,Earth-616,Marvel,<100
+1943,Shapur II,Public,Neutral,White,Brown,Male,No,1,Feb-2011,Earth-616,Marvel,<10
+1944,Rivvak,Secret,Neutral,Brown,Orange,Male,Yes,1,Nov-1964,Earth-616,Marvel,<10
+1945,White Wolf,Public,Neutral,Brown,Black,Male,Yes,5,Feb-1999,Earth-616,Marvel,<10
+1946,Esmerelda Castiglione,Public,Neutral,Brown,White,Female,Yes,1,Dec-1990,Earth-616,Marvel,<10
+1947,Veeda Leebre,Public,Neutral,White,No,Male,Yes,2,Apr-1996,Earth-616,Marvel,<10
+1948,Arnold Astrovik,Non-dual,Neutral,Hazel,Brown,Male,No,14,Jul-1975,Earth-616,Marvel,<100
+1949,James Zafar,Secret,Neutral,Brown,Black,Male,Yes,6,May-1991,Earth-616,Marvel,<10
+1950,Crimson Commando,Secret,Neutral,Blue,Bald,Male,Yes,2,Mar-2013,Earth-616,Marvel,<10
+1951,Imp in the Violin,Secret,Neutral,Blue,No,Male,Yes,1,Dec-1948,Earth-616,Marvel,<10
+1952,Brood,Public,Neutral,Yellow,No,Female,Yes,39,May-2007,Earth-616,Marvel,<100
+1953,Richard Deacon,Secret,Neutral,Red,Brown,Male,Yes,34,Nov-1976,Earth-616,Marvel,<100
+1954,Senus,Public,Neutral,Red,Blond,Male,Yes,1,Dec-2008,Earth-616,Marvel,<10
+1955,Emil Gregg,Secret,Neutral,Black,Blond,Male,Yes,7,Oct-1985,Earth-616,Marvel,<10
+1956,Gregory Russoff,Public,Neutral,Blue,Grey,Male,No,7,Feb-1972,Earth-616,Marvel,<10
+1957,Dima Alekov Kaganitzky,Secret,Neutral,Blue,Black,Male,No,6,Sep-1994,Earth-616,Marvel,<10
+1958,Modulus,Public,Neutral,Green,Green,Unknown,Yes,4,Dec-2002,Earth-616,Marvel,<10
+1959,Daniel Drumm,Public,Neutral,Brown,Black,Male,No,38,Sep-1973,Earth-616,Marvel,<100
+1960,Dan Smoltz,Public,Neutral,Black,Bald,Male,Yes,1,Feb-2008,Earth-616,Marvel,<10
+1961,Eva,Secret,Neutral,Blue,Red,Female,Yes,1,Sep-2012,Earth-616,Marvel,<10
+1962,Etienne Marceaux,Secret,Neutral,Blue,Blond,Male,No,1,Jul-1999,Earth-616,Marvel,<10
+1963,Flugron,Public,Neutral,Brown,No,Unknown,Yes,1,Oct-2008,Earth-616,Marvel,<10
+1964,William Grant Nelson,Secret,Neutral,Green,Orange,Male,Yes,6,Jun-2010,Earth-616,Marvel,<10
+1965,Doctor Krypt,Secret,Neutral,Blue,Green,Male,Yes,1,Aug-1997,Earth-616,Marvel,<10
+1966,Jaq,Non-dual,Neutral,Green,Blond,Unknown,Yes,1,Dec-1999,Earth-616,Marvel,<10
+1967,Glow,Secret,Neutral,Brown,Brown,Unknown,Yes,5,Jun-1985,Earth-616,Marvel,<10
+1968,William Matthew Talbot,Non-dual,Neutral,Blue,Black,Male,Yes,5,Dec-1995,Earth-616,Marvel,<10
+1969,Shapur,Public,Neutral,Brown,Black,Male,Yes,13,Apr-1986,Earth-616,Marvel,<100
+1970,Jason Powell,Public,Neutral,White,Blond,Male,Yes,47,Mar-1991,Earth-616,Marvel,<100
+1971,Aaron Stankey,Non-dual,Neutral,Green,Brown,Male,Yes,3,Sep-1977,Earth-616,Marvel,<10
+1972,Mary Windhart,Secret,Neutral,Blue,Blond,Female,Yes,2,May-1989,Earth-616,Marvel,<10
+1973,Jennifer Nyles,Public,Neutral,Blue,Blond,Female,Yes,8,Oct-1991,Earth-616,Marvel,<10
+1974,Aged Genghis,Public,Neutral,Brown,Bald,Male,Yes,12,Sep-1965,Earth-616,Marvel,<100
+1975,Oculus,Secret,Neutral,Blue,Black,Male,Yes,1,Sep-1997,Earth-616,Marvel,<10
+1976,Hit-Monkey,Secret,Neutral,Amber,Grey,Male,Yes,13,Apr-2010,Earth-616,Marvel,<100
+1977,Zenith,Secret,Neutral,Red,Bald,Male,Yes,1,Jun-1990,Earth-616,Marvel,<10
+1978,Atlas,Non-dual,Neutral,Blue,Grey,Male,Yes,7,Jun-1985,Earth-616,Marvel,<10
+1979,Henry Gyrich,Non-dual,Neutral,Blue,White,Male,Yes,4,Nov-1996,Earth-616,Marvel,<10
+1980,Linda,Public,Neutral,Brown,Brown,Female,Yes,1,Apr-2013,Earth-616,Marvel,<10
+1981,Hunter,Secret,Neutral,Blue,Black,Male,Yes,9,Sep-2005,Earth-616,Marvel,<10
+1982,Jeremy Logan,Secret,Neutral,Blue,Blond,Male,Yes,8,Mar-1968,Earth-616,Marvel,<10
+1983,Oracle,Secret,Neutral,Red,Yellow,Male,Yes,1,Oct-1968,Earth-616,Marvel,<10
+1984,Harmony Whyte,Public,Neutral,Brown,Blond,Female,Yes,10,Sep-1977,Earth-616,Marvel,<10
+1985,Marcy Pearson,Public,Neutral,Brown,Brown,Female,Yes,28,Apr-1987,Earth-616,Marvel,<100
+1986,John Joseph Maguire,Public,Neutral,One,Auburn,Male,Yes,2,Jul-2002,Earth-616,Marvel,<10
+1987,Sharkskin,Secret,Neutral,Blue,Black,Male,Yes,3,Oct-1989,Earth-616,Marvel,<10
+1988,107,Secret,Neutral,Green,Brown,Male,Yes,1,Nov-1994,Earth-616,Marvel,<10
+1989,Gregori,Public,Neutral,Blue,Red,Male,Yes,1,Sep-1999,Earth-616,Marvel,<10
+1990,Pan,Public,Neutral,Blue,White,Male,Yes,2,Nov-1959,Earth-616,Marvel,<10
+1991,Kistur,Secret,Neutral,Blue,Brown,Male,Yes,8,Mar-1993,Earth-616,Marvel,<10
+1992,Solemne Brannex,Public,Neutral,Brown,Brown,Female,Yes,1,Feb-1995,Earth-616,Marvel,<10
+1993,Elias Hudson,Public,Neutral,Blue,No,Male,No,1,Apr-2009,Earth-616,Marvel,<10
+1994,Yoshi,Secret,Neutral,Black,Black,Male,No,1,Jun-2002,Earth-616,Marvel,<10
+1995,Crone,Secret,Neutral,Brown,White,Female,Yes,1,Mar-2010,Earth-616,Marvel,<10
+1996,Nathaniel Essex,Secret,Neutral,Red,Black,Male,No,1,Aug-2012,Earth-616,Marvel,<10
+1997,Amos Jardine,Public,Neutral,Black,White,Male,Yes,6,Apr-1978,Earth-616,Marvel,<10
+1998,Orlaa,Public,Neutral,Blue,Bald,Unknown,Yes,1,May-2010,Earth-616,Marvel,<10
+1999,Lump,Secret,Neutral,Black,No,Male,Yes,14,Jul-1985,Earth-616,Marvel,<100
+2000,Mark,Secret,Neutral,White,Black,Male,No,1,Jan-1983,Earth-616,Marvel,<10
+2001,Lucille Kennedy,Public,Neutral,Brown,Blond,Female,Yes,1,Mar-1946,Earth-616,Marvel,<10
+2002,Vali,Secret,Neutral,Brown,Black,Male,Yes,2,Mar-1980,Earth-616,Marvel,<10
+2003,Zamanathan Rambunazeth,Public,Neutral,Green,Black,Male,Yes,2,Jun-1993,Earth-616,Marvel,<10
+2004,Manuel Vicente,Secret,Neutral,Brown,Brown,Male,Yes,14,Jul-1999,Earth-616,Marvel,<100
+2005,Xavier Couture,Secret,Neutral,Blue,Black,Male,Yes,1,Jul-1976,Earth-616,Marvel,<10
+2006,Karla Sofen,Public,Neutral,Blue,Blond,Female,Yes,340,Dec-1975,Earth-616,Marvel,<500
+2007,Killspree,Secret,Neutral,Blue,Orange,Male,Yes,5,May-1993,Earth-616,Marvel,<10
+2008,Narcissus,Public,Neutral,Brown,Brown,Male,Yes,1,Dec-1948,Earth-616,Marvel,<10
+2009,Psychobabble,Secret,Neutral,Green,Brown,Male,Yes,2,Aug-1994,Earth-616,Marvel,<10
+2010,Roman Nekoboh,Public,Neutral,Brown,Bald,Male,Yes,7,Nov-1983,Earth-616,Marvel,<10
+2011,Bernard the Poet,Non-dual,Neutral,Blue,Black,Male,Yes,11,Sep-1964,Earth-616,Marvel,<100
+2012,Anabolicus,Secret,Neutral,Blue,Black,Male,Yes,1,Jan-1994,Earth-616,Marvel,<10
+2013,Todd Keller,Non-dual,Neutral,Green,Blond,Male,Yes,4,Mar-2010,Earth-616,Marvel,<10
+2014,Don Heck,Public,Neutral,Green,Blond,Male,Yes,1,Sep-1968,Earth-616,Marvel,<10
+2015,Jacob Feinman,Public,Neutral,Blue,Bald,Male,Yes,10,Nov-2010,Earth-616,Marvel,<10
+2016,762,Secret,Neutral,Black,Black,Male,Yes,1,Aug-2010,Earth-616,Marvel,<10
+2017,Jenny,Non-dual,Neutral,Blue,Black,Female,Yes,2,Jul-1998,Earth-616,Marvel,<10
+2018,Arturo Falcone,Non-dual,Neutral,Brown,Black,Male,Yes,2,Aug-2004,Earth-616,Marvel,<10
+2019,Mento-Fish,Public,Neutral,Blue,Black,Unknown,Yes,1,May-1963,Earth-616,Marvel,<10
+2020,Vegas,Secret,Neutral,Brown,Brown,Male,Yes,3,Dec-2005,Earth-616,Marvel,<10
+2021,Ecce,Public,Neutral,Green,Brown,Male,Yes,2,Sep-1969,Earth-616,Marvel,<10
+2022,Albert Bendix,Secret,Neutral,Brown,Black,Male,No,4,Oct-2000,Earth-616,Marvel,<10
+2023,Barry Foxxe,Non-dual,Neutral,Black,Brown,Male,Yes,1,Feb-1986,Earth-616,Marvel,<10
+2024,Gordon Sanders,Non-dual,Neutral,Green,Black,Male,No,1,Dec-1940,Earth-616,Marvel,<10
+2025,Mrs. Caban,Secret,Neutral,Brown,Brown,Female,Yes,2,Jul-2004,Earth-616,Marvel,<10
+2026,Shu-Hu,Non-dual,Neutral,Red,Brown,Unknown,Yes,2,May-1974,Earth-616,Marvel,<10
+2027,Kan,Non-dual,Neutral,Yellow,Bald,Male,Yes,2,Oct-1980,Earth-616,Marvel,<10
+2028,Mimir,Non-dual,Neutral,Red,No,Male,Yes,17,Oct-1975,Earth-616,Marvel,<100
+2029,Sasha Yamir,Public,Neutral,Red,Black,Female,Yes,2,Feb-1991,Earth-616,Marvel,<10
+2030,Eleonore Brant,Non-dual,Neutral,Brown,Red,Female,Yes,1,May-1963,Earth-616,Marvel,<10
+2031,Johnny,Public,Neutral,Brown,Blond,Male,Yes,1,Jan-1988,Earth-616,Marvel,<10
+2032,Kyllian Boddicker,Public,Neutral,Green,Red,Male,Yes,5,Jun-1993,Earth-616,Marvel,<10
+2033,Bride,Secret,Neutral,Grey,White,Female,Yes,3,Feb-2013,Earth-616,Marvel,<10
+2034,Roco-Bai,Secret,Neutral,Brown,Black,Male,Yes,11,Mar-1992,Earth-616,Marvel,<100
+2035,Mister Gor,Secret,Neutral,Blue,Red,Male,Yes,8,Jan-2012,Earth-616,Marvel,<10
+2036,Serene Miami,Secret,Neutral,Red,Blond,Female,Yes,1,Jun-1993,Earth-616,Marvel,<10
+2037,Rita Wayword,Secret,Neutral,White,Silver,Female,Yes,108,Sep-1985,Earth-616,Marvel,<250
+2038,Scree,Secret,Neutral,Black,Grey,Male,Yes,1,Aug-2001,Earth-616,Marvel,<10
+2039,Suzerain,Non-dual,Neutral,Brown,No,Male,Yes,1,Sep-1978,Earth-616,Marvel,<10
+2040,Colosso,Public,Neutral,Green,Black,Male,Yes,1,Jun-1943,Earth-616,Marvel,<10
+2041,Jonathan Dillon,Public,Neutral,Blue,Brown,Male,Yes,4,Apr-1997,Earth-616,Marvel,<10
+2042,Abigail,Public,Neutral,Brown,Blond,Female,Yes,4,Aug-2006,Earth-616,Marvel,<10
+2043,Weston Minkovitch,Non-dual,Neutral,Blue,Blond,Male,Yes,1,Aug-2011,Earth-616,Marvel,<10
+2044,Seeker II,Secret,Neutral,Blue,Brown,Male,Yes,3,Jun-1993,Earth-616,Marvel,<10
+2045,Andrew Benedict,Secret,Neutral,Blue,Black,Male,No,1,Aug-2001,Earth-616,Marvel,<10
+2046,Susan Bishop,Secret,Neutral,Yellow,Black,Female,Yes,2,Apr-2005,Earth-616,Marvel,<10
+2047,Recorder 211,Secret,Neutral,Blue,Bald,Male,Yes,40,Sep-1966,Earth-616,Marvel,<100
+2048,That Which Endures,Secret,Neutral,Green,No,Unknown,Yes,4,Aug-1989,Earth-616,Marvel,<10
+2049,Albert Vito,Public,Neutral,Green,Black,Male,Yes,2,Aug-1981,Earth-616,Marvel,<10
+2050,Tan,Non-dual,Neutral,Brown,Black,Male,Yes,1,Jan-2011,Earth-616,Marvel,<10
+2051,Claire Hudson,Public,Neutral,Blue,Red,Female,Yes,6,Jun-2003,Earth-616,Marvel,<10
+2052,Hugo,Public,Neutral,Red,Blond,Male,Yes,1,Aug-1965,Earth-616,Marvel,<10
+2053,Drayson,Non-dual,Neutral,Brown,Black,Female,Yes,2,Dec-1939,Earth-616,Marvel,<10
+2054,Paul Alvarez,Secret,Neutral,Grey,Brown,Male,Yes,6,Dec-1994,Earth-616,Marvel,<10
+2055,Hope Lee,Secret,Neutral,Brown,Black,Female,Yes,6,Nov-2004,Earth-616,Marvel,<10
+2056,Zon,Secret,Neutral,Blue,Blond,Female,Yes,10,Sep-1990,Earth-616,Marvel,<10
+2057,Maybelle Tork,Public,Neutral,Blue,Blond,Female,Yes,2,Sep-1974,Earth-616,Marvel,<10
+2058,Orwell Taylor,Public,Neutral,Brown,Blond,Male,Yes,13,Feb-1993,Earth-616,Marvel,<100
+2059,Zubar,Secret,Neutral,Green,Bald,Male,Yes,1,Jan-2013,Earth-616,Marvel,<10
+2060,Boss,Non-dual,Neutral,Brown,Grey,Male,Yes,1,Feb-2003,Earth-616,Marvel,<10
+2061,Anna Ryker,Public,Neutral,Blue,Black,Female,No,1,Feb-2013,Earth-616,Marvel,<10
+2062,Lewis Haywerth,Public,Neutral,Brown,Grey,Male,Yes,9,Jul-1986,Earth-616,Marvel,<10
+2063,Sire Hate,Secret,Neutral,Variable,Blue,Unknown,Yes,12,Sep-1991,Earth-616,Marvel,<100
+2064,Mink,Public,Neutral,Red,Red,Male,Yes,1,May-2005,Earth-616,Marvel,<10
+2065,Go Vin Ng,Secret,Neutral,Orange,Black,Male,Yes,2,May-1992,Earth-616,Marvel,<10
+2066,Filene Abdol,Public,Neutral,Blue,Black,Female,No,1,Oct-1985,Earth-616,Marvel,<10
+2067,Robert Michaud,Secret,Neutral,Blue,Blond,Male,No,1,Jun-2013,Earth-616,Marvel,<10
+2068,Old Billy,Non-dual,Neutral,Black,Black,Male,Yes,1,Mar-1976,Earth-616,Marvel,<10
+2069,Demolisher,Public,Neutral,Hazel,Black,Unknown,Yes,1,Jun-1968,Earth-616,Marvel,<10
+2070,Stone Colossus,Public,Neutral,Red,Blond,Male,Yes,1,Jul-2011,Earth-616,Marvel,<10
+2071,Vanessa Carlysle,Secret,Neutral,Red,White,Female,Yes,53,Feb-1991,Earth-616,Marvel,<100
+2072,Ben Crandal,Non-dual,Neutral,White,Brown,Male,Yes,3,Oct-1971,Earth-616,Marvel,<10
+2073,Jesus Suarez,Secret,Neutral,Blue,Brown,Male,Yes,1,May-1990,Earth-616,Marvel,<10
+2074,Orwell,Secret,Neutral,Blue,Red,Male,No,8,Jul-2001,Earth-616,Marvel,<10
+2075,Pisces,Public,Neutral,Brown,Blond,Female,Yes,4,Aug-1977,Earth-616,Marvel,<10
+2076,Daman Veteri,Public,Neutral,Black,Black,Male,Yes,13,Mar-2013,Earth-616,Marvel,<100
+2077,Michael,Public,Neutral,Brown,Brown,Male,Yes,1,Mar-2006,Earth-616,Marvel,<10
+2078,Eternity,Secret,Neutral,Black,No,Unknown,Yes,100,Nov-1965,Earth-616,Marvel,<100
+2079,Skunk Ape,Secret,Neutral,Yellow,Red,Male,Yes,3,Nov-2012,Earth-616,Marvel,<10
+2080,Pester,Secret,Neutral,Green,Black,Female,Yes,2,Jun-1991,Earth-616,Marvel,<10
+2081,Abdul Faoul,Secret,Neutral,Brown,Black,Male,No,6,Dec-1977,Earth-616,Marvel,<10
+2082,Reyno,Public,Neutral,Brown,Black,Male,Yes,2,Aug-2005,Earth-616,Marvel,<10
+2083,Orka,Secret,Neutral,Black,Black,Male,No,41,Mar-1970,Earth-616,Marvel,<100
+2084,Webwing,Public,Neutral,Black,Bald,Unknown,Yes,3,May-1982,Earth-616,Marvel,<10
+2085,Chronodon,Secret,Neutral,Brown,No,Unknown,Yes,1,Feb-2013,Earth-616,Marvel,<10
+2086,Glitter,Secret,Neutral,Red,Black,Female,Yes,1,Nov-1963,Earth-616,Marvel,<10
+2087,Nallo,Public,Neutral,Red,No,Male,Yes,2,Jul-2003,Earth-616,Marvel,<10
+2088,Naanis,Non-dual,Neutral,Brown,Bald,Male,Yes,1,Apr-1999,Earth-616,Marvel,<10
+2089,Rachel Santiago,Public,Neutral,Brown,Black,Female,No,2,Feb-2006,Earth-616,Marvel,<10
+2090,Mikhail Smerdyakov,Public,Neutral,Blue,No,Male,Yes,3,Jul-2004,Earth-616,Marvel,<10
+2091,Incandescent Man,Secret,Neutral,Brown,No,Male,Yes,1,Jan-1985,Earth-616,Marvel,<10
+2092,Doc,Public,Neutral,Brown,Bald,Male,Yes,1,Dec-2004,Earth-616,Marvel,<10
+2093,Joyce Clayton,Non-dual,Neutral,Blue,Blond,Female,Yes,1,Sep-1947,Earth-616,Marvel,<10
+2094,Craig Farnsworth,Public,Neutral,Black,Black,Male,Yes,5,Dec-1956,Earth-616,Marvel,<10
+2095,Irene Adler,Secret,Neutral,White,Silver,Female,No,82,Jan-1981,Earth-616,Marvel,<100
+2096,Angelica Neal,Public,Neutral,Blue,Black,Female,Yes,1,Apr-1980,Earth-616,Marvel,<10
+2097,Kiwi Black,Secret,Neutral,Red,Black,Male,Yes,7,Oct-2003,Earth-616,Marvel,<10
+2098,John Drake,Non-dual,Neutral,White,Brown,Male,Yes,1,Jun-1946,Earth-616,Marvel,<10
+2099,Faye Livingstone,Non-dual,Neutral,Brown,Black,Female,No,1,Oct-1995,Earth-616,Marvel,<10
+2100,Vor,Secret,Neutral,Green,Blond,Male,Yes,2,Jun-1993,Earth-616,Marvel,<10
+2101,Angela del Toro,Secret,Neutral,Brown,Brown,Female,Yes,45,Feb-2003,Earth-616,Marvel,<100
+2102,Varga,Public,Neutral,Brown,Red,Male,Yes,3,Feb-1984,Earth-616,Marvel,<10
+2103,Elizabeth Kendal,Public,Neutral,Brown,Blond,Female,Yes,9,Jul-2003,Earth-616,Marvel,<10
+2104,Corbin,Public,Neutral,White,Brown,Male,Yes,1,Dec-1941,Earth-616,Marvel,<10
+2105,Andrea Hobbes,Secret,Neutral,Blue,Blond,Female,Yes,2,Mar-2005,Earth-616,Marvel,<10
+2106,Guido Carosella,Secret,Neutral,Brown,Bald,Male,Yes,236,Jul-1985,Earth-616,Marvel,<250
+2107,The Storyteller,Secret,Neutral,Blue,Bald,Male,Yes,3,Mar-2007,Earth-616,Marvel,<10
+2108,Solon Stabilizer,Public,Neutral,Blue,Black,Female,Yes,2,Dec-1981,Earth-616,Marvel,<10
+2109,Dal Damoc,Public,Neutral,Orange,White,Male,Yes,2,May-2010,Earth-616,Marvel,<10
+2110,Malik,Public,Neutral,Blue,Black,Male,Yes,1,Jan-1978,Earth-616,Marvel,<10
+2111,Guardian of Infinity,Public,Neutral,Yellow,No,Male,Yes,2,Feb-1971,Earth-616,Marvel,<10
+2112,TransHuman ROBot,Public,Neutral,Brown,White,Unknown,Yes,2,Feb-1988,Earth-616,Marvel,<10
+2113,Red Celestial,Non-dual,Neutral,Brown,No,Unknown,Yes,5,May-1990,Earth-616,Marvel,<10
+2114,Shou-Lao,Public,Neutral,Red,No,Male,Yes,21,Jul-1974,Earth-616,Marvel,<100
+2115,Simon Lestron,Public,Neutral,Brown,Brown,Male,Yes,6,Dec-1956,Earth-616,Marvel,<10
+2116,William Drake,Public,Neutral,Blue,Brown,Male,Yes,24,May-1968,Earth-616,Marvel,<100
+2117,Lenore Wilkinson,Non-dual,Neutral,Blue,Black,Female,Yes,8,Aug-2008,Earth-616,Marvel,<10
+2118,Defiler,Secret,Neutral,Brown,Red,Male,Yes,1,Nov-1988,Earth-616,Marvel,<10
+2119,Ralph Ratchit,Public,Neutral,Blue,Brown,Male,Yes,2,Dec-1984,Earth-616,Marvel,<10
+2120,Karasu-Tengu,Secret,Neutral,Black,Black,Female,Yes,13,Jan-2013,Earth-616,Marvel,<100
+2121,Piper,Secret,Neutral,Blue,Grey,Male,No,9,Jun-1985,Earth-616,Marvel,<10
+2122,Snake Dance,Public,Neutral,White,Black,Male,Yes,17,Feb-1973,Earth-616,Marvel,<100
+2123,Emily Osborn,Non-dual,Neutral,Blue,Brown,Female,No,6,Sep-1991,Earth-616,Marvel,<10
+2124,Susan Dean,Non-dual,Neutral,Variable,Black,Female,Yes,10,Jan-1988,Earth-616,Marvel,<10
+2125,Emrys Killebrew,Public,Neutral,Blue,Grey,Male,No,16,Aug-1994,Earth-616,Marvel,<100
+2126,Tony,Public,Neutral,Blue,Blond,Male,Yes,2,Oct-2004,Earth-616,Marvel,<10
+2127,Valinor,Public,Neutral,Brown,Black,Male,Yes,53,Mar-1979,Earth-616,Marvel,<100
+2128,Stranger,Secret,Neutral,White,White,Male,Yes,79,May-1965,Earth-616,Marvel,<100
+2129,Mistress Love,Secret,Neutral,Variable,Variable,Female,Yes,13,May-1982,Earth-616,Marvel,<100
+2130,Janice Caccone,Public,Neutral,Photocellular,White,Female,No,3,Nov-1974,Earth-616,Marvel,<10
+2131,Amy Stringer,Public,Neutral,Brown,Black,Female,No,1,Feb-2001,Earth-616,Marvel,<10
+2132,Jill,Secret,Neutral,Blue,Black,Female,No,1,Jan-1983,Earth-616,Marvel,<10
+2133,Reginald Harris,Public,Neutral,Brown,Brown,Male,Yes,1,Mar-2011,Earth-616,Marvel,<10
+2134,Gazer,Secret,Neutral,Green,Green,Male,No,12,Jun-2005,Earth-616,Marvel,<100
+2135,Lilith Drake,Secret,Neutral,Red,Black,Female,Yes,42,Jun-1974,Earth-616,Marvel,<100
+2136,Terrance Logan,Secret,Neutral,Blue,Bald,Male,Yes,1,Aug-1953,Earth-616,Marvel,<10
+2137,Bes,Non-dual,Neutral,Brown,Blond,Male,Yes,5,Dec-1988,Earth-616,Marvel,<10
+2138,Gilbert Benson,Secret,Neutral,Blue,Brown,Male,No,6,Aug-1991,Earth-616,Marvel,<10
+2139,Daniel Ketch,Secret,Neutral,Green,Brown,Male,Yes,311,May-1990,Earth-616,Marvel,<500
+2140,Klaus Fuchs,Public,Neutral,Brown,Brown,Male,Yes,1,Nov-2010,Earth-616,Marvel,<10
+2141,Fidel Castro,Non-dual,Neutral,Black,Black,Male,Yes,7,Jul-1967,Earth-616,Marvel,<10
+2142,Gina Mulligan,Non-dual,Neutral,Brown,Brown,Female,Yes,11,Sep-2004,Earth-616,Marvel,<100
+2143,Ensen,Public,Neutral,Blue,Brown,Male,Yes,1,Oct-1944,Earth-616,Marvel,<10
+2144,Delphic,Secret,Neutral,White,Black,Female,Yes,1,Jul-2011,Earth-616,Marvel,<10
+2145,Lenore Frankenstein,Public,Neutral,Brown,Black,Female,No,4,Jul-1974,Earth-616,Marvel,<10
+2146,Thomas Greaves,Secret,Neutral,Brown,Blond,Male,Yes,2,Jul-1993,Earth-616,Marvel,<10
+2147,Agent Q,Secret,Neutral,Green,Brown,Male,Yes,1,Sep-1972,Earth-616,Marvel,<10
+2148,Noah DuBois,Public,Neutral,Brown,Black,Male,No,18,Apr-1993,Earth-616,Marvel,<100
+2149,Ezekiel Sims,Non-dual,Neutral,Blue,Grey,Male,No,27,Jun-2001,Earth-616,Marvel,<100
+2150,Gregson Grant,Public,Neutral,Brown,Blond,Male,Yes,2,Nov-1972,Earth-616,Marvel,<10
+2151,Axel Cluney,Secret,Neutral,Blue,Blond,Male,No,8,Jul-2001,Earth-616,Marvel,<10
+2152,Ian Langstrom,Public,Neutral,Brown,Blond,Male,Yes,8,Jan-1994,Earth-616,Marvel,<10
+2153,Alan Quartermain,Non-dual,Neutral,Blue,Brown,Male,Yes,3,Mar-1988,Earth-616,Marvel,<10
+2154,Nikola Tesla,Secret,Neutral,Brown,Black,Male,Yes,12,Jun-2010,Earth-616,Marvel,<100
+2155,Vug,Secret,Neutral,Blue,No,Unknown,Yes,6,Feb-1991,Earth-616,Marvel,<10
+2156,Brian Talbot,Secret,Neutral,Grey,Black,Male,Yes,5,Sep-2007,Earth-616,Marvel,<10
+2157,Fader,Public,Neutral,Brown,White,Unknown,Yes,2,May-2002,Earth-616,Marvel,<10
+2158,Maria Russoff,Non-dual,Neutral,Blue,Red,Female,No,3,Jan-1975,Earth-616,Marvel,<10
+2159,Wendy Sherman,Secret,Neutral,Blue,White,Female,Yes,8,Jun-1986,Earth-616,Marvel,<10
+2160,Kiden Nixon,Secret,Neutral,Blue,Brown,Female,Yes,18,Nov-2003,Earth-616,Marvel,<100
+2161,Kemo,Public,Neutral,Black,Bald,Male,No,1,Mar-1979,Earth-616,Marvel,<10
+2162,Scotty McDowell,Secret,Neutral,Green,Brown,Male,Yes,16,Dec-1979,Earth-616,Marvel,<100
+2163,Beast,Secret,Neutral,Green,Brown,Male,Yes,5,Jan-2011,Earth-616,Marvel,<10
+2164,Balthakk,Secret,Neutral,No,No,Unknown,Yes,2,Nov-1999,Earth-616,Marvel,<10
+2165,Ashema,Public,Neutral,Brown,Blond,Female,Yes,8,Dec-1997,Earth-616,Marvel,<10
+2166,Blue Skye,Secret,Neutral,Brown,Black,Female,Yes,1,Jan-2000,Earth-616,Marvel,<10
+2167,John Greycrow,Secret,Neutral,Grey,Black,Male,Yes,83,Oct-1986,Earth-616,Marvel,<100
+2168,Robert Reynolds,Secret,Neutral,Blue,Blond,Male,Yes,240,Sep-2000,Earth-616,Marvel,<250
+2169,Supreme Intelligence,Non-dual,Neutral,Yellow,Green,Male,Yes,128,Aug-1967,Earth-616,Marvel,<250
+2170,Roderick Campbell,Secret,Neutral,Brown,Brown,Male,Yes,28,Dec-1993,Earth-616,Marvel,<100
+2171,Anne Weying,Non-dual,Neutral,Blue,Black,Female,No,20,Mar-1993,Earth-616,Marvel,<100
+2172,Martin Helling,Secret,Neutral,Hazel,Blond,Male,Yes,2,Mar-2013,Earth-616,Marvel,<10
+2173,Michael Whitecloud,Non-dual,Neutral,Brown,Brown,Male,No,4,Jul-1997,Earth-616,Marvel,<10
+2174,Flea,Public,Neutral,Orange,Black,Male,No,12,Jan-1973,Earth-616,Marvel,<100
+2175,Rama Kaliph,Non-dual,Neutral,Brown,Grey,Male,Yes,10,Sep-1965,Earth-616,Marvel,<10
+2176,Godfrey Calthrop,Secret,Neutral,Blue,Black,Male,Yes,2,Aug-2006,Earth-616,Marvel,<10
+2177,Carapace,Secret,Neutral,Blue,Black,Female,Yes,1,Jul-2010,Earth-616,Marvel,<10
+2178,Jonathan Garrett,Secret,Neutral,Brown,Brown,Male,Yes,31,Sep-1986,Earth-616,Marvel,<100
+2179,Buck Cashman,Secret,Neutral,Brown,Brown,Male,Yes,18,Jan-1988,Earth-616,Marvel,<100
+2180,Mustard,Secret,Neutral,Brown,No,Male,Yes,2,Feb-1993,Earth-616,Marvel,<10
+2181,Robyn Hood,Secret,Neutral,Brown,Red,Female,Yes,2,Sep-2012,Earth-616,Marvel,<10
+2182,Specs,Public,Neutral,Brown,Black,Male,Yes,1,Oct-2009,Earth-616,Marvel,<10
+2183,M-Nell,Secret,Neutral,Blue,Black,Male,Yes,6,Jan-1997,Earth-616,Marvel,<10
+2184,Oshemar,Secret,Neutral,Blue,No,Male,No,1,Jan-2012,Earth-616,Marvel,<10
+2185,Beetroot,Secret,Neutral,Pink,No,Male,No,1,Feb-1993,Earth-616,Marvel,<10
+2186,Ivan,Secret,Neutral,White,Blond,Male,Yes,4,Nov-2005,Earth-616,Marvel,<10
+2187,Mexxa Rien,Non-dual,Neutral,Brown,Blond,Female,Yes,2,Mar-1996,Earth-616,Marvel,<10
+2188,Splatter Gomorrah,Non-dual,Neutral,Brown,No,Male,Yes,2,Jun-2002,Earth-616,Marvel,<10
+2189,Alex Wildman,Non-dual,Neutral,Blue,Brown,Male,Yes,5,Jan-1993,Earth-616,Marvel,<10
+2190,Orksa,Non-dual,Neutral,White,No,Female,Yes,6,Apr-2011,Earth-616,Marvel,<10
+2191,Ben Maijus,Non-dual,Neutral,Green,Blond,Male,No,2,Feb-1952,Earth-616,Marvel,<10
+2192,Franz Schneider,Public,Neutral,Blue,White,Male,Yes,3,Feb-1978,Earth-616,Marvel,<10
+2193,Stringer,Public,Neutral,Brown,Brown,Male,No,3,Dec-2004,Earth-616,Marvel,<10
+2194,Bounty,Secret,Neutral,Brown,Black,Female,Yes,9,Feb-1999,Earth-616,Marvel,<10
+2195,Cammille Benally,Secret,Neutral,Brown,Brown,Female,Yes,39,Nov-2005,Earth-616,Marvel,<100
+2196,Sylvia,Public,Neutral,Brown,Black,Female,Yes,1,Aug-1990,Earth-616,Marvel,<10
+2197,Aegis,Secret,Neutral,White,No,Female,No,8,Aug-2006,Earth-616,Marvel,<10
+2198,John Cheever,Non-dual,Neutral,Green,Grey,Male,Yes,6,Sep-1978,Earth-616,Marvel,<10
+2199,Tiamut,Secret,Neutral,Red,No,Male,Yes,35,Dec-1977,Earth-616,Marvel,<100
+2200,Jack Starsmore,Secret,Neutral,Black,Black,Male,Yes,4,Apr-2006,Earth-616,Marvel,<10
+2201,Dymphna,Public,Neutral,Blue,Blond,Female,Yes,1,Oct-1994,Earth-616,Marvel,<10
+2202,Ed McMahon,Public,Neutral,Blue,Brown,Male,Yes,4,Jul-1967,Earth-616,Marvel,<10
+2203,Anzehlika Medvedev,Non-dual,Neutral,Blue,Black,Female,Yes,2,Jun-2002,Earth-616,Marvel,<10
+2204,Numa,Non-dual,Neutral,Black,Black,Male,Yes,1,Jul-1953,Earth-616,Marvel,<10
+2205,Dondi Reese,Public,Neutral,Grey,White,Female,Yes,8,Apr-2005,Earth-616,Marvel,<10
+2206,Abraham Lincoln,Secret,Neutral,Grey,Brown,Male,Yes,2,May-1982,Earth-616,Marvel,<10
+2207,Sandy Herkowitz,Non-dual,Neutral,Green,Blond,Female,Yes,2,May-1979,Earth-616,Marvel,<10
+2208,Agent of the Realm Between,Secret,Neutral,Red,Brown,Male,Yes,1,Jun-1974,Earth-616,Marvel,<10
+2209,Elvis Presley,Public,Neutral,Hazel,Brown,Male,Yes,5,Feb-1993,Earth-616,Marvel,<10
+2210,Marak,Public,Neutral,Brown,Black,Male,Yes,1,Mar-1982,Earth-616,Marvel,<10
+2211,Lisa Castle,Public,Neutral,Brown,Blond,Female,No,17,Aug-1975,Earth-616,Marvel,<100
+2212,Psyklop,Public,Neutral,Red,No,Male,Yes,14,May-1971,Earth-616,Marvel,<100
+2213,Vassily Khandruvitch,Non-dual,Neutral,Blue,Grey,Male,Yes,4,Oct-1979,Earth-616,Marvel,<10
+2214,Fiona Dunn,Secret,Neutral,Blue,Red,Female,No,2,Oct-2001,Earth-616,Marvel,<10
+2215,Barnaby Wade,Public,Neutral,White,Grey,Male,Yes,1,Apr-1957,Earth-616,Marvel,<10
+2216,Valeria,Non-dual,Neutral,Blue,Black,Female,No,8,May-1969,Earth-616,Marvel,<10
+2217,Sergei Kotzinin,Non-dual,Neutral,Blue,Black,Male,No,2,Jul-1979,Earth-616,Marvel,<10
+2218,Samuel Prydeman,Secret,Neutral,Brown,Brown,Male,No,1,Nov-1985,Earth-616,Marvel,<10
+2219,Carl,Secret,Neutral,Blue,White,Male,Yes,2,Dec-2004,Earth-616,Marvel,<10
+2220,Liam Connaughton,Public,Neutral,Blue,Red,Male,Yes,4,Sep-2002,Earth-616,Marvel,<10
+2221,Yukotujakzurjimozoata,Secret,Neutral,Black,Black,Male,Yes,14,May-2004,Earth-616,Marvel,<100
+2222,Juliana Jararaca,Public,Neutral,Brown,Blond,Female,Yes,1,Jul-2002,Earth-616,Marvel,<10
+2223,Helen Hale,Non-dual,Neutral,Grey,Brown,Female,No,1,Mar-1947,Earth-616,Marvel,<10
+2224,Malcolm Murphy,Secret,Neutral,Green,Orange,Male,Yes,18,Jan-1993,Earth-616,Marvel,<100
+2225,Jason,Secret,Neutral,Blue,Brown,Male,Yes,8,Sep-1993,Earth-616,Marvel,<10
+2226,Shalimar,Public,Neutral,Hazel,Bald,Male,Yes,1,Dec-1944,Earth-616,Marvel,<10
+2227,Trump,Secret,Neutral,Blue,Brown,Male,Yes,7,Nov-1987,Earth-616,Marvel,<10
+2228,Elias Spector,Non-dual,Neutral,Brown,White,Male,Yes,2,May-1984,Earth-616,Marvel,<10
+2229,Carlos LaMuerto,Public,Neutral,Brown,Black,Male,Yes,43,Jan-1997,Earth-616,Marvel,<100
+2230,"Joseph Danvers, Sr.",Secret,Neutral,Brown,Brown,Male,Yes,5,Jan-1978,Earth-616,Marvel,<10
+2231,Prudence Leighton,Secret,Neutral,Blue,Blond,Female,No,3,Jun-2003,Earth-616,Marvel,<10
+2232,Dorma,Non-dual,Neutral,Blue,Auburn,Female,No,113,Oct-1939,Earth-616,Marvel,<250
+2233,Abraham Klein,Non-dual,Neutral,Brown,White,Male,No,15,Jan-1976,Earth-616,Marvel,<100
+2234,Ula,Public,Neutral,Brown,Black,Female,Yes,5,Jan-1966,Earth-616,Marvel,<10
+2235,SJ3RX,Secret,Neutral,Silver,No,Male,Yes,26,Jan-1978,Earth-616,Marvel,<100
+2236,Dirk Anger,Non-dual,Neutral,Blue,Brown,Male,Yes,9,Mar-2006,Earth-616,Marvel,<10
+2237,Star Child,Secret,Neutral,Red,No,Unknown,Yes,5,Dec-2010,Earth-616,Marvel,<10
+2238,Angela,Non-dual,Neutral,Brown,Brown,Female,Yes,1,Feb-2003,Earth-616,Marvel,<10
+2239,Smicky,Public,Neutral,Blue,No,Male,Yes,1,Nov-2010,Earth-616,Marvel,<10
+2240,Jake Miller,Secret,Neutral,Grey,Brown,Male,No,1,Jul-1991,Earth-616,Marvel,<10
+2241,Ebeneezer Wallaby,Public,Neutral,Green,Grey,Male,Yes,1,Aug-1967,Earth-616,Marvel,<10
+2242,Margus,Secret,Neutral,Green,Brown,Unknown,No,8,Aug-1962,Earth-616,Marvel,<10
+2243,Xepdgin,Public,Neutral,Black,Blond,Male,No,2,Aug-1975,Earth-616,Marvel,<10
+2244,Cecilia Johnson,Public,Neutral,Yellow,Blond,Female,Yes,1,Dec-1941,Earth-616,Marvel,<10
+2245,Jacob Wallaby,Secret,Neutral,Photocellular,Brown,Male,Yes,2,Jan-1978,Earth-616,Marvel,<10
+2246,Olaf Olsen,Secret,Neutral,White,Brown,Male,No,1,Aug-1943,Earth-616,Marvel,<10
+2247,Louis,Non-dual,Neutral,Hazel,Blond,Male,Yes,1,Feb-2003,Earth-616,Marvel,<10
+2248,Baal,Secret,Neutral,Brown,Bald,Male,No,2,Oct-1996,Earth-616,Marvel,<10
+2249,Rojas,Non-dual,Neutral,Brown,Black,Female,No,3,Feb-2004,Earth-616,Marvel,<10
+2250,Dante Ortega,Secret,Neutral,Brown,Black,Male,Yes,2,Dec-2003,Earth-616,Marvel,<10
+2251,Josh Arndt,Public,Neutral,Brown,Black,Male,Yes,6,Jun-2003,Earth-616,Marvel,<10
+2252,Ezekiel Stane,Secret,Neutral,Brown,Bald,Male,Yes,33,Apr-2008,Earth-616,Marvel,<100
+2253,Hunk Larken,Public,Neutral,Yellow,Bald,Male,Yes,2,May-1961,Earth-616,Marvel,<10
+2254,Ksenia Nadejda Panov,Secret,Neutral,Brown,White,Female,No,1,Jan-2013,Earth-616,Marvel,<10
+2255,Noah Crane,Public,Neutral,Black,White,Male,Yes,1,Mar-1946,Earth-616,Marvel,<10
+2256,Jonathan Rich,Public,Neutral,Green,Black,Male,Yes,5,Feb-1977,Earth-616,Marvel,<10
+2257,Avia,Secret,Neutral,Red,No,Female,Yes,13,Jan-2000,Earth-616,Marvel,<100
+2258,Buzz McMahon,Public,Neutral,White,Brown,Male,Yes,2,Dec-2005,Earth-616,Marvel,<10
+2259,Gordon Phillips,Public,Neutral,Blue,Grey,Male,No,1,Sep-2001,Earth-616,Marvel,<10
+2260,Selena Slate,Secret,Neutral,Variable,Variable,Female,Yes,2,Jul-1992,Earth-616,Marvel,<10
+2261,Valentina Allegra de Fontaine,Secret,Neutral,Blue,Black,Female,Yes,176,Aug-1967,Earth-616,Marvel,<250
+2262,Watcher of Sector 14X,Public,Neutral,Gold,Bald,Male,Yes,1,Oct-1964,Earth-616,Marvel,<10
+2263,Frank Ludlum,Secret,Neutral,Black,Blond,Male,Yes,1,Oct-2005,Earth-616,Marvel,<10
+2264,Horodowsky,Public,Neutral,Blue,Black,Male,No,1,Jul-2010,Earth-616,Marvel,<10
+2265,Nut,Public,Neutral,Brown,Bald,Female,Yes,5,Nov-1975,Earth-616,Marvel,<10
+2266,Magnetic Man,Public,Neutral,Black,Black,Male,Yes,1,Jul-2011,Earth-616,Marvel,<10
+2267,Mrs. Berdeaux,Public,Neutral,Red,Red,Female,Yes,1,Aug-2004,Earth-616,Marvel,<10
+2268,Fazekas,Public,Neutral,Black,Black,Male,Yes,1,Dec-2008,Earth-616,Marvel,<10
+2269,Loki Laufeyson,Non-dual,Neutral,Green,Black,Genderfluid,Yes,532,Aug-1949,Earth-616,Marvel,<750
+2270,Hector Lennox,Secret,Neutral,Blue,Black,Male,Yes,14,Nov-1986,Earth-616,Marvel,<100
+2271,George Pelham,Secret,Neutral,Black,Grey,Male,Yes,3,Jun-2007,Earth-616,Marvel,<10
+2272,Esau Shaw,Secret,Neutral,Blue,Black,Male,No,2,Mar-2000,Earth-616,Marvel,<10
+2273,Laura Lipton,Public,Neutral,Blue,Brown,Female,Yes,4,Jan-1991,Earth-616,Marvel,<10
+2274,Goat-Child,Secret,Neutral,Yellow,Black,Unknown,Yes,4,May-1976,Earth-616,Marvel,<10
+2275,Terence Gerard,Public,Neutral,Blue,Brown,Male,Yes,1,Nov-1998,Earth-616,Marvel,<10
+2276,Stanley George Johnson,Secret,Neutral,Blue,Brown,Male,Yes,3,Oct-1984,Earth-616,Marvel,<10
+2277,Cheesecake,Secret,Neutral,Green,Black,Female,Yes,5,Mar-2007,Earth-616,Marvel,<10
+2278,Adria Walker,Non-dual,Neutral,Brown,Black,Female,Yes,3,Sep-1987,Earth-616,Marvel,<10
+2279,Megan Hoyden,Secret,Neutral,Grey,Black,Female,No,2,Jun-2007,Earth-616,Marvel,<10
+2280,Toxin,Secret,Neutral,Variable,No,Genderless,Yes,25,Oct-2004,Earth-616,Marvel,<100
+2281,Elena,Secret,Neutral,White,Blond,Female,No,5,Nov-2005,Earth-616,Marvel,<10
+2282,Matt Corbin,Public,Neutral,Black,No,Male,Yes,1,Aug-2002,Earth-616,Marvel,<10
+2283,Trace Miller,Non-dual,Neutral,Brown,Black,Male,Yes,2,Aug-1994,Earth-616,Marvel,<10
+2284,Conrad Strathdee,Secret,Neutral,Black,Black,Male,Yes,1,May-1996,Earth-616,Marvel,<10
+2285,Nohm,Secret,Neutral,Blue,Black,Unknown,Yes,1,Feb-1996,Earth-616,Marvel,<10
+2286,Desmond Pitt,Secret,Neutral,Brown,Bald,Male,Yes,15,Jan-1974,Earth-616,Marvel,<100
+2287,Monte,Secret,Neutral,Blue,Green,Male,Yes,1,Sep-1992,Earth-616,Marvel,<10
+2288,Sam Palmer,Public,Neutral,Brown,Brown,Male,Yes,1,Jan-2004,Earth-616,Marvel,<10
+2289,Chtylok,Secret,Neutral,Red,Brown,Male,Yes,6,Feb-1997,Earth-616,Marvel,<10
+2290,Marvel Girl,Secret,Neutral,Blue,Red,Female,Yes,5,Jan-2011,Earth-616,Marvel,<10
+2291,"Joseph Danvers, Jr.",Secret,Neutral,Blue,Blond,Male,Yes,2,Jan-1978,Earth-616,Marvel,<10
+2292,Braggadoom,Public,Neutral,Red,No,Male,Yes,2,Jan-1976,Earth-616,Marvel,<10
+2293,Theoren Marceaux,Secret,Neutral,Brown,Black,Male,Yes,2,May-2000,Earth-616,Marvel,<10
+2294,Marcel Fournier,Public,Neutral,Green,Brown,Male,No,5,Nov-1995,Earth-616,Marvel,<10
+2295,Romany Wisdom,Secret,Neutral,Blue,Black,Female,No,8,Oct-1996,Earth-616,Marvel,<10
+2296,Nicholas Brown,Non-dual,Neutral,Brown,Grey,Male,No,6,Oct-1982,Earth-616,Marvel,<10
+2297,Megan Kinney,Secret,Neutral,Green,Blond,Female,Yes,9,Mar-2005,Earth-616,Marvel,<10
+2298,Yukio,Non-dual,Neutral,Brown,Black,Female,Yes,68,Sep-1982,Earth-616,Marvel,<100
+2299,Manx,Secret,Neutral,Brown,Brown,Male,Yes,2,Dec-1993,Earth-616,Marvel,<10
+2300,Tom Privetire,Non-dual,Neutral,Blue,Brown,Male,Yes,6,Jul-1987,Earth-616,Marvel,<10
+2301,Bogat,Secret,Neutral,Black,Orange,Male,Yes,2,Apr-1941,Earth-616,Marvel,<10
+2302,Qwerty,Secret,Neutral,Brown,No,Female,No,1,Nov-2007,Earth-616,Marvel,<10
+2303,Clarence Fielding,Public,Neutral,Black,Brown,Male,Yes,4,Mar-1998,Earth-616,Marvel,<10
+2304,Sam Yates,Public,Neutral,Black,No,Male,Yes,22,Jan-1968,Earth-616,Marvel,<100
+2305,Goblin,Secret,Neutral,Blue,Black,Male,Yes,1,Nov-1982,Earth-616,Marvel,<10
+2306,Kyrie,Secret,Neutral,Blue,Brown,Female,Yes,3,Jun-1982,Earth-616,Marvel,<10
+2307,Jumbo Carnation,Public,Neutral,Brown,Bald,Male,No,1,Jan-2003,Earth-616,Marvel,<10
+2308,Frederick Hudson,Public,Neutral,Green,Brown,Male,No,2,Apr-2009,Earth-616,Marvel,<10
+2309,Jerry Brown,Non-dual,Neutral,Brown,Grey,Male,Yes,3,Oct-1976,Earth-616,Marvel,<10
+2310,Karen Anderson,Public,Neutral,Blue,Brown,Female,Yes,3,Jul-2011,Earth-616,Marvel,<10
+2311,Marissa Paulsen,Secret,Neutral,Green,Black,Female,Yes,2,Feb-1994,Earth-616,Marvel,<10
+2312,Helene Panayiotou,Public,Neutral,Brown,Black,Female,Yes,6,Jun-2011,Earth-616,Marvel,<10
+2313,Dorma,Secret,Neutral,Blue,Auburn,Female,Yes,5,Apr-1991,Earth-616,Marvel,<10
+2314,Ella Pinkwater,Secret,Neutral,Blue,Blond,Female,Yes,2,Mar-1991,Earth-616,Marvel,<10
+2315,Bernice,Non-dual,Neutral,Green,Auburn,Female,No,1,Apr-2009,Earth-616,Marvel,<10
+2316,Jo,Secret,Neutral,Brown,Brown,Female,Yes,2,Mar-1984,Earth-616,Marvel,<10
+2317,Terrance Sorenson,Public,Neutral,Brown,Bald,Male,Yes,20,Jul-1974,Earth-616,Marvel,<100
+2318,Elise Bloodstone,Public,Neutral,Orange,Black,Female,No,4,Dec-2001,Earth-616,Marvel,<10
+2319,Koln,Public,Neutral,Yellow,No,Unknown,Yes,1,Jul-1991,Earth-616,Marvel,<10
+2320,Jeanne Chretien,Secret,Neutral,Blue,Blond,Female,Yes,2,Dec-1985,Earth-616,Marvel,<10
+2321,Colin Muldowney,Public,Neutral,Blue,Black,Male,Yes,2,Feb-1997,Earth-616,Marvel,<10
+2322,Rodney Adams,Public,Neutral,Blue,Blond,Male,Yes,1,Mar-1946,Earth-616,Marvel,<10
+2323,Feldspar,Public,Neutral,Brown,Blond,Male,Yes,9,May-1983,Earth-616,Marvel,<10
