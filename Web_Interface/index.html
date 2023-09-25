@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marvel vs DC</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+</head>
+<body>
+    <header>
+        <h1></h1>
+    </header>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Alignment</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+</head>
+<body>
+    <header>
+        <h2>Character Alignment Lookup</h2>
+    </header>
+    <main>
+        <section id="search">
+            <h3>Search for a Character</h3>
+            <form id="character-search-form">
+                <input type="text" id="character-name" placeholder="Enter character name">
+                <button id="search-button">Search</button>
+            </form>
+        </section>
+        <section id="results">
+            <!-- Display search results here -->
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Character Analysis</title>
+    <link rel="stylesheet"  href="styles.css">
+</head>
+<body>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <h2>Character Analysis</h2>
+    <div class="search-form">
+        <label for="startYear">Start Year:</label>
+        <input type="number" id="startYear" placeholder="Enter start year">
+        <label for="endYear">End Year:</label>
+        <input type="number" id="endYear" placeholder="Enter end year">
+        <button id="search-button">Search</button>
+    </div>
+    <div class="results">
+        <h3>Results:</h3>
+        <div id="resultContainer">
+            <!-- Results will be displayed here -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comic Character Comparison</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h2>Comic Character Comparison</h2>
+    </header>
+    <main>
+        <section id="search-section">
+            <h2>Search for Characters</h2>
+            <form id="search-form">
+                <input type="text" id="character-name" placeholder="Enter character name">
+                <button id="search-button">Search</button>
+            </form>
+        </section>
+        <section id="result-section">
+            <h3>Results</h3>
+            <div id="result-container"></div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Film MPA Rating Analysis</title>
+    <!-- Include Chart.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header>
+        <h2>Film MPA Rating Analysis</h2>
+    </header>
+    <main>
+        <div class="search-form">
+            <label for="mpa-rating">Select MPA Rating:</label>
+            <select id="mpa-rating">
+                <option value="G">G</option>
+                <option value="PG">PG</option>
+                <option value="PG-13">PG-13</option>
+                <option value="R">R</option>
+                <option value="NC-17">NC-17</option>
+            </select>
+            <button id="search-button">Search</button>
+        </div>
+        <div class="results">
+            <!-- Results will be displayed here -->
+            <canvas id="bar-chart"></canvas> <!-- Add a canvas for the bar chart -->
+        </div>
+    </main>
+    <script>
+        // JavaScript code for fetching data and creating the bar chart
+        document.addEventListener("DOMContentLoaded", function () {
+            const searchButton = document.getElementById("search-button");
+            const mpaRatingSelect = document.getElementById("mpa-rating");
+            const resultsContainer = document.querySelector(".results");
+            const chartCanvas = document.getElementById("bar-chart").getContext("2d");
+            let myChart; // Variable to store the chart instance
+
+            searchButton.addEventListener("click", async () => {
+                const selectedRating = mpaRatingSelect.value;
+
+                // Make an API call to Flask backend to get results
+                try {
+                    const response = await fetch(`/api/mpa_rating_performance=${selectedRating}`);
+                    if (!response.ok) {
+                        throw new Error(`HTTP Error! Status: ${response.status}`);
+                    }
+
+                    const data = await response.json();
+
+                    // Extract film titles and box office values
+                    const filmTitles = data.map(film => film.title);
+                    const boxOfficeValues = data.map(film => film.boxOffice);
+
+                    // Clear previous chart
+                    if (myChart) {
+                        myChart.destroy();
+                    }
+
+                    // Create a bar chart
+                    myChart = new Chart(chartCanvas, {
+                        type: 'bar',
+                        data: {
+                            labels: filmTitles,
+                            datasets: [{
+                                label: 'Box Office',
+                                data: boxOfficeValues,
+                                backgroundColor: 'rgba(75, 192, 192, 0.2)', 
+                                borderColor: 'rgba(75, 192, 192, 1)', 
+                                borderWidth: 1, 
+                            }]
+                        },
+                        options: {
+                            scales: {
+                                y: {
+                                    beginAtZero: true
+                                }
+                            }
+                        }
+                    });
+
+                } catch (error) {
+                    console.error("Error:", error);
+                }
+            });
+        });
+    </script>
+</body>
+</html>
