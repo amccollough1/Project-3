@@ -7,7 +7,7 @@ document.getElementById("character-search-form").addEventListener("submit", func
     const characterName = document.getElementById("character-name").value;
 
     // Make an API call to  Flask backend to analyze character alignment
-    fetch(`/api/character_alignment?name=${characterName}`)
+    fetch("#http://127.0.0.1:5000/api/character_identity_influence")
         .then(response => response.json())
         .then(data => {
             const resultSection = document.getElementById("result-section");
@@ -26,7 +26,7 @@ document.getElementById("character-search-form").addEventListener("submit", func
                         datasets: [
                             {
                                 label: "Character Alignment",
-                                data: [data.alignmentScore], 
+                                data: [data.alignmentScore], //  need to define a score based on alignment
                                 backgroundColor: "rgba(75, 192, 192, 0.2)",
                                 borderColor: "rgba(75, 192, 192, 1)",
                                 borderWidth: 1,
@@ -65,7 +65,7 @@ function searchCharacters() {
 }
 
   // Make an API call to your Flask backend
-  fetch(`/api/character_count_over_time=${startYear}&endYear=${endYear}`)
+  fetch(`#http://127.0.0.1:5000/api/character_count_over_time?start_year=2000&end_year=&universe=both&alignment=Good`)
       .then(response => response.json())
       .then(data => {
           displayResults(data);
@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const characterName = document.getElementById('character-name').value;
         
         // Make an API call to your Flask backend
-        const response = await fetch(`/api/compare_appearances_and_films=${characterName}`);
+        const response = await fetch("#http://127.0.0.1:5000/api/character_count_over_time?start_year=2000&end_year=&universe=both&alignment=Good");
         const data = await response.json();
   
         // Clear previous results and chart
@@ -185,7 +185,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       // Make an API call to Flask backend to get results
       try {
-          const response = await fetch(`/api/mpa_rating_performance=${selectedRating}`);
+          const response = await fetch("@app.route('/api/mpa_rating_performance', methods=['GET'])\n");
           if (!response.ok) {
               throw new Error(`HTTP Error! Status: ${response.status}`);
           }
