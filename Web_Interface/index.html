@@ -153,7 +153,7 @@
 
                 // Make an API call to Flask backend to get results
                 try {
-                    const response = await fetch(`/api/mpa_rating_performance=${selectedRating}`);
+                    const response = await fetch(`/api/mpa_rating_performance`);
                     if (!response.ok) {
                         throw new Error(`HTTP Error! Status: ${response.status}`);
                     }
