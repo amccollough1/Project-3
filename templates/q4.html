@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/static/styles.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.4.0.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <title>Marvel Vs DC Analyses</title>
+</head>
+<body>
+    <div class="topnav">
+        <a class="active" href="/">Home</a> <!-- Update this line -->
+        <a href="/q1.html">Character Alignment Analyses</a>
+        <a href="/q2.html">Character Count Analyses</a>
+        <a href="/q3.html">Characters Appearances and Films</a>
+        <a href="/q4.html">Film MPA Analyses</a>
+    </div>
+    <div id="mpa-rating-section">
+        <h3>MPA Rating Performance Analysis</h3>
+        <label for="mpa-rating">Select MPA Rating:</label>
+        <select id="option1">
+
+            <option value="PG">PG</option>
+            <option value="PG-13">PG-13</option>
+            <option value="R">R</option>
+        </select>
+        <select id="option2">
+
+            <option value="PG">PG</option>
+            <option value="PG-13">PG-13</option>
+            <option value="R">R</option>
+        </select>
+        <button id="generate-chart">Generate Statistics</button>
+        <button id="clear-chart" onclick="clearChart()">Clear Statistics</button>
+        <div class="results">
+			<div id="chart-section">
+				<h3>MPA Rating Gross Income Comparison</h3>
+					<div class="chart-container">
+						<canvas id="mpa-rating-chart">
+							<img id="mpa-chart-image" src="/static/matplotlib_chart.png" alt="MPA Rating Chart">
+						</canvas>
+					</div>
+			</div>
+                <h4>Gross Income Statistics:</h4>
+                <p id="mean_mpa1">Mean Gross Income for MPA 1: </p>
+                <p id="mean_mpa2">Mean Gross Income for MPA 2: </p>
+                <p id="median_mpa1">Median Gross Income for MPA 1: </p>
+                <p id="median_mpa2">Median Gross Income for MPA 2: </p>
+                <p id="mode_mpa1">Mode Gross Income for MPA 1: </p>
+                <p id="mode_mpa2">Mode Gross Income for MPA 2: </p>
+
+                <h4>IMDb Rating Statistics:</h4>
+                <p id="mean_imdb_mpa1">Mean IMDb Rating for MPA 1: </p>
+                <p id="mean_imdb_mpa2">Mean IMDb Rating for MPA 2: </p>
+                <p id="median_imdb_mpa1">Median IMDb Rating for MPA 1: </p>
+                <p id="median_imdb_mpa2">Median IMDb Rating for MPA 2: </p>
+                <p id="mode_imdb_mpa1">Mode IMDb Rating for MPA 1: </p>
+                <p id="mode_imdb_mpa2">Mode IMDb Rating for MPA 2: </p>
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+let mpaRatingChart;
+        document.addEventListener('DOMContentLoaded', function () {
+            const chartButton = document.getElementById('generate-chart');
+            chartButton.addEventListener('click', searchAndGenerateStatistics);
+        });
+function createOrUpdateBarChart(labels, values1, values2, selectedMPA1, selectedMPA2) {
+    const ctx = document.getElementById('mpa-rating-chart').getContext('2d');
+
+    if (mpaRatingChart) {
+        mpaRatingChart.data.labels = labels;
+        mpaRatingChart.data.datasets[0].data = values1;
+        mpaRatingChart.data.datasets[1].data = values2;
+        mpaRatingChart.data.datasets[0].label = 'Gross Income - ' + selectedMPA1;
+        mpaRatingChart.data.datasets[1].label = 'Gross Income - ' + selectedMPA2;
+        mpaRatingChart.update();
+    } else {
+        mpaRatingChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                        label: 'Gross Income - ' + selectedMPA1,
+                        data: values1,
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        borderWidth: 1
+                    },
+                    {
+                        label: 'Gross Income - ' + selectedMPA2,
+                        data: values2,
+                        backgroundColor: 'rgba(192, 75, 192, 0.2)',
+                        borderColor: 'rgba(192, 75, 192, 1)',
+                        borderWidth: 1
+                    }
+                ]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    }
+}
+function searchAndGenerateChart() {
+    const selectedMPA1 = document.getElementById('option1').value;
+    const selectedMPA2 = document.getElementById('option2').value;
+
+    axios.get(`/generate_chart?mpa_rating1=${selectedMPA1}&mpa_rating2=${selectedMPA2}`)
+        .then(response => {
+            const imageUrl = response.data.image_url;
+            document.getElementById('mpa-chart-image').src = imageUrl;
+
+            // Call createOrUpdateBarChart with selectedMPA1
+            createOrUpdateBarChart(labels, values1, values2, selectedMPA1);
+        })
+        .catch(error => console.error('Error:', error));
+}
+document.addEventListener('DOMContentLoaded', function () {
+    const chartButton = document.getElementById('generate-chart');
+    chartButton.addEventListener('click', searchAndGenerateChart);
+});
+
+        function searchAndGenerateStatistics() {
+            const selectedMPA1 = document.getElementById('option1').value;
+            const selectedMPA2 = document.getElementById('option2').value;
+
+            // Make API call to get statistics
+            axios.get(`/generate_chart?mpa_rating1=${selectedMPA1}&mpa_rating2=${selectedMPA2}`)
+                .then(response => {
+                    const statistics = response.data;
+
+                    // Update the DOM with statistics
+                    document.getElementById('mean_mpa1').innerText = `Mean Gross Income for MPA 1: $${statistics.mean_mpa1}`;
+                    document.getElementById('mean_mpa2').innerText = `Mean Gross Income for MPA 2: $${statistics.mean_mpa2}`;
+                    document.getElementById('median_mpa1').innerText = `Median Gross Income for MPA 1: $${statistics.median_mpa1}`;
+                    document.getElementById('median_mpa2').innerText = `Median Gross Income for MPA 2: $${statistics.median_mpa2}`;
+                    document.getElementById('mode_mpa1').innerText = `Mode Gross Income for MPA 1: $${statistics.mode_mpa1}`;
+                    document.getElementById('mode_mpa2').innerText = `Mode Gross Income for MPA 2: $${statistics.mode_mpa2}`;
+
+                    document.getElementById('mean_imdb_mpa1').innerText = `Mean IMDb Rating for MPA 1: ${statistics.mean_imdb_mpa1}`;
+                    document.getElementById('mean_imdb_mpa2').innerText = `Mean IMDb Rating for MPA 2: ${statistics.mean_imdb_mpa2}`;
+                    document.getElementById('median_imdb_mpa1').innerText = `Median IMDb Rating for MPA 1: ${statistics.median_imdb_mpa1}`;
+                    document.getElementById('median_imdb_mpa2').innerText = `Median IMDb Rating for MPA 2: ${statistics.median_imdb_mpa2}`;
+                    document.getElementById('mode_imdb_mpa1').innerText = `Mode IMDb Rating for MPA 1: ${statistics.mode_imdb_mpa1}`;
+                    document.getElementById('mode_imdb_mpa2').innerText = `Mode IMDb Rating for MPA 2: ${statistics.mode_imdb_mpa2}`;
+                })
+                .catch(error => console.error('Error:', error));
+        }
+console.log('Image URL:', imageUrl);
+document.getElementById('mpa-chart-image').src = imageUrl;
+        function clearChart() {
+            // Clear the statistics
+            const statisticElements = document.querySelectorAll('#statistics p');
+            statisticElements.forEach(element => {
+                element.innerText = '';
+            });
+        }
+    </script>
+</body>
+</html>

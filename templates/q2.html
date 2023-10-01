@@ -1,0 +1,98 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/static/styles.css">
+    <title>Marvel Vs DC Analyses</title>
+    <!-- Include Chart.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+ <body>
+ <div class="topnav">
+    <a class="active" href="/">Home</a> <!-- Update this line -->
+    <a href="/q1.html">Character Alignment Analyses</a>
+    <a href="/q2.html">Character Count Analyses</a>
+    <a href="/q3.html">Characters Appearances and Films</a>
+    <a href="/q4.html">Film MPA Analyses</a>
+</div>
+ <!-- 2. How does the number of good vs bad characters change over x period of years in both DC and Marvel? -->
+        <div id="character-count-section">
+            <h3>Character Count Analysis</h3>
+			<form id="character-search-form" onsubmit="searchCharacterQ2(event)">
+				<label for="character-name">Character Name:</label>
+				<input type="text" id="character-name" placeholder="Enter character name">
+				<button type="submit">Search</button>
+			</form>
+			<div id="result-section" style="display: none;">
+				<p id="appearance-result"></p>
+				<canvas id="appearance-chart"></canvas>
+			</div>
+        </div>
+
+	<script src="/static/script.js">
+	
+	function fetchUniqueCharacterData() {
+    fetch('/distinct_characters')
+        .then(response => response.json())
+        .then(data => {
+            const characterDropdown = document.getElementById('character-dropdown');
+            characterDropdown.innerHTML = '';  // Clear previous options
+
+            data.forEach(item => {
+                const option = document.createElement('option');
+                option.value = item._id;  // Character name
+                option.textContent = `${item._id} (${item.Appearances})`;  // Displayed as "Character Name (Appearances)"
+                characterDropdown.appendChild(option);
+            });
+        })
+        .catch(error => console.error('Error fetching unique character data:', error));
+		
+function searchCharacterQ2(event) {
+    event.preventDefault();
+    const characterName = document.getElementById('character-name').value;
+
+    fetch(`/character_search?character_name=${characterName}`)
+        .then(response => response.json())
+        .then(data => {
+            const resultSection = document.getElementById('result-section');
+            const appearanceResult = document.getElementById('appearance-result');
+
+            // Clear previous content
+            appearanceResult.innerHTML = '';
+
+            if (data.error) {
+                // Display the error message
+                appearanceResult.innerHTML = `<p style="color: red;">${data.error}</p>`;
+            } else {
+                // Display each unique character name with their appearances
+                appearanceResult.innerHTML = '<ul>';  // Start unordered list
+                const uniqueCharacterData = new Map();
+                data.forEach(instance => {
+                    const name = instance.Name;
+                    const appearances = instance.Appearances;
+                    if (!uniqueCharacterData.has(name)) {
+                        uniqueCharacterData.set(name, appearances);
+                    }
+                });
+                uniqueCharacterData.forEach((appearances, name) => {
+                    appearanceResult.innerHTML += `<li>${name} (${appearances})</li>`;
+                });
+                appearanceResult.innerHTML += '</ul>';  // End unordered list
+            }
+
+            // Always display the result section
+            resultSection.style.display = 'block';
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            const resultSection = document.getElementById('result-section');
+            resultSection.style.display = 'block';
+            const appearanceResult = document.getElementById('appearance-result');
+            appearanceResult.innerHTML = `<p style="color: red;">An error occurred. Please try again.</p>`;
+        });
+}
+	
+	</script>
+</body>
+</html>

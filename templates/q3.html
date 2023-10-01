@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/static/styles.css">
+    <title>Marvel Vs DC Analyses</title>
+</head>
+<body>
+<div class="topnav">
+    <a class="active" href="/">Home</a> <!-- Update this line -->
+    <a href="/q1.html">Character Alignment Analyses</a>
+    <a href="/q2.html">Character Count Analyses</a>
+    <a href="/q3.html">Characters Appearances and Films</a>
+    <a href="/q4.html">Film MPA Analyses</a>
+</div>
+		<!-- 3. How does the number of appearances in DC/Marvel comics compare to the films released? -->
+<div id="result-container">
+    <h3>Character Appearances and Films</h3>
+    <form id="search-form">
+        <label for="character-name">Character Name:</label>
+        <input type="text" id="character-name" placeholder="Enter character name">
+        <button type="submit">Search</button>
+    </form>
+    <ul id="movie-result"></ul>
+</div>
+		
+<script>
+function searchCharacter(event) {
+    event.preventDefault();
+    const characterName = document.getElementById('character-name').value;
+
+    fetch(`/search_movies?hero_name=${characterName}`)
+        .then(response => response.json())
+        .then(data => {
+            const movieResult = document.getElementById('movie-result');
+            movieResult.innerHTML = '';  // Clear previous content
+
+            const uniqueTitles = new Set();
+
+            data.movies_containing_hero.forEach(movie => {
+                uniqueTitles.add(movie);
+            });
+
+            uniqueTitles.forEach(movie => {
+                const movieItem = document.createElement('li');
+                movieItem.textContent = movie;
+                movieResult.appendChild(movieItem);
+            });
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            const movieResult = document.getElementById('movie-result');
+            movieResult.innerHTML = `<p style="color: red;">An error occurred. Please try again.</p>`;
+        });
+}
+
+document.getElementById('search-form').addEventListener('submit', searchCharacter);
+</script>
+</body>
+</html>
